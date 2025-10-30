@@ -50,5 +50,101 @@ rtmp://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac
 #EXTINF:-1 tvg-id="17" tvg-name="ANALY CINEMA" group-title="Local", ANALY CINEMA
 http://198.144.149.206:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
 
-#EXTINF:-1 tvg-id="17" tvg-name="ITHAL" group-title="Local", ITHAL
+#EXTINF:-1 tvg-id="18" tvg-name="ITHAL" group-title="Local", ITHAL
 rtmp://148.113.170.17/static/ithal
+
+#EXTINF:-1 tvg-id="19" tvg-name="KRISHNA TV ERODE" group-title="Local",KRISHNA TV ERODE
+http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="20" tvg-name="TV1" group-title="Local", TV1
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:5c:e6:ef&stream=1019905&extension=ts&play_token=1L7gZ23uW3
+
+#EXTINF:-1 tvg-id="21" tvg-name="TV2" group-title="Local", TV2
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:5c:e6:ef&stream=1019911&extension=ts&play_token=YKJl3uLRT5
+
+#EXTINF:-1 tvg-id="22" tvg-name="TV3" group-title="Local", TV3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734185&extension=ts&play_token=fx2dqiDWHw
+
+#EXTINF:-1 tvg-id="23" tvg-name="TV4" group-title="Local", TV4
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734186&extension=ts&play_token=I70fhu6Ers
+
+#EXTINF:-1 tvg-id="24" tvg-name="TV5" group-title="Local", TV5
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734174&extension=ts&play_token=Hn3pAViflO
+
+#EXTINF:-1 tvg-id="25" tvg-name="TV6" group-title="Local", TV6
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734175&extension=ts&play_token=rWRhTbyexY
+
+#EXTINF:-1 tvg-id="26" tvg-name="TV7" group-title="Local", TV7
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734160&extension=ts&play_token=w9RXNuUGOz
+
+#EXTINF:-1 tvg-id="27" tvg-name="TV8" group-title="Local", TV8
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734172&extension=ts&play_token=EKUtz6qxXN
+
+#EXTINF:-1 tvg-id="28" tvg-name="TV9" group-title="Local", TV9
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734169&extension=ts&play_token=iJtskXofsK
+
+#EXTINF:-1 tvg-id="29" tvg-name="TV10" group-title="Local", TV10
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734163&extension=ts&play_token=73p0A17uzE
+
+#EXTINF:-1 tvg-id="30" tvg-name="TV11" group-title="Local", TV11
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734159&extension=ts&play_token=RWiDZWSEiy
+
+#EXTINF:-1 tvg-id="31" tvg-name="TV12" group-title="Local", TV12
+http://mag.trexlive.me/play/live.php?mac=00:1A:79:5c:e6:ef&stream=1019913&extension=ts&play_token=
+
+#EXTINF:-1 tvg-id="32" tvg-name="TV13" group-title="Local", TV13
+https://xtm.8088yyy.workers.dev/475474.m3u8
+
+#EXTINF:-1 tvg-id="33" tvg-name="TV14" group-title="Local", TV14
+https://xtm.8088yyy.workers.dev/475475.m3u8
+
+#EXTINF:-1 tvg-id="34" tvg-name="TV15" group-title="Local", TV15
+https://xtm.8088yyy.workers.dev/475476.m3u8
+
+#EXTINF:-1 tvg-id="35" tvg-name="TV16" group-title="Local", TV16
+https://xtm.8088yyy.workers.dev/475477.m3u8
+
+#EXTINF:-1 tvg-id="36" tvg-name="TV17" group-title="Local", TV17
+https://xtm.8088yyy.workers.dev/475478.m3u8
+
+#EXTINF:-1 tvg-id="37" tvg-name="TV18" group-title="Local", TV18
+https://xtm.8088yyy.workers.dev/3607.m3u8
+
+#EXTINF:-1 tvg-id="38" tvg-name="TV19" group-title="Local", TV19
+https://xtm.8088yyy.workers.dev/3608.m3u8
+
+#EXTINF:-1 tvg-id="39" tvg-name="TV20" group-title="Local", TV20
+https://xtm.8088yyy.workers.dev/3609.m3u8
+
+#EXTINF:-1 tvg-id="40" tvg-name="TV21" group-title="Local", TV21
+https://xtm.8088yyy.workers.dev/3610.m3u8
+
+#EXTINF:-1 tvg-id="41" tvg-name="TV22" group-title="Local", TV22
+https://xtm.8088yyy.workers.dev/3611.m3u8
+
+#EXTINF:-1 tvg-id="42" tvg-name="TV23" group-title="Local", TV23
+https://xtm.8088yyy.workers.dev/3612.m3u8
+
+#EXTINF:-1 tvg-id="43" tvg-name="TV24" group-title="Local", TV24
+https://xtm.8088yyy.workers.dev/3613.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="TV25" group-title="Local", TV25
+https://xtm.8088yyy.workers.dev/3614.m3u8
+
+#EXTINF:-1 tvg-id="45" tvg-name="DURAI TV" group-title="Local", DURAI TV
+https://ipcloud.live/duraitv/live/index.m3u8
+
+#EXTINF:-1 tvg-id="46" tvg-name="SR MUSIC" group-title="Local", SR MUSIC
+http://srnet.bmlive.net:1935/srmusic/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="47" tvg-name="RIO TV" group-title="Local", RIO TV
+https://ipcloud.live/riotv/riotvhd/index.m3u8
+
+#EXTINF:-1 tvg-id="48" tvg-name="ASHOKA TV SALEM" group-title="Local", ASHOKA TV SALEM
+https://ipcloud.live/asokatv/asokahd/index.m3u8
+
+#EXTINF:-1 tvg-id="49" tvg-name=" VEERA TV" group-title="Local", VEERA TV
+https://ipcloud.live/veeratv/veeratvhd/index.m3u8
+
+#EXTINF:-1 tvg-id="50" tvg-name="POLIMER SALEM" group-title="Local",POLIMER SALEM
+rtmp://hdserver.7starcloud.com:1935/polimer/live
