@@ -1,0 +1,54 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="7 STAR SALEM" group-title="Local", 7 STAR SALEM
+http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-name="RASI TAMIL" group-title="Local", RASI TAMIL
+rtmp://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac
+
+#EXTINF:-1 tvg-id="3" tvg-name="RASI TV" group-title="Local", RASI TV
+rtmp://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac
+
+#EXTINF:-1 tvg-id="4" tvg-name="RASI MOVIES" group-title="Local", RASI MOVIES
+rtmp://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac
+
+#EXTINF:-1 tvg-id="5" tvg-name="RASI CINEMA" group-title="Local", RASI CINEMA
+rtmp://rasinetworks.in:1935/rasicinema/rasicinema.stream_aac
+
+#EXTINF:-1 tvg-id="6" tvg-name="RASI CINEMAX" group-title="Local", RASI CINEMAX
+rtmp://rasinetworks.in:1935/rasicinemax/rasicinemax.stream_aac
+
+#EXTINF:-1 tvg-id="7" tvg-name="RASI HOLLYWOOD" group-title="Local", RASI HOLLYWOOD
+rtmp://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac
+
+#EXTINF:-1 tvg-id="8" tvg-name="TSN MUSIC" group-title="Local", TSN MUSIC
+http://198.144.149.206:8080/NOTV/VAAGAI/tracks-v1a1/mono.m3u8?token=GTR
+
+#EXTINF:-1 tvg-id="9" tvg-name="SNR TV" group-title="Local", SNR TV
+http://198.144.149.206:8080/NOTV/ASOSACHENNAI/tracks-v1a1/mono.m3u8?token=GTR
+
+#EXTINF:-1 tvg-id="10" tvg-name="VELLITHIRAI" group-title="Local", VELLITHIRAI
+http://front-main.eagle-4k.me:80/live/m7t7u5p96o/g4xb6pbb1r/1163696.m3u8
+
+#EXTINF:-1 tvg-id="11" tvg-name="EMPEROR TV" group-title="Local", EMPEROR TV
+https://rtmp.bmlive.net/bms/emperortv/index.m3u8
+
+#EXTINF:-1 tvg-id="12" tvg-name="DOLPHIN TV" group-title="Local", DOLPHIN TV
+rtmp://103.78.164.108:1935/static/DOLPHINTV
+
+#EXTINF:-1 tvg-id="13" tvg-name="ROJA MOVIES" group-title="Local", ROJA MOVIES
+rtmp://live.rojatv.cloud/rojamovies/rojamovies
+
+#EXTINF:-1 tvg-id="14" tvg-name="SSSHD" group-title="Local", SSSHD
+rtmp://103.78.164.62/static/SSSHD
+
+#EXTINF:-1 tvg-id="15" tvg-name="BOOBSH" group-title="Local", BOOBSH
+https://rtmp.applelive.in/boobsh/boobsh/index.m3u8
+
+#EXTINF:-1 tvg-id="16" tvg-name="RASI MUSIC" group-title="Local", RASI MUSIC
+rtmp://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac
+
+#EXTINF:-1 tvg-id="17" tvg-name="ANALY CINEMA" group-title="Local", ANALY CINEMA
+http://198.144.149.206:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-id="17" tvg-name="ITHAL" group-title="Local", ITHAL
+rtmp://148.113.170.17/static/ithal
