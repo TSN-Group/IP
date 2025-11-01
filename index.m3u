@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="7 STAR SALEM" tvg-logo= "" group-title="Local", 7 STAR SALEM
+#EXTINF:-1 tvg-id="1" tvg-name="7 STAR SALEM" tvg-logo= "https://www.google.com/imgres?q=7star%20tv%20salem%20logo&imgurl=https%3A%2F%2Fimages.jdmagicbox.com%2Fcomp%2Fsalem%2Fx4%2F0427px427.x427.201121190510.e8x4%2Fcatalogue%2F7star-tv-state-bank-colony-salem-advertising-agencies-for-satellite-channel-news-live-cqpafj5ln2-250.jpg&imgrefurl=https%3A%2F%2Fwww.justdial.com%2FSalem%2F7Star-Tv-Near-Cj-Pallazzio-State-Bank-Colony%2F0427PX427-X427-201121190510-E8X4_BZDET&docid=TP7fQ-OEbLwdhM&tbnid=XwTh7WVzSiaQvM&vet=12ahUKEwiPt_W9h9GQAxUmb2wGHehpKvUQM3oECBUQAA..i&w=250&h=250&hcb=2&ved=2ahUKEwiPt_W9h9GQAxUmb2wGHehpKvUQM3oECBUQAA#imgrc=XwTh7WVzSiaQvM&imgdii=5CxJYoH9gHOtwM" group-title="Local", 7 STAR SALEM
 http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="RASI TAMIL" tvg-logo= "" group-title="Local- RASI", RASI TAMIL
+#EXTINF:-1 tvg-id="2" tvg-name="RASI TAMIL" tvg-logo= "https://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" group-title="Local- RASI", RASI TAMIL
 rtmp://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac
 
 #EXTINF:-1 tvg-id="3" tvg-name="RASI TV" tvg-logo= "" group-title="Local- RASI", RASI TV
