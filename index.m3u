@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="7 STAR SALEM" group-title="Local", 7 STAR SALEM
+#EXTINF:-1 tvg-id="1" tvg-name="7 STAR SALEM" tvg-logo= "" group-title="Local", 7 STAR SALEM
 http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="RASI TAMIL" group-title="Local", RASI TAMIL
+#EXTINF:-1 tvg-id="2" tvg-name="RASI TAMIL" tvg-logo= "" group-title="Local- RASI", RASI TAMIL
 rtmp://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac
 
-#EXTINF:-1 tvg-id="3" tvg-name="RASI TV" group-title="Local", RASI TV
+#EXTINF:-1 tvg-id="3" tvg-name="RASI TV" tvg-logo= "" group-title="Local- RASI", RASI TV
 rtmp://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac
 
-#EXTINF:-1 tvg-id="4" tvg-name="RASI MOVIES" group-title="Local", RASI MOVIES
+#EXTINF:-1 tvg-id="4" tvg-name="RASI MOVIES" tvg-logo= "" group-title="Local- RASI", RASI MOVIES
 rtmp://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac
 
-#EXTINF:-1 tvg-id="5" tvg-name="RASI CINEMA" group-title="Local", RASI CINEMA
+#EXTINF:-1 tvg-id="5" tvg-name="RASI CINEMA" group-title="Local- RASI", RASI CINEMA
 rtmp://rasinetworks.in:1935/rasicinema/rasicinema.stream_aac
 
-#EXTINF:-1 tvg-id="6" tvg-name="RASI CINEMAX" group-title="Local", RASI CINEMAX
+#EXTINF:-1 tvg-id="6" tvg-name="RASI CINEMAX" group-title="Local- RASI", RASI CINEMAX
 rtmp://rasinetworks.in:1935/rasicinemax/rasicinemax.stream_aac
 
-#EXTINF:-1 tvg-id="7" tvg-name="RASI HOLLYWOOD" group-title="Local", RASI HOLLYWOOD
+#EXTINF:-1 tvg-id="7" tvg-name="RASI HOLLYWOOD" group-title="Local- RASI", RASI HOLLYWOOD
 rtmp://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac
 
 #EXTINF:-1 tvg-id="8" tvg-name="TSN MUSIC" group-title="Local", TSN MUSIC
@@ -44,7 +44,7 @@ rtmp://live.rojatv.cloud/rojamovies/rojamovies
 #EXTINF:-1 tvg-id="15" tvg-name="BOOBSH" group-title="Local", BOOBSH
 https://rtmp.applelive.in/boobsh/boobsh/index.m3u8
 
-#EXTINF:-1 tvg-id="16" tvg-name="RASI MUSIC" group-title="Local", RASI MUSIC
+#EXTINF:-1 tvg-id="16" tvg-name="RASI MUSIC" group-title="Local- RASI", RASI MUSIC
 rtmp://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac
 
 #EXTINF:-1 tvg-id="17" tvg-name="ANALY CINEMA" group-title="Local", ANALY CINEMA
@@ -56,116 +56,313 @@ rtmp://148.113.170.17/static/ithal
 #EXTINF:-1 tvg-id="19" tvg-name="KRISHNA TV ERODE" group-title="Local",KRISHNA TV ERODE
 http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="20" tvg-name="TV1" group-title="Local", TV1
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:5c:e6:ef&stream=1019905&extension=ts&play_token=1L7gZ23uW3
-
-#EXTINF:-1 tvg-id="21" tvg-name="TV2" group-title="Local", TV2
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:5c:e6:ef&stream=1019911&extension=ts&play_token=YKJl3uLRT5
-
-#EXTINF:-1 tvg-id="22" tvg-name="TV3" group-title="Local", TV3
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734185&extension=ts&play_token=fx2dqiDWHw
-
-#EXTINF:-1 tvg-id="23" tvg-name="TV4" group-title="Local", TV4
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734186&extension=ts&play_token=I70fhu6Ers
-
-#EXTINF:-1 tvg-id="24" tvg-name="TV5" group-title="Local", TV5
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734174&extension=ts&play_token=Hn3pAViflO
-
-#EXTINF:-1 tvg-id="25" tvg-name="TV6" group-title="Local", TV6
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734175&extension=ts&play_token=rWRhTbyexY
-
-#EXTINF:-1 tvg-id="26" tvg-name="TV7" group-title="Local", TV7
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734160&extension=ts&play_token=w9RXNuUGOz
-
-#EXTINF:-1 tvg-id="27" tvg-name="TV8" group-title="Local", TV8
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734172&extension=ts&play_token=EKUtz6qxXN
-
-#EXTINF:-1 tvg-id="28" tvg-name="TV9" group-title="Local", TV9
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734169&extension=ts&play_token=iJtskXofsK
-
-#EXTINF:-1 tvg-id="29" tvg-name="TV10" group-title="Local", TV10
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734163&extension=ts&play_token=73p0A17uzE
-
-#EXTINF:-1 tvg-id="30" tvg-name="TV11" group-title="Local", TV11
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734159&extension=ts&play_token=RWiDZWSEiy
-
-#EXTINF:-1 tvg-id="31" tvg-name="TV12" group-title="Local", TV12
-http://mag.trexlive.me/play/live.php?mac=00:1A:79:5c:e6:ef&stream=1019913&extension=ts&play_token=
-
-#EXTINF:-1 tvg-id="32" tvg-name="TV13" group-title="Local", TV13
-https://xtm.8088yyy.workers.dev/475474.m3u8
-
-#EXTINF:-1 tvg-id="33" tvg-name="TV14" group-title="Local", TV14
-https://xtm.8088yyy.workers.dev/475475.m3u8
-
-#EXTINF:-1 tvg-id="34" tvg-name="TV15" group-title="Local", TV15
-https://xtm.8088yyy.workers.dev/475476.m3u8
-
-#EXTINF:-1 tvg-id="35" tvg-name="TV16" group-title="Local", TV16
-https://xtm.8088yyy.workers.dev/475477.m3u8
-
-#EXTINF:-1 tvg-id="36" tvg-name="TV17" group-title="Local", TV17
-https://xtm.8088yyy.workers.dev/475478.m3u8
-
-#EXTINF:-1 tvg-id="37" tvg-name="TV18" group-title="Local", TV18
-https://xtm.8088yyy.workers.dev/3607.m3u8
-
-#EXTINF:-1 tvg-id="38" tvg-name="TV19" group-title="Local", TV19
-https://xtm.8088yyy.workers.dev/3608.m3u8
-
-#EXTINF:-1 tvg-id="39" tvg-name="TV20" group-title="Local", TV20
-https://xtm.8088yyy.workers.dev/3609.m3u8
-
-#EXTINF:-1 tvg-id="40" tvg-name="TV21" group-title="Local", TV21
-https://xtm.8088yyy.workers.dev/3610.m3u8
-
-#EXTINF:-1 tvg-id="41" tvg-name="TV22" group-title="Local", TV22
-https://xtm.8088yyy.workers.dev/3611.m3u8
-
-#EXTINF:-1 tvg-id="42" tvg-name="TV23" group-title="Local", TV23
-https://xtm.8088yyy.workers.dev/3612.m3u8
-
-#EXTINF:-1 tvg-id="43" tvg-name="TV24" group-title="Local", TV24
-https://xtm.8088yyy.workers.dev/3613.m3u8
-
-#EXTINF:-1 tvg-id="44" tvg-name="TV25" group-title="Local", TV25
-https://xtm.8088yyy.workers.dev/3614.m3u8
-
-#EXTINF:-1 tvg-id="45" tvg-name="DURAI TV" group-title="Local", DURAI TV
+#EXTINF:-1 tvg-id="20" tvg-name="DURAI TV" group-title="Local", DURAI TV
 https://ipcloud.live/duraitv/live/index.m3u8
 
-#EXTINF:-1 tvg-id="46" tvg-name="SR MUSIC" group-title="Local", SR MUSIC
+#EXTINF:-1 tvg-id="21" tvg-name="SR MUSIC" group-title="Local", SR MUSIC
 http://srnet.bmlive.net:1935/srmusic/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="47" tvg-name="RIO TV" group-title="Local", RIO TV
+#EXTINF:-1 tvg-id="22" tvg-name="RIO TV" tvg-logo="https://play-lh.googleusercontent.com/JPKzzsiuOYCAu9n7EJPq72iyIOMxcBc0q8EUwx_5M1P_GaBdkMXlQIh4RH7wb5X6-EY" group-title="Local", RIO TV
 https://ipcloud.live/riotv/riotvhd/index.m3u8
 
-#EXTINF:-1 tvg-id="48" tvg-name="ASHOKA TV SALEM" group-title="Local", ASHOKA TV SALEM
+#EXTINF:-1 tvg-id="23" tvg-name="ASHOKA TV SALEM" group-title="Local", ASHOKA TV SALEM
 https://ipcloud.live/asokatv/asokahd/index.m3u8
 
-#EXTINF:-1 tvg-id="49" tvg-name=" VEERA TV" group-title="Local", VEERA TV
+#EXTINF:-1 tvg-id="24" tvg-name=" VEERA TV" group-title="Local", VEERA TV
 https://ipcloud.live/veeratv/veeratvhd/index.m3u8
 
-#EXTINF:-1 tvg-id="50" tvg-name="POLIMER SALEM" group-title="Local",POLIMER SALEM
+#EXTINF:-1 tvg-id="25" tvg-name="POLIMER SALEM" group-title="Local",POLIMER SALEM
 rtmp://hdserver.7starcloud.com:1935/polimer/live
 
-#EXTINF:-1 tvg-id="51" tvg-name="R Plus" group-title="Local",R Plus
+#EXTINF:-1 tvg-id="26" tvg-name="R Plus" group-title="Local",R Plus
 rtmp://rplustv.stream.onecloudlive.in/rplustv/rplustvhd
 
-#EXTINF:-1 tvg-id="52" tvg-name="DOLPHIN TV" group-title="Local", DOLPHIN TV
-rtmp://103.78.164.108:1935/static/DOLPHINTV
-
-#EXTINF:-1 tvg-id="53" tvg-name="RASI COMEDY" group-title="Local", RASI COMEDY
-rtmp://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac
-
-#EXTINF:-1 tvg-id="54" tvg-name="RASI CLASSIC" group-title="Local", RASI CLASSIC
-rtmp://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac
-
-#EXTINF:-1 tvg-id="55" tvg-name="RASI TAMIL" group-title="Local", RASI TAMIL
-rtmp://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac
-
-#EXTINF:-1 tvg-id="56" tvg-name="TOP TV" group-title="Local", TOP TV
+#EXTINF:-1 tvg-id="27" tvg-name="TOP TV" group-title="Local", TOP TV
 rtmp://toptv.phoenixcreations.online:1935/toptv/toptv
 
-#EXTINF:-1 tvg-id="57" tvg-name="KUMARI TV" group-title="Local", KUMARI TV
+#EXTINF:-1 tvg-id="28" tvg-name="KUMARI TV" group-title="Local", KUMARI TV
 rtmp://rtmp.applelive.in/gvkumaritv/gvkumaritv
+
+#EXTINF:-1 tvg-id="29" tvg-name="DOLPHIN TV" group-title="Local", DOLPHIN TV
+rtmp://103.78.164.108:1935/static/DOLPHINTV
+
+#EXTINF:-1 tvg-id="30" tvg-name="RASI COMEDY" group-title="Local- RASI", RASI COMEDY
+rtmp://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac
+
+#EXTINF:-1 tvg-id="31" tvg-name="RASI CLASSIC" group-title="Local- RASI", RASI CLASSIC
+rtmp://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac
+
+#EXTINF:-1 tvg-id="32" tvg-name="RASI TAMIL" tvg-logo= "" group-title="Local- RASI", RASI TAMIL
+rtmp://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac
+
+#EXTINF:-1 tvg-id="33" tvg-name="AKASH" tvg-logo= "" group-title="Local", AKASH
+https://account2.livebox.co.in/AkashTvhls/live.m3u8
+
+#EXTINF:-1 tvg-id="34" tvg-name="JAYAM TV" tvg-logo= "" group-title="Local", JAYAM TV
+http://hdserver.7starcloud.com:1935/jayaamtv/jayaamtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="35" tvg-name="MN TV" tvg-logo= "" group-title="Local", MN TV
+http://mntv.livebox.co.in/mntvhls/live.m3u8
+
+#EXTINF:-1 tvg-id="36" tvg-name="STAR TAMIL" tvg-logo= "" group-title="Local", STAR TAMIL
+https://edge2-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="37" tvg-name="DD POTHIGAI" tvg-logo= "" group-title="Local", DD POTHIGAI
+https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
+
+#EXTINF:-1 tvg-id="38" tvg-name="SATHIYA TV tvg-logo= "" group-title="Local",SATHIYA TV
+http://santhiyatv.stream.onecloudlive.in:8080/santhiyatv/santhiyatvhd/index.m3u8
+
+#EXTINF:-1 tvg-id="39" tvg-name="TAITAL TV" tvg-logo= "" group-title="Local", TAITAL TV
+https://stream.onecloudlive.in/taitaltv/live/index.m3u8
+
+#EXTINF:-1 tvg-id="40" tvg-name="PHOENIX TV" tvg-logo= "" group-title="Local", PHOENIX TV
+http://phoenixtv.stream.onecloudlive.in:8080/phoenixtv/phoenixtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="41" tvg-name="RV TV" tvg-logo= "https://imgur.com/a/Ys4imR4" group-title="1Cloud", RV TV
+rtmp://ipcloud.live/rvtv/rvtvhd
+
+#EXTINF:-1 tvg-id="42" tvg-name="MULLAI TV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FMULLAI-TV.png?alt=media&token=48f947bf-4fc2-4de7-a5f8-d180b6ebe12b" group-title="1Cloud",Mullai TV
+https://ipcloud.live/mullaitv/mullaitv/index.m3u8
+
+#EXTINF:-1 tvg-id="43" tvg-name="YOGAA TV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/ipcloud-app-ee03e.appspot.com/o/logo%2Fyogaa-tv.png?alt=media&token=ce543fc6-dde3-482f-a0ac-5e1772913055" group-title="1Cloud",Yogaa TV
+https://ipcloud.live/yogaatv/yogaatv/index.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="MSN" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FMSN-TV.png?alt=media&token=e2a0664c-ef4f-4603-9936-2d4e439d4bc8" group-title="1Cloud",MSN TV
+https://ipcloud.live/msntv/msntv/index.m3u8
+
+#EXTINF:-1 tvg-id="45" tvg-name="EAGALE" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FEAGLE-TV.png?alt=media&token=dd6aa4d4-c172-4612-90a0-c6e454ca7bd6" group-title="1Cloud",Eagle2 TV
+https://ipcloud.live/eaglemedia/eagletv/index.m3u8
+
+#EXTINF:-1 tvg-id="46" tvg-name="MEN HD" tvg-logo="https://play-lh.googleusercontent.com/NPwmWr-Ek2l10XpzpuDvUQkvNEGxo7vop2imFPKyUqCI5nDprfy1Bcivvax13vKqj80=w480-h960-rw" group-title="1Cloud",M TV
+https://ipcloud.live/mtv/menhd/index.m3u8
+
+#EXTINF:-1 tvg-id="47" tvg-name="RICHI TV" tvg-logo="https://play-lh.googleusercontent.com/UI7yq3zfstqjiRnvSQTnaVs0APGDb4JGMNTIxXJis4WQkPbAOkFn6eIceAPYALZ6IA=w480-h960-rw" group-title="1Cloud", Rich TV
+https://richtv.stream.onecloudlive.in/richtv/richtvhd/index.m3u8
+
+#EXTINF:-1 tvg-id="48" tvg-name="LEO TV"  tvg-logo="https://firebasestorage.googleapis.com/v0/b/ipcloud-app-ee03e.appspot.com/o/logo%2Fleo-tv.png?alt=media&token=bbec0922-0a8c-4680-a764-bbd6115cd4cc" group-title="1Cloud",LEO TV
+https://ipcloud.live/leotv/leotvhd/index.m3u8
+
+#EXTINF:-1 tvg-id="101" tvg-name="TV1" group-title="Local", TV1
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:5c:e6:ef&stream=1019905&extension=ts&play_token=1L7gZ23uW3
+
+#EXTINF:-1 tvg-id="102" tvg-name="TV2" group-title="Local", TV2
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:5c:e6:ef&stream=1019911&extension=ts&play_token=YKJl3uLRT5
+
+#EXTINF:-1 tvg-id="103" tvg-name="TV3" group-title="Local", TV3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734185&extension=ts&play_token=fx2dqiDWHw
+
+#EXTINF:-1 tvg-id="104" tvg-name="TV4" group-title="Local", TV4
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734186&extension=ts&play_token=I70fhu6Ers
+
+#EXTINF:-1 tvg-id="105" tvg-name="TV5" group-title="Local", TV5
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734174&extension=ts&play_token=Hn3pAViflO
+
+#EXTINF:-1 tvg-id="106" tvg-name="TV6" group-title="Local", TV6
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734175&extension=ts&play_token=rWRhTbyexY
+
+#EXTINF:-1 tvg-id="107" tvg-name="TV7" group-title="Local", TV7
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734160&extension=ts&play_token=w9RXNuUGOz
+
+#EXTINF:-1 tvg-id="108" tvg-name="TV8" group-title="Local", TV8
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734172&extension=ts&play_token=EKUtz6qxXN
+
+#EXTINF:-1 tvg-id="109" tvg-name="TV9" group-title="Local", TV9
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734169&extension=ts&play_token=iJtskXofsK
+
+#EXTINF:-1 tvg-id="110" tvg-name="TV10" group-title="Local", TV10
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734163&extension=ts&play_token=73p0A17uzE
+
+#EXTINF:-1 tvg-id="111" tvg-name="TV11" group-title="Local", TV11
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734159&extension=ts&play_token=RWiDZWSEiy
+
+#EXTINF:-1 tvg-id="112" tvg-name="TV12" group-title="Local", TV12
+http://mag.trexlive.me/play/live.php?mac=00:1A:79:5c:e6:ef&stream=1019913&extension=ts&play_token=
+
+#EXTINF:-1 tvg-id="113" tvg-name="TV13" group-title="Local", TV13
+https://xtm.8088yyy.workers.dev/475474.m3u8
+
+#EXTINF:-1 tvg-id="114" tvg-name="TV14" group-title="Local", TV14
+https://xtm.8088yyy.workers.dev/475475.m3u8
+
+#EXTINF:-1 tvg-id="115" tvg-name="TV15" group-title="Local", TV15
+https://xtm.8088yyy.workers.dev/475476.m3u8
+
+#EXTINF:-1 tvg-id="116" tvg-name="TV16" group-title="Local", TV16
+https://xtm.8088yyy.workers.dev/475477.m3u8
+
+#EXTINF:-1 tvg-id="117" tvg-name="TV17" group-title="Local", TV17
+https://xtm.8088yyy.workers.dev/475478.m3u8
+
+#EXTINF:-1 tvg-id="118" tvg-name="TV18" group-title="Local", TV18
+https://xtm.8088yyy.workers.dev/3607.m3u8
+
+#EXTINF:-1 tvg-id="119" tvg-name="TV19" group-title="Local", TV19
+https://xtm.8088yyy.workers.dev/3608.m3u8
+
+#EXTINF:-1 tvg-id="120" tvg-name="TV20" group-title="Local", TV20
+https://xtm.8088yyy.workers.dev/3609.m3u8
+
+#EXTINF:-1 tvg-id="121" tvg-name="TV21" group-title="Local", TV21
+https://xtm.8088yyy.workers.dev/3610.m3u8
+
+#EXTINF:-1 tvg-id="122" tvg-name="TV22" group-title="Local", TV22
+https://xtm.8088yyy.workers.dev/3611.m3u8
+
+#EXTINF:-1 tvg-id="123" tvg-name="TV23" group-title="Local", TV23
+https://xtm.8088yyy.workers.dev/3612.m3u8
+
+#EXTINF:-1 tvg-id="124" tvg-name="TV24" group-title="Local", TV24
+https://xtm.8088yyy.workers.dev/3613.m3u8
+
+#EXTINF:-1 tvg-id="125" tvg-name="TV25" group-title="Local", TV25
+https://xtm.8088yyy.workers.dev/3614.m3u8
+
+#EXTINF:-1 tvg-id="126" tvg-name="NEWS 7" tvg-logo= "" group-title="Local", NEWS 7
+https://segment.yuppcdn.net/240122/news7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="127" tvg-name="POLIMER NEWS" tvg-logo= "" group-title="Local", POLIMER NEWS
+https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
+
+#EXTINF:-1, tvg-id="301" group-title="Tamil FM Radio" ,Radio Mirchi 98.3 Chennai HD
+http://stream2.oppocast.com/mi_stream
+#EXTINF:-1, tvg-id="302" group-title="Tamil FM Radio" ,Ilayaraja HD
+https://stream.zeno.fm/5u2c0yh0ekhvv
+#EXTINF:-1, tvg-id="303" group-title="Tamil FM Radio" ,Ilayaraja 3D
+https://stream.zeno.fm/6ekq4z61w0hvv
+#EXTINF:-1, tvg-id="304" group-title="Tamil FM Radio" ,Ilayaraja 80S
+https://stream.zeno.fm/pvs9y6c4138uv
+#EXTINF:-1, tvg-id="305" group-title="Tamil FM Radio" ,Ilayaraja HQ
+https://stream.zeno.fm/s1ydp51scuhvv
+#EXTINF:-1, tvg-id="306" group-title="Tamil FM Radio" ,Raja HD
+https://stream.zeno.fm/10xewnmcbkhvv
+#EXTINF:-1, tvg-id="307" group-title="Tamil FM Radio" ,Raja Radio HD TamilKuyil Radio
+http://live.tamilkuyilradio.com:8026/rajaradio
+#EXTINF:-1, tvg-id="308" group-title="Tamil FM Radio" ,A.R.Rahman FM
+https://stream.zeno.fm/8vs416z3b48uv
+#EXTINF:-1, tvg-id="309" group-title="Tamil FM Radio" ,AR Rahman 3D
+https://stream.zeno.fm/0az0qx8e4p8uv
+#EXTINF:-1, tvg-id="310" group-title="Tamil FM Radio" ,SPB Hits HD
+https://stream.zeno.fm/ey44ycfscuhvv
+#EXTINF:-1, tvg-id="311" group-title="Tamil FM Radio" ,SPB Old Hits
+https://stream.zeno.fm/cgyvbgd2w0hvv
+#EXTINF:-1, tvg-id="312" group-title="Tamil FM Radio" ,K. J. Yesudas Fm
+https://stream.zeno.fm/avt4e9yaa48uv
+#EXTINF:-1, tvg-id="313" group-title="Tamil FM Radio" ,Mano Hits Fm
+https://stream.zeno.fm/we99zw61w0hvv
+#EXTINF:-1, tvg-id="314" group-title="Tamil FM Radio" ,Aniruth Hits HD
+https://stream.zeno.fm/qdvuf5e4138uv
+#EXTINF:-1, tvg-id="315" group-title="Tamil FM Radio" ,Yuvan Shankar Hits
+https://stream.zeno.fm/f939szg6a48uv
+#EXTINF:-1, tvg-id="316" group-title="Tamil FM Radio" ,D. Imman Hits
+https://stream.zeno.fm/1zsd11zaa48uv
+#EXTINF:-1, tvg-id="317" group-title="Tamil FM Radio" ,Deva Radio
+https://stream.zeno.fm/6cxuhfmcbkhvv
+#EXTINF:-1, tvg-id="318" group-title="Tamil FM Radio" ,Vidyasagar Hits
+https://stream.zeno.fm/bb2vs3yaa48uv
+#EXTINF:-1, tvg-id="319" group-title="Tamil FM Radio" ,Shankar Mahadevan
+https://stream.zeno.fm/wpzkyefcbkhvv
+#EXTINF:-1, tvg-id="320" group-title="Tamil FM Radio" ,Hariharan Hits
+https://stream.zeno.fm/gu69vryaa48uv
+#EXTINF:-1, tvg-id="321" group-title="Tamil FM Radio" ,Mohan Hits
+https://stream.zeno.fm/y7mgyn41w0hvv
+#EXTINF:-1, tvg-id="322" group-title="Tamil FM Radio" ,Malaysia Vasudevan
+https://stream.zeno.fm/3a94ce63b48uv
+#EXTINF:-1, tvg-id="323" group-title="Tamil FM Radio" ,S. A. Rajkumar Hits
+https://stream.zeno.fm/f336ys61w0hvv
+#EXTINF:-1, tvg-id="324" group-title="Tamil FM Radio" ,Sid Sriram Hits
+https://stream.zeno.fm/5vxa8zyaa48uv
+#EXTINF:-1, tvg-id="325" group-title="Tamil FM Radio" ,Shreya ghoshal
+https://stream.zeno.fm/czvuphmcbkhvv
+#EXTINF:-1, tvg-id="326" group-title="Tamil FM Radio" ,Sujatha Hits
+https://stream.zeno.fm/mp5zgsmcbkhvv
+#EXTINF:-1, tvg-id="327" group-title="Tamil FM Radio" ,S. Janaki Hits
+https://stream.zeno.fm/ewdn3pfcbkhvv
+#EXTINF:-1, tvg-id="328" group-title="Tamil FM Radio" ,KS Chitra Hits
+https://stream.zeno.fm/h9vqwpmcbkhvv
+#EXTINF:-1, tvg-id="329" group-title="Tamil FM Radio" ,Swarnalatha Hits
+https://stream.zeno.fm/gr6nspzaa48uv
+#EXTINF:-1, tvg-id="330" group-title="Tamil FM Radio" ,Anuradha Sriram
+https://stream.zeno.fm/1gds7a41w0hvv
+#EXTINF:-1, tvg-id="331" group-title="Tamil FM Radio" ,Ajith Hits HD
+https://stream.zeno.fm/qfkksd31w0hvv
+#EXTINF:-1, tvg-id="332" group-title="Tamil FM Radio" ,Vijay Hits
+https://stream.zeno.fm/2pn99a71w0hvv
+#EXTINF:-1, tvg-id="333" group-title="Tamil FM Radio" ,Kamal Hits
+https://stream.zeno.fm/ya6emvmcbkhvv
+#EXTINF:-1, tvg-id="334" group-title="Tamil FM Radio" ,Rajini Hits
+https://stream.zeno.fm/vcn3hvqpad0uv
+#EXTINF:-1, tvg-id="335" group-title="Tamil FM Radio" ,Surya Hits
+https://stream.zeno.fm/rzf5mbq3b48uv
+#EXTINF:-1, tvg-id="336" group-title="Tamil FM Radio" ,Danush Hits
+https://stream.zeno.fm/aqp97f3z238uv
+#EXTINF:-1, tvg-id="337" group-title="Tamil FM Radio" ,Simbu Hits
+https://stream.zeno.fm/8kgd85rx338uv
+#EXTINF:-1, tvg-id="338" group-title="Tamil FM Radio" ,Vijayakanth Fm
+https://stream.zeno.fm/gm5nenyaa48uv
+#EXTINF:-1, tvg-id="339" group-title="Tamil FM Radio" ,Ramarajan Fm HD
+https://stream.zeno.fm/axx49t61w0hvv
+#EXTINF:-1, tvg-id="340" group-title="Tamil FM Radio" ,T Rajender Fm
+https://stream.zeno.fm/nm15v861w0hvv
+#EXTINF:-1, tvg-id="341" group-title="Tamil FM Radio" ,Santhosh Narayanan
+https://stream.zeno.fm/wkqvzsg1238uv
+#EXTINF:-1, tvg-id="342" group-title="Tamil FM Radio" ,Vairamuthu Hits HD
+https://stream.zeno.fm/tmq9kydsy7zuv
+#EXTINF:-1, tvg-id="343" group-title="Tamil FM Radio" ,Retro Week HD
+https://stream.zeno.fm/2bg8k2w5rs8uv
+#EXTINF:-1, tvg-id="344" group-title="Tamil FM Radio" ,Retro Night HD
+https://stream.zeno.fm/zrkta9fvzv8uv
+#EXTINF:-1, tvg-id="345" group-title="Tamil FM Radio" ,Tamil 70s Hits
+https://stream.zeno.fm/694a2ab4138uv
+#EXTINF:-1, tvg-id="346" group-title="Tamil FM Radio" ,Tamil 80s Hits
+https://stream.zeno.fm/apzh64fgdq8uv
+#EXTINF:-1, tvg-id="347" group-title="Tamil FM Radio" ,Tamil 90s Hits 1
+https://stream.zeno.fm/wmg76d4zc48uv
+#EXTINF:-1, tvg-id="348" group-title="Tamil FM Radio" ,Tamil 90s Hits 2
+https://stream.zeno.fm/ss2u9f27a48uv
+#EXTINF:-1, tvg-id="349" group-title="Tamil FM Radio" ,80S Best Songs
+https://stream.rcs.revma.com/c9wuegf811uvv
+#EXTINF:-1, tvg-id="350" group-title="Tamil FM Radio" ,80s Air Tamil
+https://stream.zeno.fm/48w230kx8vzuv.aac
+#EXTINF:-1, tvg-id="351" group-title="Tamil FM Radio" ,90's Air Tamil Melodies
+https://stream.zeno.fm/06ar0cnafwzuv.aac
+#EXTINF:-1, tvg-id="352" group-title="Tamil FM Radio" ,90S Best Songs
+https://stream.rcs.revma.com/n1f3tpf811uvv
+#EXTINF:-1, tvg-id="353" group-title="Tamil FM Radio" ,Tamil 2k Hits HD
+https://stream.zeno.fm/v0bu4uc1c48uv
+#EXTINF:-1, tvg-id="354" group-title="Tamil FM Radio" ,90S Sad Songs
+https://stream.zeno.fm/t6v2w97feq8uv
+#EXTINF:-1, tvg-id="355" group-title="Tamil FM Radio" ,Tamil Sad Songs
+https://stream.zeno.fm/31nb5vhtzv8uv
+#EXTINF:-1, tvg-id="356" group-title="Tamil FM Radio" ,Tamil Dance Hits
+https://stream.zeno.fm/cx0ghe71w0hvv
+#EXTINF:-1, tvg-id="357" group-title="Tamil FM Radio" ,Dance Tamizha Radio
+https://stream.zeno.fm/2zzz7qre56duv
+#EXTINF:-1, tvg-id="358" group-title="Tamil FM Radio" ,Tamil Remix Songs
+http://62.171.162.249:8054/;stream.mp3
+#EXTINF:-1, tvg-id="359" group-title="Tamil FM Radio" ,Manvasam - Folk Songs
+https://spserver.sscast2u.in/ssfolksongs/stream
+#EXTINF:-1, tvg-id="360" group-title="Tamil FM Radio" ,Vaali Hits HD
+https://stream.zeno.fm/9qw2dqvtzv8uv
+#EXTINF:-1, tvg-id="361" group-title="Tamil FM Radio" ,MGR Radio
+https://stream.zeno.fm/0muspvd4138uv
+#EXTINF:-1, tvg-id="362" group-title="Tamil FM Radio" ,Sivaji Hits
+https://stream.zeno.fm/kq88hd71w0hvv
+#EXTINF:-1, tvg-id="363" group-title="Tamil FM Radio" ,M.S.Viswanathan
+https://stream.zeno.fm/z0t17g83b48uv
+#EXTINF:-1, tvg-id="364" group-title="Tamil FM Radio" ,Susheela Hits
+https://stream.zeno.fm/68brxr41w0hvv
+#EXTINF:-1, tvg-id="365" group-title="Tamil FM Radio" ,Vani Jayaram Hits
+https://stream.zeno.fm/v8xtnsyaa48uv
+#EXTINF:-1, tvg-id="366" group-title="Tamil FM Radio" ,Kannadasan Hits
+https://stream.zeno.fm/hy2usugmdq8uv
+#EXTINF:-1, tvg-id="367" group-title="Tamil FM Radio" ,T.M.Soundararajan
+https://stream.zeno.fm/xx7raqc1c48uv
+#EXTINF:-1, tvg-id="368" group-title="Tamil FM Radio" ,A. M. Rajah
+https://stream.zeno.fm/ngpkkb9y338uv
+#EXTINF:-1, tvg-id="369" group-title="Tamil FM Radio" ,J. P. Chandrababu
+https://stream.zeno.fm/uprgkb5w338uv
+#EXTINF:-1, tvg-id="370" group-title="Tamil FM Radio" ,P. B. Sreenivas
+https://stream.zeno.fm/kxqaxf7t438uv
+#EXTINF:-1, tvg-id="371" group-title="Tamil FM Radio" ,Old Gold Radio Cuckoo Radio
+http://live.tamilkuyilradio.com:8002/oldgoldradio
