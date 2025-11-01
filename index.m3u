@@ -107,8 +107,8 @@ http://mntv.livebox.co.in/mntvhls/live.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="STAR TAMIL" tvg-logo= "" group-title="Local", STAR TAMIL
 https://edge2-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="37" tvg-name="DD POTHIGAI" tvg-logo= "" group-title="Local", DD POTHIGAI
-https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
+#EXTINF:-1 tvg-id="37"  tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg" group-title="Local",Sooriyan TV (1080p)
+https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 
 #EXTINF:-1 tvg-id="38" tvg-name="SATHIYA TV tvg-logo= "" group-title="Local",SATHIYA TV
 http://santhiyatv.stream.onecloudlive.in:8080/santhiyatv/santhiyatvhd/index.m3u8
@@ -218,11 +218,23 @@ https://xtm.8088yyy.workers.dev/3613.m3u8
 #EXTINF:-1 tvg-id="125" tvg-name="TV25" group-title="MOVIES", TV25
 https://xtm.8088yyy.workers.dev/3614.m3u8
 
-#EXTINF:-1 tvg-id="126" tvg-name="NEWS 7" tvg-logo= "" group-title="NEWS", NEWS 7
+#EXTINF:-1 tvg-id="501" tvg-name="NEWS 7" tvg-logo= "" group-title="NEWS", NEWS 7
 https://segment.yuppcdn.net/240122/news7/playlist.m3u8
 
-#EXTINF:-1 tvg-id="127" tvg-name="POLIMER NEWS" tvg-logo= "" group-title="NEWS", POLIMER NEWS
+#EXTINF:-1 tvg-id="502" tvg-name="POLIMER NEWS" tvg-logo= "" group-title="NEWS", POLIMER NEWS
 https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="503" tvg-logo="https://i.imgur.com/M92IDhq.png" group-title="News",Malai Murasu TV (720p) [Not 24/7]
+https://cdn-3.pishow.tv/live/1606/master.m3u8
+
+#EXTINF:-1 tvg-id="504" tvg-logo="https://i.imgur.com/RqeF8RR.png" group-title="News",News J (720p) [Not 24/7]
+https://cdn-3.pishow.tv/live/1279/master.m3u8
+
+#EXTINF:-1 tvg-id="505"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Tamil_24x7.png" group-title="News",News Tamil 24x7 (1080p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-tamil-24x7/index.m3u8
+
+#EXTINF:-1 tvg-id="506"  tvg-logo="https://i.imgur.com/Hgp4sQq.png" group-title="News",Puthiya Thalaimurai (576p)
+https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
 
 #EXTINF:-1, tvg-id="301" group-title="Tamil FM Radio" ,Radio Mirchi 98.3 Chennai HD
 http://stream2.oppocast.com/mi_stream
@@ -376,5 +388,30 @@ http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w1300032347.m3u8
 #EXTINF:-1  tvg-id="403" tvg-name="Nambikkai Tv" group-title="Devotional" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240410_0903424892020623651969924.png",Nambikkai
 http://mk9qa7n8qwyb-hls-live.wmncdn.net/nambikkaitv/live.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-id="404" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Devotional",Angel TV (720p)
+https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="405" tvg-logo="https://i.imgur.com/GlfrYs7.png" group-title="Devotional",Blessing TV Tamil (720p)
+https://stream.blessingtv.tv:1443/blessingtv-tamillive/mystream_720p/playlist.m3u8
+
+
 #EXTINF:-1  tvg-id="501" tvg-name="Makkal Tv" tvg-chno="27" group-title="FTA" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_1451308776051361970842423.png",Makkal Tv
 http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+
+#EXTINF:-1  tvg-id="502" tvg-logo="https://i.imgur.com/5PyJj2n.png" group-title="FTA",Peppers TV (751p)
+https://cdn-2.pishow.tv/live/1383/master.m3u8
+
+#EXTINF:-1  tvg-id="503" tvg-logo="https://i.imgur.com/etr1k08.png" group-title="FTA",Vaanavil TV (720p)
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
+
+#EXTINF:-1  tvg-id="504" tvg-logo="https://i.imgur.com/MohlE5B.png" group-title="FTA",DD National HD (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+
+#EXTINF:-1  tvg-id="505" tvg-logo="https://i.imgur.com/wZjEssv.png" group-title="FTA",MK Six (720p) [Not 24/7]
+https://cdn-3.pishow.tv/live/1253/master.m3u8
+
+#EXTINF:-1  tvg-id="506" tvg-logo="https://i.imgur.com/jSedjXf.png" group-title="FTA",Dheeran TV (576p)
+https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="507" tvg-name="DD POTHIGAI" tvg-logo= "" group-title="FTA", DD POTHIGAI
+https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
