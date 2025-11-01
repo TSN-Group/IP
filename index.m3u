@@ -35,11 +35,11 @@ https://rtmp.bmlive.net/bms/emperortv/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="VELAVAN TV" group-title="Local",VELAVAN TV
 rtmp://rtmp.applelive.in:1935/srivelavantvultrahd/srivelavantvultrahd
 
-#EXTINF:-1 tvg-id="13" tvg-name="ROJA MOVIES" group-title="Local", ROJA MOVIES
-rtmp://live.rojatv.cloud/rojamovies/rojamovies
-
-#EXTINF:-1 tvg-id="14" tvg-name="SSSHD" group-title="Local", SSSHD
+#EXTINF:-1 tvg-id="13" tvg-name="SSSHD" group-title="Local", SSSHD
 rtmp://103.78.164.62/static/SSSHD
+
+#EXTINF:-1 tvg-id="14" tvg-name="ROJA MOVIES" group-title="Local", ROJA MOVIES
+rtmp://live.rojatv.cloud/rojamovies/rojamovies
 
 #EXTINF:-1 tvg-id="15" tvg-name="BOOBSH" group-title="Local", BOOBSH
 https://rtmp.applelive.in/boobsh/boobsh/index.m3u8
