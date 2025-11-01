@@ -32,8 +32,8 @@ http://front-main.eagle-4k.me:80/live/m7t7u5p96o/g4xb6pbb1r/1163696.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="EMPEROR TV" group-title="Local", EMPEROR TV
 https://rtmp.bmlive.net/bms/emperortv/index.m3u8
 
-#EXTINF:-1 tvg-id="12" tvg-name="DOLPHIN TV" group-title="Local", DOLPHIN TV
-rtmp://103.78.164.108:1935/static/DOLPHINTV
+#EXTINF:-1 tvg-id="12" tvg-name="VELAVAN TV" group-title="Local",VELAVAN TV
+rtmp://rtmp.applelive.in:1935/srivelavantvultrahd/srivelavantvultrahd
 
 #EXTINF:-1 tvg-id="13" tvg-name="ROJA MOVIES" group-title="Local", ROJA MOVIES
 rtmp://live.rojatv.cloud/rojamovies/rojamovies
@@ -148,3 +148,10 @@ https://ipcloud.live/veeratv/veeratvhd/index.m3u8
 
 #EXTINF:-1 tvg-id="50" tvg-name="POLIMER SALEM" group-title="Local",POLIMER SALEM
 rtmp://hdserver.7starcloud.com:1935/polimer/live
+
+#EXTINF:-1 tvg-id="51" tvg-name="R Plus" group-title="Local",R Plus
+rtmp://rplustv.stream.onecloudlive.in/rplustv/rplustvhd
+
+#EXTINF:-1 tvg-id="52" tvg-name="DOLPHIN TV" group-title="Local", DOLPHIN TV
+rtmp://103.78.164.108:1935/static/DOLPHINTV
+
