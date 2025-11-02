@@ -246,6 +246,10 @@ https://novaiptv.cc/live/eyetamil/4257832/32fa2542-142d-48e5-86ad-fc98be0e9e5f.m
 https://live.olidigital.in/nilatv/nilatv/index.m3u8
 #EXTINF:-1 tvg-id="97" tvg-name="Apple TV Pondy" tvg-logo=""  group-title="Local", Apple TV Pondy
 https://stream.iplive.xyz/appletv/4kpondy/index.m3u8
+#EXTINF:-1 tvg-id="97" tvg-name="TDN Kanchi" tvg-logo=""  group-title="Local HD", TDN Kanchi
+http://live.maxtn.in/tdn/tdn/playlist.m3u8
+#EXTINF:-1 tvg-id="97" tvg-name="MAX MUSIC" tvg-logo=""  group-title="Local - MUSIC", MAX MUSIC
+http://live.maxtn.in/maxmusic/maxmusic/playlist.m3u8
 
 #EXTINF:-1 tvg-id="101" tvg-name="TV1" group-title="MOVIES", TV1
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:5c:e6:ef&stream=1019905&extension=ts&play_token=1L7gZ23uW3
