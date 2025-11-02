@@ -224,16 +224,16 @@ https://segment.yuppcdn.net/240122/news7/playlist.m3u8
 #EXTINF:-1 tvg-id="502" tvg-name="POLIMER NEWS" tvg-logo= "" group-title="NEWS", POLIMER NEWS
 https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="503" tvg-logo="https://i.imgur.com/M92IDhq.png" group-title="News",Malai Murasu TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="503" tvg-logo="https://i.imgur.com/M92IDhq.png" group-title="NEWS",Malai Murasu TV (720p) [Not 24/7]
 https://cdn-3.pishow.tv/live/1606/master.m3u8
 
-#EXTINF:-1 tvg-id="504" tvg-logo="https://i.imgur.com/RqeF8RR.png" group-title="News",News J (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="504" tvg-logo="https://i.imgur.com/RqeF8RR.png" group-title="NEWS",News J (720p) [Not 24/7]
 https://cdn-3.pishow.tv/live/1279/master.m3u8
 
-#EXTINF:-1 tvg-id="505"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Tamil_24x7.png" group-title="News",News Tamil 24x7 (1080p)
+#EXTINF:-1 tvg-id="505"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Tamil_24x7.png" group-title="NEWS",News Tamil 24x7 (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-tamil-24x7/index.m3u8
 
-#EXTINF:-1 tvg-id="506"  tvg-logo="https://i.imgur.com/Hgp4sQq.png" group-title="News",Puthiya Thalaimurai (576p)
+#EXTINF:-1 tvg-id="506"  tvg-logo="https://i.imgur.com/Hgp4sQq.png" group-title="NEWS",Puthiya Thalaimurai (576p)
 https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
 
 #EXTINF:-1, tvg-id="301" group-title="Tamil FM Radio" ,Radio Mirchi 98.3 Chennai HD
@@ -395,7 +395,7 @@ https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/p
 https://stream.blessingtv.tv:1443/blessingtv-tamillive/mystream_720p/playlist.m3u8
 
 
-#EXTINF:-1  tvg-id="501" tvg-name="Makkal Tv" tvg-chno="27" group-title="FTA" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_1451308776051361970842423.png",Makkal Tv
+#EXTINF:-1  tvg-id="501" tvg-name="Makkal Tv"  group-title="FTA" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_1451308776051361970842423.png",Makkal Tv
 http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 
 #EXTINF:-1  tvg-id="502" tvg-logo="https://i.imgur.com/5PyJj2n.png" group-title="FTA",Peppers TV (751p)
