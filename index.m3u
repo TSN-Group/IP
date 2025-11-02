@@ -2,26 +2,32 @@
 #EXTINF:-1 tvg-id="1" tvg-name="7 STAR SALEM" tvg-logo= "https://images.jdmagicbox.com/quickquotes/images_main/scrolling-2225252502-tl0lld0p.png" group-title="Local HD", 7 STAR SALEM
 http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="RASI TAMIL" tvg-logo= "https://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" group-title="Local- RASI", RASI TAMIL
+#EXTINF:-1 tvg-id="2" tvg-name=SANA TV HD" tvg-logo= "https://i.ibb.co/PwK8tXr/Sanatv250x250.jpg" group-title="Local HD", SANA TV HD
+http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-name="TSN MUSIC" group-title="Local - Music", TSN MUSIC
+http://198.144.149.206:8080/NOTV/VAAGAI/tracks-v1a1/mono.m3u8?token=GTR
+
+#EXTINF:-1 tvg-id="4" tvg-name="SANA PLUS HD" tvg-logo= "https://i.ibb.co/yVbprNG/Sanaplushd.jpg" group-title="Local - Music", SANA PLUS HD
+https://galaxyott.live/hls/sanaplus.m3u8
+
+#EXTINF:-1 tvg-id="901" tvg-name="RASI TAMIL" tvg-logo= "https://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" group-title="Local- RASI", RASI TAMIL
 rtmp://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac
 
-#EXTINF:-1 tvg-id="3" tvg-name="RASI TV" tvg-logo= "" group-title="Local- RASI", RASI TV
+#EXTINF:-1 tvg-id="902" tvg-name="RASI TV" tvg-logo= "" group-title="Local- RASI", RASI TV
 rtmp://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac
 
-#EXTINF:-1 tvg-id="4" tvg-name="RASI MOVIES" tvg-logo= "" group-title="Local- RASI", RASI MOVIES
+#EXTINF:-1 tvg-id="903" tvg-name="RASI MOVIES" tvg-logo= "" group-title="Local- RASI", RASI MOVIES
 rtmp://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac
 
-#EXTINF:-1 tvg-id="5" tvg-name="RASI CINEMA" group-title="Local- RASI", RASI CINEMA
+#EXTINF:-1 tvg-id="904" tvg-name="RASI CINEMA" group-title="Local- RASI", RASI CINEMA
 rtmp://rasinetworks.in:1935/rasicinema/rasicinema.stream_aac
 
-#EXTINF:-1 tvg-id="6" tvg-name="RASI CINEMAX" group-title="Local- RASI", RASI CINEMAX
+#EXTINF:-1 tvg-id="905" tvg-name="RASI CINEMAX" group-title="Local- RASI", RASI CINEMAX
 rtmp://rasinetworks.in:1935/rasicinemax/rasicinemax.stream_aac
 
-#EXTINF:-1 tvg-id="7" tvg-name="RASI HOLLYWOOD" group-title="Local- RASI", RASI HOLLYWOOD
+#EXTINF:-1 tvg-id="906" tvg-name="RASI HOLLYWOOD" group-title="Local- RASI", RASI HOLLYWOOD
 rtmp://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac
-
-#EXTINF:-1 tvg-id="8" tvg-name="TSN MUSIC" group-title="Local - Music", TSN MUSIC
-http://198.144.149.206:8080/NOTV/VAAGAI/tracks-v1a1/mono.m3u8?token=GTR
 
 #EXTINF:-1 tvg-id="9" tvg-name="SNR TV" group-title="Local - Movies", SNR TV
 http://198.144.149.206:8080/NOTV/ASOSACHENNAI/tracks-v1a1/mono.m3u8?token=GTR
