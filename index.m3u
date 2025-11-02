@@ -179,7 +179,8 @@ https://play.applelive.in/vasanthtv/vasanthtv.m3u8
 https://stream.onecloudlive.in/karnan/gtv/index.m3u8
 #EXTINF:-1 tvg-id="65" tvg-name="Vishil TV" group-title="Local" tvg-logo="https://i.ibb.co/hCnH1Qx/Viphd.jpg",Vishil TV
 https://stream.sscloud7.in/live/vishiltv2/index.m3u8
-#EXTINF:-1 tvg-id="66" tvg-name="GSJK HD" group-title="Local HD" tvg-logo="https://i.ibb.co/bdY4kVQ/Gsjktv.jpg",GSJK HD
+
+#EXTINF:-1 tvg-id="66" tvg-name="GSJK HD" tvg-logo= "https://i.ibb.co/bdY4kVQ/Gsjktv.jpg" group-title="Local HD", GSJK HD
 https://live.brightmeltech.in/gsjktv/gsjktv.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="Vishil HD" group-title="Local" tvg-logo="https://i.ibb.co/Gtg4rZn/Vishilhd.jpg",Vishil HD
 https://stream.sscloud7.in/live/vishiltv1/index.m3u8
