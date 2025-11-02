@@ -182,67 +182,69 @@ https://stream.sscloud7.in/live/vishiltv2/index.m3u8
 
 #EXTINF:-1 tvg-id="66" tvg-name="GSJK HD" tvg-logo= "https://i.ibb.co/bdY4kVQ/Gsjktv.jpg" group-title="Local HD", GSJK HD
 https://live.brightmeltech.in/gsjktv/gsjktv.m3u8
-#EXTINF:-1 tvg-id="67" tvg-name="Vishil HD" group-title="Local" tvg-logo="https://i.ibb.co/Gtg4rZn/Vishilhd.jpg",Vishil HD
+#EXTINF:-1 tvg-id="67" tvg-name="Vishil HD" group-title="Local" tvg-logo="https://i.ibb.co/Gtg4rZn/Vishilhd.jpg", Vishil HD
 https://stream.sscloud7.in/live/vishiltv1/index.m3u8
-#EXTINF:-1 tvg-id="68" tvg-name="Raja HD" group-title="Local HD" tvg-logo="https://i.ibb.co/ng35NrN/Rajatv.jpg",Raja HD
+#EXTINF:-1 tvg-id="68" tvg-name="Raja HD" tvg-logo="https://i.ibb.co/ng35NrN/Rajatv.jpg" group-title="Local HD", Raja HD
 https://live.brightmeltech.in/rajatv/rajatv.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="K Channel" group-title="Local" tvg-logo="https://i.ibb.co/f2zm0PB/Kchannel.jpg",K Channel
+#EXTINF:-1 tvg-id="69" tvg-name="K Channel" group-title="Local" tvg-logo="https://i.ibb.co/f2zm0PB/Kchannel.jpg", K Channel
 https://live.brightmeltech.in/kchannel/kchannel.m3u8
-#EXTINF:-1 tvg-id="70" tvg-name="King TV" group-title="Local" tvg-logo="https://i.ibb.co/q5CdR16/Kingtv.jpg",King TV
+#EXTINF:-1 tvg-id="70" tvg-name="King TV" group-title="Local" tvg-logo="https://i.ibb.co/q5CdR16/Kingtv.jpg", King TV
 https://rtmp.bmlive.net/kingtv/kingtv/index.m3u8
-#EXTINF:-1 tvg-id="71" tvg-name="Ramya TV" group-title="Local" tvg-logo="https://i.ibb.co/nbXNN3b/Ramyatv.jpg",Ramya TV
+#EXTINF:-1 tvg-id="71" tvg-name="Ramya TV" group-title="Local" tvg-logo="https://i.ibb.co/nbXNN3b/Ramyatv.jpg", Ramya TV
 https://live.brightmeltech.in/ramyatv/ramyatv.m3u8
-#EXTINF:-1 tvg-id="72" tvg-name="Vani TV" group-title="Local HD" tvg-logo="https://i.ibb.co/vmS9DLS/Vanitvhd554x312.jpg",Vani TV
+#EXTINF:-1 tvg-id="72" tvg-name="Vani TV" tvg-logo="https://i.ibb.co/vmS9DLS/Vanitvhd554x312.jpg" group-title="Local HD", Vani TV
 https://live.sscloud7.in/live/vanitvhd/index.m3u8
-#EXTINF:-1 tvg-id="73" tvg-name="Surya HD" group-title="Local HD" tvg-logo="https://i.ibb.co/Km2XQkK/Suryahd.jpg",Surya HD
+#EXTINF:-1 tvg-id="73" tvg-name="Surya HD" tvg-logo="https://i.ibb.co/Km2XQkK/Suryahd.jpg" group-title="Local HD", Surya HD
 https://live.sscloud7.in/live/suryatv/index.m3u8
-#EXTINF:-1 tvg-id="74" tvg-name="Minnal TV" group-title="Local" tvg-logo="https://i.ibb.co/5LqBc0Q/Minnalhd554x312.jpg",Minnal TV
+#EXTINF:-1 tvg-id="74" tvg-name="Minnal TV" group-title="Local" tvg-logo="https://i.ibb.co/5LqBc0Q/Minnalhd554x312.jpg", Minnal TV
 https://ipcloud.live/minnaltv/minnalhd/index.m3u8
-#EXTINF:-1 tvg-id="75" tvg-name="NTN TV" group-title="Local" tvg-logo="https://i.ibb.co/Ctcw1gP/Ntn250x250.jpg",NTN TV
+#EXTINF:-1 tvg-id="75" tvg-name="NTN TV" group-title="Local" tvg-logo="https://i.ibb.co/Ctcw1gP/Ntn250x250.jpg", NTN TV
 https://live.skystream.in/live/ntntv/index.m3u8
-#EXTINF:-1 tvg-id="76" tvg-name="Anandham TV" group-title="Local" tvg-logo="https://i.ibb.co/crjJVdY/Anandhamtv250x250.jpg",Anandham TV
+#EXTINF:-1 tvg-id="76" tvg-name="Anandham TV" group-title="Local" tvg-logo="https://i.ibb.co/crjJVdY/Anandhamtv250x250.jpg", Anandham TV
 https://stream.galaxyott.live/live/anandhamtv/index.m3u8
-#EXTINF:-1 tvg-id="77" tvg-name="N TV TRICHY" group-title="Local HD" tvg-logo="https://i.ibb.co/6sptcNn/Ntv.jpg",N TV TRICHY
+#EXTINF:-1 tvg-id="77" tvg-name="N TV TRICHY" group-title="Local HD" tvg-logo="https://i.ibb.co/6sptcNn/Ntv.jpg", N TV TRICHY
 https://stream.sscloud7.in/live/ntv/index.m3u8
-#EXTINF:-1 tvg-id="78" tvg-name="Smiley TV" group-title="Local" tvg-logo="https://i.ibb.co/ftR4XnX/Smileytv-554x312.jpg",Smiley TV
+#EXTINF:-1 tvg-id="78" tvg-name="Smiley TV" group-title="Local" tvg-logo="https://i.ibb.co/ftR4XnX/Smileytv-554x312.jpg", Smiley TV
 https://live1.sscloud7.com/live/smileytv/index.m3u8
-#EXTINF:-1 tvg-id="79" tvg-name="SS HD" group-title="Local - Movies" tvg-logo="https://i.ibb.co/f9Yrpx9/Sstv250x250.jpg",SS HD
+#EXTINF:-1 tvg-id="79" tvg-name="SS HD" tvg-logo="https://i.ibb.co/f9Yrpx9/Sstv250x250.jpg" group-title="Local - Movies", SS HD
 https://server.sscloud7.in/live/sshd/index.m3u8
-#EXTINF:-1 tvg-id="80" tvg-name="Subin TV" group-title="Local HD" tvg-logo="https://i.ibb.co/pQF9bWx/Subintv-554x312.jpg",Subin TV
+#EXTINF:-1 tvg-id="80" tvg-name="Subin TV" tvg-logo="https://i.ibb.co/pQF9bWx/Subintv-554x312.jpg" group-title="Local HD" , Subin TV
 https://stream.galaxyott.live/live/subintv/index.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="Rainbow TV ERODE" group-title="Local" tvg-logo="https://i.ibb.co/vdXLhWm/Rainbowtv250x250.jpg",Rainbow TV ERODE
 https://live.skystream.in/live/rainbowtv/index.m3u8
-#EXTINF:-1 tvg-id="82" tvg-name="VELUR TV" group-title="Local" tvg-logo="https://i.ibb.co/nR3cfxP/Velurtv.jpg",VELUR TV
+#EXTINF:-1 tvg-id="82" tvg-name="VELUR TV" group-title="Local" tvg-logo="https://i.ibb.co/nR3cfxP/Velurtv.jpg", VELUR TV
 https://stream.onecloudlive.in/bass/velurtv/index.m3u8
-#EXTINF:-1 tvg-id="83" tvg-name="U TV" group-title="Local" tvg-logo="https://i.ibb.co/YZmJ8KG/Utvhd.jpg",U TV
+#EXTINF:-1 tvg-id="83" tvg-name="U TV" group-title="Local" tvg-logo="https://i.ibb.co/YZmJ8KG/Utvhd.jpg", U TV
 https://stream.galaxyott.live/live/utv/index.m3u8
-#EXTINF:-1 tvg-id="84" tvg-name="ATN TV" group-title="Local" tvg-logo="https://i.ibb.co/XJpw2fT/ATN.jpg",ATN TV
+#EXTINF:-1 tvg-id="84" tvg-name="ATN TV" group-title="Local" tvg-logo="https://i.ibb.co/XJpw2fT/ATN.jpg", ATN TV
 https://stream.onecloudlive.in/atntv/atnhd/index.m3u8
-#EXTINF:-1 tvg-id="85" tvg-name="SKY TV T-GODE" group-title="Local" tvg-logo="https://i.ibb.co/8Dpvbwm/Skyplustv.jpg",SKY TV T-GODE
+#EXTINF:-1 tvg-id="85" tvg-name="SKY TV T-GODE" group-title="Local" tvg-logo="https://i.ibb.co/8Dpvbwm/Skyplustv.jpg", SKY TV T-GODE
 https://ipcloud.live/skytv/skytv/index.m3u8
-#EXTINF:-1 tvg-id="86" tvg-name="Surya TV" group-title="Local" tvg-logo="https://i.ibb.co/cgXyNCm/Suryatv554x312.jpg",Surya TV
+#EXTINF:-1 tvg-id="86" tvg-name="Surya TV" group-title="Local" tvg-logo="https://i.ibb.co/cgXyNCm/Suryatv554x312.jpg", Surya TV
 https://galaxyott.live/hls/suryatv.m3u8
-#EXTINF:-1 tvg-id="87" tvg-name="MP TV" group-title="Local HD" tvg-logo="https://i.ibb.co/sqQGGjS/Mptv250x250.jpg",MP TV
+#EXTINF:-1 tvg-id="87" tvg-name="MP TV" tvg-logo="https://i.ibb.co/sqQGGjS/Mptv250x250.jpg" group-title="Local HD", MP TV
 https://stream.sscloud7.in/live/mptv/index.m3u8
-#EXTINF:-1 tvg-id="88" tvg-name="NTV HD" group-title="Local" tvg-logo="https://i.ibb.co/Pm7tXRK/Ntvhd250x250.jpg",NTV HD
+#EXTINF:-1 tvg-id="88" tvg-name="NTV HD" group-title="Local" tvg-logo="https://i.ibb.co/Pm7tXRK/Ntvhd250x250.jpg", NTV HD
 https://galaxyott.live/hls/ntv.m3u8
-#EXTINF:-1 tvg-id="89" tvg-name="Malar TV" group-title="Local" tvg-logo="https://i.ibb.co/9nFF3Bx/Malartv.jpg",Malar TV
+#EXTINF:-1 tvg-id="89" tvg-name="Malar TV" group-title="Local" tvg-logo="https://i.ibb.co/9nFF3Bx/Malartv.jpg", Malar TV
 https://sscloud7.com/live/malartv/index.m3u8
 
-#EXTINF:-1 tvg-id="91" tvg-name="G TV" group-title="Local" tvg-logo="https://i.ibb.co/R4ywdYt/Gtv.jpg",G TV
+#EXTINF:-1 tvg-id="91" tvg-name="G TV" group-title="Local" tvg-logo="https://i.ibb.co/R4ywdYt/Gtv.jpg", G TV
 https://play.applelive.in/gtv/gtv.m3u8
-#EXTINF:-1 tvg-id="92" tvg-name="GTV Max" group-title="Local" tvg-logo="https://i.ibb.co/zhcVdr2/Gtvmax.jpg",GTV Max
+#EXTINF:-1 tvg-id="92" tvg-name="GTV Max" group-title="Local" tvg-logo="https://i.ibb.co/zhcVdr2/Gtvmax.jpg", GTV Max
 https://play.applelive.in/gtvmax/gtvmax.m3u8
 
-#EXTINF:-1 tvg-id="93" tvg-name="ROJA TV" tvg-logo= "https://images.jdmagicbox.com/quickquotes/images_main/scrolling-2225252502-tl0lld0p.png" group-title="Local HD", Roja TV
+#EXTINF:-1 tvg-id="93" tvg-name="ROJA TV" tvg-logo= "" group-title="Local HD", Roja TV
 https://stream.rojatv.cloud/rojatv/rojatv/index.mpd
-#EXTINF:-1 tvg-id="94" tvg-name="Roja HD" group-title="Local HD" tvg-logo="",Roja HD
+
+#EXTINF:-1 tvg-id="94" tvg-name="Roja HD" tvg-logo= "" group-title="Local HD", Roja HD
 https://live.rojatv.cloud/rojatv/rojatv/index.mpd
-#EXTINF:-1 tvg-id="95" tvg-name="Eye TV" group-title="Local" tvg-logo="",Eye TV
+
+#EXTINF:-1 tvg-id="95" tvg-name="Eye TV" group-title="Local" tvg-logo="", Eye TV
 https://novaiptv.cc/live/eyetamil/4257832/32fa2542-142d-48e5-86ad-fc98be0e9e5f.m3u8
-#EXTINF:-1 tvg-id="96" tvg-name=" TV" group-title="Local" tvg-logo="", TV
+#EXTINF:-1 tvg-id="96" tvg-name="Nila TV" group-title="Local" tvg-logo="", Nila TV
 https://live.olidigital.in/nilatv/nilatv/index.m3u8
-#EXTINF:-1 tvg-id="97" tvg-name="Apple TV Pondy" group-title="Local" tvg-logo="",Apple TV Pondy
+#EXTINF:-1 tvg-id="97" tvg-name="Apple TV Pondy" group-title="Local" tvg-logo="", Apple TV Pondy
 https://stream.iplive.xyz/appletv/4kpondy/index.m3u8
 
 #EXTINF:-1 tvg-id="101" tvg-name="TV1" group-title="MOVIES", TV1
