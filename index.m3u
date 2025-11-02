@@ -546,19 +546,19 @@ https://f-tx-edge-86.christianworldmedia.com/lordtvministries/mp4:lordtvministri
 #EXTINF:-1  tvg-id="601" tvg-name="Makkal Tv"  group-title="FTA" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_1451308776051361970842423.png",Makkal Tv
 http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 
-#EXTINF:-1  tvg-id="602" tvg-logo="https://i.imgur.com/5PyJj2n.png" group-title="FTA",Peppers TV (751p)
+#EXTINF:-1  tvg-id="602" tvg-logo="https://i.imgur.com/5PyJj2n.png" group-title="FTA",Peppers TV
 https://cdn-2.pishow.tv/live/1383/master.m3u8
 
-#EXTINF:-1  tvg-id="603" tvg-logo="https://i.imgur.com/etr1k08.png" group-title="FTA",Vaanavil TV (720p)
+#EXTINF:-1  tvg-id="603" tvg-logo="https://i.imgur.com/etr1k08.png" group-title="FTA",Vaanavil TV
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-id="604" tvg-logo="https://i.imgur.com/MohlE5B.png" group-title="FTA",DD National HD (1080p)
+#EXTINF:-1  tvg-id="604" tvg-logo="https://i.imgur.com/MohlE5B.png" group-title="FTA",DD National HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 
-#EXTINF:-1  tvg-id="605" tvg-logo="https://i.imgur.com/wZjEssv.png" group-title="FTA",MK Six (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="605" tvg-logo="https://i.imgur.com/wZjEssv.png" group-title="FTA",MK Six
 https://cdn-3.pishow.tv/live/1253/master.m3u8
 
-#EXTINF:-1  tvg-id="606" tvg-logo="https://i.imgur.com/jSedjXf.png" group-title="FTA",Dheeran TV (576p)
+#EXTINF:-1  tvg-id="606" tvg-logo="https://i.imgur.com/jSedjXf.png" group-title="FTA",Dheeran TV
 https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="607" tvg-name="DD POTHIGAI" tvg-logo= "" group-title="FTA", DD POTHIGAI
