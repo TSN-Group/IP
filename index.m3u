@@ -163,7 +163,7 @@ https://play.applelive.in/haitv/haitv.m3u8
 https://play.applelive.in/jeysontv/jeysontv.m3u8
 #EXTINF:-1 tvg-id="57" tvg-name="Jeyson Max TV" tvg-logo="https://i.imgur.com/FapUM0N.gif" group-title="Local",Jeyson Max TV
 https://play.applelive.in/jjmax/jjmax.m3u8
-#EXTINF:-1 tvg-id="58" tvg-name="Boss TV" tvg-logo="https://i.ibb.co/MBv5sVy/Bosstv.jpg" group-title="Local - Movies",Boss TV
+#EXTINF:-1 tvg-id="58" tvg-name="Boss TV" tvg-logo="https://i.ibb.co/MBv5sVy/Bosstv.jpg" group-title="Local - Movies", Boss TV
 https://play.applelive.in/vasantv/vasantv.m3u8
 #EXTINF:-1 tvg-id="59" tvg-name="Jc TV" tvg-logo="https://i.ibb.co/WB139LF/Jctv.jpg" group-title="Local", Jc TV
 https://play.applelive.in/jctv/jctv.m3u8
@@ -240,11 +240,11 @@ https://stream.rojatv.cloud/rojatv/rojatv/index.mpd
 #EXTINF:-1 tvg-id="94" tvg-name="Roja HD" tvg-logo= "" group-title="Local HD", Roja HD
 https://live.rojatv.cloud/rojatv/rojatv/index.mpd
 
-#EXTINF:-1 tvg-id="95" tvg-name="Eye TV" group-title="Local" tvg-logo="", Eye TV
+#EXTINF:-1 tvg-id="95" tvg-name="Eye TV" tvg-logo="" group-title="Local", Eye TV
 https://novaiptv.cc/live/eyetamil/4257832/32fa2542-142d-48e5-86ad-fc98be0e9e5f.m3u8
-#EXTINF:-1 tvg-id="96" tvg-name="Nila TV" group-title="Local" tvg-logo="", Nila TV
+#EXTINF:-1 tvg-id="96" tvg-name="Nila TV" tvg-logo="" group-title="Local" , Nila TV
 https://live.olidigital.in/nilatv/nilatv/index.m3u8
-#EXTINF:-1 tvg-id="97" tvg-name="Apple TV Pondy" group-title="Local" tvg-logo="", Apple TV Pondy
+#EXTINF:-1 tvg-id="97" tvg-name="Apple TV Pondy" tvg-logo=""  group-title="Local", Apple TV Pondy
 https://stream.iplive.xyz/appletv/4kpondy/index.m3u8
 
 #EXTINF:-1 tvg-id="101" tvg-name="TV1" group-title="MOVIES", TV1
@@ -328,13 +328,13 @@ https://segment.yuppcdn.net/240122/news7/playlist.m3u8
 #EXTINF:-1 tvg-id="502" tvg-name="POLIMER NEWS" tvg-logo= "" group-title="NEWS", POLIMER NEWS
 https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="503" tvg-logo="https://i.imgur.com/M92IDhq.png" group-title="NEWS",Malai Murasu TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="503" tvg-logo="https://i.imgur.com/M92IDhq.png" group-title="NEWS",Malai Murasu TV
 https://cdn-3.pishow.tv/live/1606/master.m3u8
 
-#EXTINF:-1 tvg-id="504" tvg-logo="https://i.imgur.com/RqeF8RR.png" group-title="NEWS",News J (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="504" tvg-logo="https://i.imgur.com/RqeF8RR.png" group-title="NEWS",News J
 https://cdn-3.pishow.tv/live/1279/master.m3u8
 
-#EXTINF:-1 tvg-id="505"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Tamil_24x7.png" group-title="NEWS",News Tamil 24x7 (1080p)
+#EXTINF:-1 tvg-id="505"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Tamil_24x7.png" group-title="NEWS",News Tamil 24x7
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-tamil-24x7/index.m3u8
 
 #EXTINF:-1 tvg-id="506"  tvg-logo="https://i.imgur.com/Hgp4sQq.png" group-title="NEWS",Puthiya Thalaimurai
@@ -343,13 +343,13 @@ https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
 #EXTINF:-1 tvg-id="507" tvg-name="Win TV" tvg-logo="https://i.imgur.com/xQutJMq.png" group-title="NEWS",Win TV
 https://cdn-4.pishow.tv/live/1531/master.m3u8
 
-#EXTINF:-1 tvg-id="508" tvg-name="ZEE TAMIL NEWS" group-title="NEWS" tvg-logo="",ZEE TAMIL NEWS
+#EXTINF:-1 tvg-id="508" tvg-name="ZEE TAMIL NEWS" tvg-logo="" group-title="NEWS",ZEE TAMIL NEWS
 https://dpkvdnzbeen1l.cloudfront.net/index_3.m3u8
 
-#EXTINF:-1 tvg-id="509" tvg-name="NEWS18 TAMIL" group-title="NEWS" tvg-logo="",NEWS18 TAMIL
+#EXTINF:-1 tvg-id="509" tvg-name="NEWS18 TAMIL" tvg-logo="" group-title="NEWS",NEWS18 TAMIL
 https://nw18live.cdn.jio.com/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/index.m3u8
 
-V#EXTINF:-1 tvg-id="510" tvg-name="SATHIYAM TV" group-title="NEWS" tvg-logo="",SATHIYAM TV
+V#EXTINF:-1 tvg-id="510" tvg-name="SATHIYAM TV" tvg-logo="" group-title="NEWS",SATHIYAM TV
 https://live-sathiyamtv.dailyhunt.in/eternowsa/live/amlst:sathiyamtv_,b256,b512,b1024,b1824,.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="301" group-title="Tamil FM Radio" ,Radio Mirchi 98.3 Chennai HD
@@ -502,18 +502,18 @@ https://bakthiisai-unicast2u.radioca.st/stream
 #EXTINF:-1 vg-id="401"tvg-name="Sai TV" tvg-logo="https://i.imgur.com/3e0tsrx.png" group-title="Devotional",Sai TV
 https://account30.livebox.co.in/saitvhls/live.m3u8
 
-#EXTINF:-1 tvg-id="402" tvg-name="DHARSHAN TV" group-title="Devotional" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240306_2144488526404058563256885.png",DHARSHAN TV
+#EXTINF:-1 tvg-id="402" tvg-name="DHARSHAN TV" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240306_2144488526404058563256885.png" group-title="Devotional",DHARSHAN TV
 https://galaxyott.live/hls/dharshantv.m3u8
 
-#EXTINF:-1  tvg-id="403"tvg-name="TTD" group-title="Devotional" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_2032542389748254668780317.png",TTD
+#EXTINF:-1  tvg-id="403"tvg-name="TTD" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_2032542389748254668780317.png" group-title="Devotional",TTD
 https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
-#EXTINF:-1 tvg-id="404" tvg-name="Garudan TV" group-title="DEVOTIONAL" tvg-logo="https://i.ibb.co/j5DtKkS/Gurudanmedia.jpg",Garudan TV
+#EXTINF:-1 tvg-id="404" tvg-name="Garudan TV" tvg-logo="https://i.ibb.co/j5DtKkS/Gurudanmedia.jpg" group-title="Devotional",Garudan TV
 https://play.applelive.in/hls/garudantv.m3u8
 
-#EXTINF:-1  tvg-id="405" tvg-name="Madha Tv" group-title="Devotional" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240425_0018005459724516056593968.png",Madha Tv
+#EXTINF:-1  tvg-id="405" tvg-name="Madha Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240425_0018005459724516056593968.png" group-title="Devotional",Madha Tv
 http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w1300032347.m3u8
 
-#EXTINF:-1  tvg-id="406" tvg-name="Nambikkai Tv" group-title="Devotional" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240410_0903424892020623651969924.png",Nambikkai
+#EXTINF:-1  tvg-id="406" tvg-name="Nambikkai Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240410_0903424892020623651969924.png" group-title="Devotional",Nambikkai
 http://mk9qa7n8qwyb-hls-live.wmncdn.net/nambikkaitv/live.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="407" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Devotional",Angel TV
@@ -522,27 +522,27 @@ https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/p
 #EXTINF:-1 tvg-id="408" tvg-logo="https://i.imgur.com/GlfrYs7.png" group-title="Devotional",Blessing TV Tamil
 https://stream.blessingtv.tv:1443/blessingtv-tamillive/mystream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="409" tvg-name="Family Channel" group-title="Local" tvg-logo="https://i.imgur.com/UnuDHW9.jpg",Family Channel
+#EXTINF:-1 tvg-id="409" tvg-name="Family Channel" tvg-logo="https://i.imgur.com/UnuDHW9.jpg" group-title="Devotional",Family Channel
 https://2-fss-2.streamhoster.com/pl_118/amlst:203324-1410936/playlist.m3u8
-#EXTINF:-1 tvg-id="410" tvg-name="Adhisayam TV" group-title="Local" tvg-logo="https://i.imgur.com/6b3nJcD.png",Adhisayam TV
+#EXTINF:-1 tvg-id="410" tvg-name="Adhisayam TV" tvg-logo="https://i.imgur.com/6b3nJcD.png" group-title="Devotional",Adhisayam TV
 https://livetv.adhisayamtv.org/adhisayamtv/83a062a18a761b948a73ad2ba7747a8f.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="411" tvg-name="Channel 316" group-title="Local" tvg-logo="https://i.imgur.com/z8azsGr.png",Channel 316
+#EXTINF:-1 tvg-id="411" tvg-name="Channel 316" tvg-logo="https://i.imgur.com/z8azsGr.png" group-title="Devotional",Channel 316
 https://channel316.livebox.co.in/c316hls/live.m3u8
-#EXTINF:-1 tvg-id="412" tvg-name="Nambikkai TV" group-title="Local" tvg-logo="",Nambikkai TV
+#EXTINF:-1 tvg-id="412" tvg-name="Nambikkai TV" tvg-logo="" group-title="Devotional",Nambikkai TV
 https://mk9qa7n8qwyb-hls-live.wmncdn.net/nambikkaitv/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="413" tvg-name="Bible TV" group-title="Local" tvg-logo="",Bible TV
+#EXTINF:-1 tvg-id="413" tvg-name="Bible TV" tvg-logo="" group-title="Devotional",Bible TV
 https://account33.livebox.co.in/bibletvhls/live.m3u8
-#EXTINF:-1 tvg-id="414" tvg-name="GoRevival TV" group-title="Local" tvg-logo="https://i.imgur.com/h9hsOt0.jpg",GoRevival TV
+#EXTINF:-1 tvg-id="414" tvg-name="GoRevival TV" tvg-logo="https://i.imgur.com/h9hsOt0.jpg" group-title="Devotional",GoRevival TV
 https://ktismaservers.in:3870/live/gorevivaltvlive.m3u8
-#EXTINF:-1 tvg-id="415" tvg-name="Life TV" group-title="Local" tvg-logo="https://i.imgur.com/k9PEoM2.png",Life TV
+#EXTINF:-1 tvg-id="415" tvg-name="Life TV" tvg-logo="https://i.imgur.com/k9PEoM2.png" group-title="Devotional",Life TV
 https://lifetv.livebox.co.in/lifetvtamilhls/live.m3u8
-#EXTINF:-1 tvg-id="416" tvg-name="Jeyam TV" group-title="Local" tvg-logo="https://i.imgur.com/5yi1uuA.png",Jeyam TV
+#EXTINF:-1 tvg-id="416" tvg-name="Jeyam TV" tvg-logo="https://i.imgur.com/5yi1uuA.png" group-title="Devotional",Jeyam TV
 https://jeyamtv.livebox.co.in/JeyamTelevisionhls/JeyamTelevision.m3u8
-#EXTINF:-1 tvg-id="417" tvg-name="Heaven TV" group-title="Local" tvg-logo="https://i.imgur.com/ozvCUrc.png",Heaven TV
+#EXTINF:-1 tvg-id="417" tvg-name="Heaven TV" tvg-logo="https://i.imgur.com/ozvCUrc.png" group-title="Devotional",Heaven TV
 http://209.58.160.179/heaventvhls/live.m3u8
-#EXTINF:-1 tvg-id="418" tvg-name="Grace TV" group-title="Local" tvg-logo="https://i.imgur.com/h8gsBkL.png",Grace TV
+#EXTINF:-1 tvg-id="418" tvg-name="Grace TV" tvg-logo="https://i.imgur.com/h8gsBkL.png" group-title="Devotional",Grace TV
 https://gracetvcgl.livebox.co.in/Gracetvhls/Gracetv.m3u8
-#EXTINF:-1 tvg-id="419" tvg-name="Lord TV" group-title="Local" tvg-logo="https://i.imgur.com/3UDjX1H.png",Lord TV
+#EXTINF:-1 tvg-id="419" tvg-name="Lord TV" tvg-logo="https://i.imgur.com/3UDjX1H.png" group-title="Devotional",Lord TV
 https://f-tx-edge-86.christianworldmedia.com/lordtvministries/mp4:lordtvministries/playlist.m3u8
 
 
