@@ -208,7 +208,7 @@ https://stream.sscloud7.in/live/ntv/index.m3u8
 https://live1.sscloud7.com/live/smileytv/index.m3u8
 #EXTINF:-1 tvg-id="79" tvg-name="SS HD" tvg-logo="https://i.ibb.co/f9Yrpx9/Sstv250x250.jpg" group-title="Local - Movies", SS HD
 https://server.sscloud7.in/live/sshd/index.m3u8
-#EXTINF:-1 tvg-id="80" tvg-name="Subin TV" tvg-logo="https://i.ibb.co/pQF9bWx/Subintv-554x312.jpg" group-title="Local HD" , Subin TV
+#EXTINF:-1 tvg-id="80" tvg-name="Subin TV" tvg-logo="https://i.ibb.co/pQF9bWx/Subintv-554x312.jpg" group-title="Local HD", Subin TV
 https://stream.galaxyott.live/live/subintv/index.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="Rainbow TV ERODE" tvg-logo="https://i.ibb.co/vdXLhWm/Rainbowtv250x250.jpg" group-title="Local",Rainbow TV ERODE
 https://live.skystream.in/live/rainbowtv/index.m3u8
@@ -246,9 +246,9 @@ https://novaiptv.cc/live/eyetamil/4257832/32fa2542-142d-48e5-86ad-fc98be0e9e5f.m
 https://live.olidigital.in/nilatv/nilatv/index.m3u8
 #EXTINF:-1 tvg-id="97" tvg-name="Apple TV Pondy" tvg-logo=""  group-title="Local", Apple TV Pondy
 https://stream.iplive.xyz/appletv/4kpondy/index.m3u8
-#EXTINF:-1 tvg-id="97" tvg-name="TDN Kanchi" tvg-logo=""  group-title="Local HD", TDN Kanchi
+#EXTINF:-1 tvg-id="98" tvg-name="TDN Kanchi" tvg-logo=""  group-title="Local HD", TDN Kanchi
 http://live.maxtn.in/tdn/tdn/playlist.m3u8
-#EXTINF:-1 tvg-id="97" tvg-name="MAX MUSIC" tvg-logo=""  group-title="Local - MUSIC", MAX MUSIC
+#EXTINF:-1 tvg-id="99" tvg-name="MAX MUSIC" tvg-logo=""  group-title="Local - Music", MAX MUSIC
 http://live.maxtn.in/maxmusic/maxmusic/playlist.m3u8
 
 #EXTINF:-1 tvg-id="101" tvg-name="TV1" group-title="MOVIES", TV1
