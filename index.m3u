@@ -494,9 +494,9 @@ https://stream.zeno.fm/uprgkb5w338uv
 https://stream.zeno.fm/kxqaxf7t438uv
 #EXTINF:-1, tvg-id="371" group-title="Tamil FM Radio" ,Old Gold Radio Cuckoo Radio
 http://live.tamilkuyilradio.com:8002/oldgoldradio
-#EXTINF:-1 tvg-id="372" group-title="Tamil FM Radio",OM Radio
+#EXTINF:-1 tvg-id="372" group-title="Tamil FM Radio" ,OM Radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/OMRADIO_S01AAC_SC
-#EXTINF:-1 tvg-id="373" group-title="Tamil FM Radio",Bakthi lsai Radio
+#EXTINF:-1 tvg-id="373" group-title="Tamil FM Radio" ,Bakthi lsai Radio
 https://bakthiisai-unicast2u.radioca.st/stream
 
 #EXTINF:-1 vg-id="401"tvg-name="Sai TV" tvg-logo="https://i.imgur.com/3e0tsrx.png" group-title="Devotional",Sai TV
@@ -546,7 +546,7 @@ https://gracetvcgl.livebox.co.in/Gracetvhls/Gracetv.m3u8
 https://f-tx-edge-86.christianworldmedia.com/lordtvministries/mp4:lordtvministries/playlist.m3u8
 
 
-#EXTINF:-1  tvg-id="601" tvg-name="Makkal Tv"  group-title="FTA" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_1451308776051361970842423.png",Makkal Tv
+#EXTINF:-1  tvg-id="601" tvg-name="Makkal Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_1451308776051361970842423.png"  group-title="FTA",Makkal Tv
 http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 
 #EXTINF:-1  tvg-id="602" tvg-logo="https://i.imgur.com/5PyJj2n.png" group-title="FTA",Peppers TV
