@@ -182,7 +182,7 @@ https://stream.sscloud7.in/live/vishiltv2/index.m3u8
 
 #EXTINF:-1 tvg-id="66" tvg-name="GSJK HD" tvg-logo= "https://i.ibb.co/bdY4kVQ/Gsjktv.jpg" group-title="Local HD", GSJK HD
 https://live.brightmeltech.in/gsjktv/gsjktv.m3u8
-#EXTINF:-1 tvg-id="67" tvg-name="Vishil HD" group-title="Local" tvg-logo="https://i.ibb.co/Gtg4rZn/Vishilhd.jpg" group-title="Local", Vishil HD
+#EXTINF:-1 tvg-id="67" tvg-name="Vishil HD" tvg-logo="https://i.ibb.co/Gtg4rZn/Vishilhd.jpg" group-title="Local", Vishil HD
 https://stream.sscloud7.in/live/vishiltv1/index.m3u8
 #EXTINF:-1 tvg-id="68" tvg-name="Raja HD" tvg-logo="https://i.ibb.co/ng35NrN/Rajatv.jpg" group-title="Local HD", Raja HD
 https://live.brightmeltech.in/rajatv/rajatv.m3u8
@@ -220,7 +220,7 @@ https://stream.galaxyott.live/live/utv/index.m3u8
 https://stream.onecloudlive.in/atntv/atnhd/index.m3u8
 #EXTINF:-1 tvg-id="85" tvg-name="SKY TV T-GODE" tvg-logo="https://i.ibb.co/8Dpvbwm/Skyplustv.jpg" group-title="Local", SKY TV T-GODE
 https://ipcloud.live/skytv/skytv/index.m3u8
-#EXTINF:-1 tvg-id="86" tvg-name="Surya TV" group-title="Local" tvg-logo="https://i.ibb.co/cgXyNCm/Suryatv554x312.jpg" group-title="Local", Surya TV
+#EXTINF:-1 tvg-id="86" tvg-name="Surya TV" tvg-logo="https://i.ibb.co/cgXyNCm/Suryatv554x312.jpg" group-title="Local", Surya TV
 https://galaxyott.live/hls/suryatv.m3u8
 #EXTINF:-1 tvg-id="87" tvg-name="MP TV" tvg-logo="https://i.ibb.co/sqQGGjS/Mptv250x250.jpg" group-title="Local HD", MP TV
 https://stream.sscloud7.in/live/mptv/index.m3u8
@@ -242,7 +242,7 @@ https://live.rojatv.cloud/rojatv/rojatv/index.mpd
 
 #EXTINF:-1 tvg-id="95" tvg-name="Eye TV" tvg-logo="" group-title="Local", Eye TV
 https://novaiptv.cc/live/eyetamil/4257832/32fa2542-142d-48e5-86ad-fc98be0e9e5f.m3u8
-#EXTINF:-1 tvg-id="96" tvg-name="Nila TV" tvg-logo="" group-title="Local" , Nila TV
+#EXTINF:-1 tvg-id="96" tvg-name="Nila TV" tvg-logo="" group-title="Local", Nila TV
 https://live.olidigital.in/nilatv/nilatv/index.m3u8
 #EXTINF:-1 tvg-id="97" tvg-name="Apple TV Pondy" tvg-logo=""  group-title="Local", Apple TV Pondy
 https://stream.iplive.xyz/appletv/4kpondy/index.m3u8
