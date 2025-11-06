@@ -240,11 +240,11 @@ https://play.applelive.in/gtv/gtv.m3u8
 #EXTINF:-1 tvg-id="92" tvg-name="GTV Max" tvg-logo="https://i.ibb.co/zhcVdr2/Gtvmax.jpg" group-title="Local", GTV Max
 https://play.applelive.in/gtvmax/gtvmax.m3u8
 
-#EXTINF:-1 tvg-id="93" tvg-name="ROJA TV" tvg-logo= "" group-title="Local HD", Roja TV
-https://stream.rojatv.cloud/rojatv/rojatv/index.mpd
+#EXTINF:-1 tvg-id="93" tvg-name="VTR" tvg-logo= "" group-title="Local HD", VTR
+http://vtrtelevision.stream.onecloudlive.in:8080/vtrtelevision/vtrhd/index.m3u8
 
-#EXTINF:-1 tvg-id="94" tvg-name="Roja HD" tvg-logo= "" group-title="Local HD", Roja HD
-https://live.rojatv.cloud/rojatv/rojatv/index.mpd
+#EXTINF:-1 tvg-id="94" tvg-name="ATN" tvg-logo= "" group-title="Local", Roja HD
+http://atntv.stream.onecloudlive.in:8080/atntv/atnhd/index.m3u8
 
 #EXTINF:-1 tvg-id="95" tvg-name="Eye TV" tvg-logo="" group-title="Local", Eye TV
 https://novaiptv.cc/live/eyetamil/4257832/32fa2542-142d-48e5-86ad-fc98be0e9e5f.m3u8
@@ -256,80 +256,88 @@ https://stream.iplive.xyz/appletv/4kpondy/index.m3u8
 http://live.maxtn.in/tdn/tdn/playlist.m3u8
 #EXTINF:-1 tvg-id="99" tvg-name="MAX MUSIC" tvg-logo=""  group-title="Local - Music", MAX MUSIC
 http://live.maxtn.in/maxmusic/maxmusic/playlist.m3u8
+#EXTINF:-1 tvg-id="100" tvg-name="ISAI SARAL" tvg-logo="https://i.ibb.co/WWHNT7M/isai-saral.png" group-title="Local - Music",Isai Saral TV
+http://srnet.bmlive.net:1935/isaisaral/mystream/index.m3u8
 
-#EXTINF:-1 tvg-id="101" tvg-name="TV1" group-title="MOVIES", TV1
+#EXTINF:-1 tvg-id="101" tvg-name="DHONI TV"tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240417_2219106701280619230998159.png" group-title="Local",Dhoni TV
+https://ipcloud.live/sachintv/dhonitv/index.m3u8
+#EXTINF:-1 tvg-id="102" tvg-name="SAAMI TV" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/02/20240226_1554105857472875437555860.png" group-title="Local", Saami TV
+https://ipcloud.live/msntv/saamitv/index.m3u8
+
+
+#EXTINF:-1 tvg-id="201" tvg-name="TV1" group-title="MOVIES", TV1
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:5c:e6:ef&stream=1019905&extension=ts&play_token=1L7gZ23uW3
 
-#EXTINF:-1 tvg-id="102" tvg-name="TV2" group-title="MOVIES", TV2
+#EXTINF:-1 tvg-id="202" tvg-name="TV2" group-title="MOVIES", TV2
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:5c:e6:ef&stream=1019911&extension=ts&play_token=YKJl3uLRT5
 
-#EXTINF:-1 tvg-id="103" tvg-name="TV3" group-title="MOVIES", TV3
+#EXTINF:-1 tvg-id="203" tvg-name="TV3" group-title="MOVIES", TV3
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734185&extension=ts&play_token=fx2dqiDWHw
 
-#EXTINF:-1 tvg-id="104" tvg-name="TV4" group-title="MOVIES", TV4
+#EXTINF:-1 tvg-id="204" tvg-name="TV4" group-title="MOVIES", TV4
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734186&extension=ts&play_token=I70fhu6Ers
 
-#EXTINF:-1 tvg-id="105" tvg-name="TV5" group-title="MOVIES", TV5
+#EXTINF:-1 tvg-id="205" tvg-name="TV5" group-title="MOVIES", TV5
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734174&extension=ts&play_token=Hn3pAViflO
 
-#EXTINF:-1 tvg-id="106" tvg-name="TV6" group-title="MOVIES", TV6
+#EXTINF:-1 tvg-id="206" tvg-name="TV6" group-title="MOVIES", TV6
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734175&extension=ts&play_token=rWRhTbyexY
 
-#EXTINF:-1 tvg-id="107" tvg-name="TV7" group-title="MOVIES", TV7
+#EXTINF:-1 tvg-id="207" tvg-name="TV7" group-title="MOVIES", TV7
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734160&extension=ts&play_token=w9RXNuUGOz
 
-#EXTINF:-1 tvg-id="108" tvg-name="TV8" group-title="MOVIES", TV8
+#EXTINF:-1 tvg-id="208" tvg-name="TV8" group-title="MOVIES", TV8
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734172&extension=ts&play_token=EKUtz6qxXN
 
-#EXTINF:-1 tvg-id="109" tvg-name="TV9" group-title="MOVIES", TV9
+#EXTINF:-1 tvg-id="209" tvg-name="TV9" group-title="MOVIES", TV9
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734169&extension=ts&play_token=iJtskXofsK
 
-#EXTINF:-1 tvg-id="110" tvg-name="TV10" group-title="MOVIES", TV10
+#EXTINF:-1 tvg-id="210" tvg-name="TV10" group-title="MOVIES", TV10
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734163&extension=ts&play_token=73p0A17uzE
 
-#EXTINF:-1 tvg-id="111" tvg-name="TV11" group-title="MOVIES", TV11
+#EXTINF:-1 tvg-id="211" tvg-name="TV11" group-title="MOVIES", TV11
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=734159&extension=ts&play_token=RWiDZWSEiy
 
-#EXTINF:-1 tvg-id="112" tvg-name="TV12" group-title="MOVIES", TV12
+#EXTINF:-1 tvg-id="212" tvg-name="TV12" group-title="MOVIES", TV12
 http://mag.trexlive.me/play/live.php?mac=00:1A:79:5c:e6:ef&stream=1019913&extension=ts&play_token=
 
-#EXTINF:-1 tvg-id="113" tvg-name="TV13" group-title="MOVIES", TV13
+#EXTINF:-1 tvg-id="213" tvg-name="TV13" group-title="MOVIES", TV13
 https://xtm.8088yyy.workers.dev/475474.m3u8
 
-#EXTINF:-1 tvg-id="114" tvg-name="TV14" group-title="MOVIES", TV14
+#EXTINF:-1 tvg-id="214" tvg-name="TV14" group-title="MOVIES", TV14
 https://xtm.8088yyy.workers.dev/475475.m3u8
 
-#EXTINF:-1 tvg-id="115" tvg-name="TV15" group-title="MOVIES", TV15
+#EXTINF:-1 tvg-id="215" tvg-name="TV15" group-title="MOVIES", TV15
 https://xtm.8088yyy.workers.dev/475476.m3u8
 
-#EXTINF:-1 tvg-id="116" tvg-name="TV16" group-title="MOVIES", TV16
+#EXTINF:-1 tvg-id="216" tvg-name="TV16" group-title="MOVIES", TV16
 https://xtm.8088yyy.workers.dev/475477.m3u8
 
-#EXTINF:-1 tvg-id="117" tvg-name="TV17" group-title="MOVIES", TV17
+#EXTINF:-1 tvg-id="217" tvg-name="TV17" group-title="MOVIES", TV17
 https://xtm.8088yyy.workers.dev/475478.m3u8
 
-#EXTINF:-1 tvg-id="118" tvg-name="TV18" group-title="MOVIES", TV18
+#EXTINF:-1 tvg-id="218" tvg-name="TV18" group-title="MOVIES", TV18
 https://xtm.8088yyy.workers.dev/3607.m3u8
 
-#EXTINF:-1 tvg-id="119" tvg-name="TV19" group-title="MOVIES", TV19
+#EXTINF:-1 tvg-id="219" tvg-name="TV19" group-title="MOVIES", TV19
 https://xtm.8088yyy.workers.dev/3608.m3u8
 
-#EXTINF:-1 tvg-id="120" tvg-name="TV20" group-title="MOVIES", TV20
+#EXTINF:-1 tvg-id="220" tvg-name="TV20" group-title="MOVIES", TV20
 https://xtm.8088yyy.workers.dev/3609.m3u8
 
-#EXTINF:-1 tvg-id="121" tvg-name="TV21" group-title="MOVIES", TV21
+#EXTINF:-1 tvg-id="221" tvg-name="TV21" group-title="MOVIES", TV21
 https://xtm.8088yyy.workers.dev/3610.m3u8
 
-#EXTINF:-1 tvg-id="122" tvg-name="TV22" group-title="MOVIES", TV22
+#EXTINF:-1 tvg-id="222" tvg-name="TV22" group-title="MOVIES", TV22
 https://xtm.8088yyy.workers.dev/3611.m3u8
 
-#EXTINF:-1 tvg-id="123" tvg-name="TV23" group-title="MOVIES", TV23
+#EXTINF:-1 tvg-id="223" tvg-name="TV23" group-title="MOVIES", TV23
 https://xtm.8088yyy.workers.dev/3612.m3u8
 
-#EXTINF:-1 tvg-id="124" tvg-name="TV24" group-title="MOVIES", TV24
+#EXTINF:-1 tvg-id="224" tvg-name="TV24" group-title="MOVIES", TV24
 https://xtm.8088yyy.workers.dev/3613.m3u8
 
-#EXTINF:-1 tvg-id="125" tvg-name="TV25" group-title="MOVIES", TV25
+#EXTINF:-1 tvg-id="225" tvg-name="TV25" group-title="MOVIES", TV25
 https://xtm.8088yyy.workers.dev/3614.m3u8
 
 #EXTINF:-1 tvg-id="501" tvg-name="NEWS 7" tvg-logo= "" group-title="NEWS", NEWS 7
