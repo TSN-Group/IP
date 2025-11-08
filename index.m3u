@@ -498,7 +498,7 @@ https://stream.rojatv.cloud/nammagobi/tv/index.m3u8
 https://app.ashokadigital.net/app/a3e0b02f/index.m3u8
 #EXTINF:-1 tvg-id="220" tvg-name="Ashoka Tv" tvg-logo="https://i.ibb.co/svps8B7N/1000150737.png" group-title="Local",Ashoka Tv
 https://app.ashokadigital.net/app/ce705f4a/index.m3u8
-#EXTINF:-1 tvg-id="221" tvg-name="SSCN" tvg-logo="https://i.ibb.co/cKhFX8gZ/1000153226.png" group-title="Local Music",SSCN
+#EXTINF:-1 tvg-id="221" tvg-name="SSCN" tvg-logo="https://i.ibb.co/cKhFX8gZ/1000153226.png" group-title="Local - Music",SSCN
 https://app.ashokadigital.net/sscn/sscn/index.m3u8
 #EXTINF:-1 tvg-id="222" tvg-name="Maniway" tvg-logo="https://i.ibb.co/ym7yNhgf/1000157490.png" group-title="Local",Maniway
 https://live.singamcloud.in/bsctv/bsctv/index.m3u8
@@ -598,7 +598,7 @@ https://play.applelive.in/hls/garudantv.m3u8
 https://amigofx.com:1936/easontv/easontv/playlist.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="Dharumai Adhenam Tv" tvg-logo="https://i.ibb.co/3KPJ581/1000150821.png" group-title="Devotional",Dharumai Adhenam Tv
 https://stream.onecloudlive.in/taitaltv/livetv/index.m3u8
-#EXTINF:-1 tvg-id="409" tvg-name="IBC Bakthi" group-title="International" tvg-logo="https://i.ibb.co/gM6n2Qwf/1000122568.jpg" group-title="Devotional",IBC Bakthi
+#EXTINF:-1 tvg-id="409" tvg-name="IBC Bakthi" tvg-logo="https://i.ibb.co/gM6n2Qwf/1000122568.jpg" group-title="Devotional",IBC Bakthi
 http://ibc.massstream.net/IBC2/index.m3u8
 #EXTINF:-1  tvg-id="410"tvg-name="TTD" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_2032542389748254668780317.png" group-title="Devotional",TTD
 https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
