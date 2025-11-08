@@ -291,51 +291,51 @@ https://stream.onecloudlive.in/successtv/successtvhd/index.m3u8
 https://play.applelive.in/prtv/prtv.m3u8
 #EXTINF:-1  tvg-id="116" tvg-name="Southern Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240331_0037217658317852544226240.png" group-title="Local",Southern Tv
 https://player.mslivestream.net/mslive/9fe7c84b8253e88099d47237e0b7367c.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="117" tvg-name="Maran Tv" group-title="Local" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240303_2109332713009370044906407.png" group-title="Local",Maran Tv
+#EXTINF:-1 tvg-id="117" tvg-name="Maran Tv"  tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240303_2109332713009370044906407.png" group-title="Local",Maran Tv
 https://server.sscloud7.in/marantv/marantv/index.m3u8
-#EXTINF:-1 tvg-id="118" tvg-name="King Tv" group-title="Local" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240303_210844247095261849834286.png" group-title="Local",King Tv
+#EXTINF:-1 tvg-id="118" tvg-name="King Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240303_210844247095261849834286.png" group-title="Local",King Tv
 http://kingtv.sscloud7.in/kingtv/kingtv/index.m3u8
-#EXTINF:-1 tvg-id="119" tvg-name="Isai Tv" group-title="Local" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240303_2108146971581320837669712.png" group-title="Local",Isai Tv
+#EXTINF:-1 tvg-id="119" tvg-name="Isai Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240303_2108146971581320837669712.png" group-title="Local",Isai Tv
 http://server.sscloud7.in/isaihd/isaihd/index.m3u8
 #EXTINF:-1 tvg-id="120" tvg-logo="http://tnm3u.live/icon/tamil/local/pcv-channel.png" group-title="Local" group-title="Local", PCV TV
 http://pcvtv.sscloud7.com/live/livepcv/index.m3u8
-#EXTINF:-1  tvg-id="121" tvg-name="Irattai Pathai Tv" group-title="Local" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_2114196845832868490079177.png" group-title="Local",Irratai Pathai Tv
+#EXTINF:-1  tvg-id="121" tvg-name="Irattai Pathai Tv"tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_2114196845832868490079177.png" group-title="Local",Irratai Pathai Tv
 https://account31.livebox.co.in/IRATTAIPAATHAITVhls/live.m3u8
-#EXTINF:-1  tvg-id="122" tvg-name="Dark Tv" group-title="Local" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240308_1344203293400314281004608.png" group-title="Local",Dark TV
+#EXTINF:-1  tvg-id="122" tvg-name="Dark Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240308_1344203293400314281004608.png" group-title="Local",Dark TV
 http://applelive.in/darktv/darktv.m3u8
-#EXTINF:-1 tvg-id="123" tvg-name="Apple Media" group-title="Local" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240309_0056194718769074512051348.png" group-title="Local",Apple TV
+#EXTINF:-1 tvg-id="123" tvg-name="Apple Media" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240309_0056194718769074512051348.png" group-title="Local",Apple TV
 http://applelive.in/appletv/appletv.m3u8
-#EXTINF:-1 tvg-id="124" tvg-name="RR Tv" group-title="Local" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240309_013308355819138525226799.png" group-title="Local",RR Tv
+#EXTINF:-1 tvg-id="124" tvg-name="RR Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240309_013308355819138525226799.png" group-title="Local",RR Tv
 http://notvstream.in/rrtv/rrtv.m3u8
-#EXTINF:-1 tvg-id="125" tvg-name="Aarthi TV" group-title="Local" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240224_0832155366153724501071724.png" group-title="Local",Aarthi Tv
+#EXTINF:-1 tvg-id="125" tvg-name="Aarthi TV" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240224_0832155366153724501071724.png" group-title="Local",Aarthi Tv
 http://198.144.149.206:8080/NOTV/AARTHITV/index.m3u8?token=GTR
-#EXTINF:-1 tvg-id="126" tvg-name="Tirupur Voice TV" group-title="Local" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240227_2153194527281911044664809.png" group-title="Local",Tirupur Voice Tv
+#EXTINF:-1 tvg-id="126" tvg-name="Tirupur Voice TV" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240227_2153194527281911044664809.png" group-title="Local",Tirupur Voice Tv
 http://notvstream.in/tirupurvoicetv/tirupurvoicetv.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="Kanchi Media" group-title="Local" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_0013388576810840645126860.png" group-title="Local",kanchi Media
+#EXTINF:-1 tvg-id="127" tvg-name="Kanchi Media" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_0013388576810840645126860.png" group-title="Local",kanchi Media
 http://198.144.149.206:8080/NOTV/KANCHIMEDIA/index.m3u8?token=GTR
-#EXTINF:-1 tvg-id="128" tvg-name="Kanchi TV" group-title="Local" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_001256623113914145539942.png" group-title="Local",Kanchi Tv
+#EXTINF:-1 tvg-id="128" tvg-name="Kanchi TV" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_001256623113914145539942.png" group-title="Local",Kanchi Tv
 http://198.144.149.206:8080/NOTV/KANCHITV/index.m3u8?token=GTR
-#EXTINF:-1 tvg-id="129" tvg-name="I World TV" group-title="Local" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240222_1356268705171385431914312.png" group-title="Local", Appu TV
+#EXTINF:-1 tvg-id="129" tvg-name="I World TV" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240222_1356268705171385431914312.png" group-title="Local", Appu TV
 http://198.144.149.206:8080/NOTV/IWORLDHD/index.m3u8?token=GTR
-#EXTINF:-1 tvg-id="130" tvg-name="U Tv" group-title="Local" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240316_0904062411139227642657182.png" group-title="Local",U Tv
+#EXTINF:-1 tvg-id="130" tvg-name="U Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240316_0904062411139227642657182.png" group-title="Local",U Tv
 http://notvstream.in/utv/utv.m3u8
-#EXTINF:-1 tvg-id="131" tvg-name="Sai Tv" group-title="Local" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240316_0900188433404147671876624.png" group-title="Local",Sai Tv
+#EXTINF:-1 tvg-id="131" tvg-name="Sai Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240316_0900188433404147671876624.png" group-title="Local",Sai Tv
 http://198.144.149.206:8080/NOTV/SAITVMD/tracks-v1a1/mono.m3u8?token=GTR
-#EXTINF:-1 tvg-id="132" tvg-name="Kavin Tv" group-title="Local" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240325_1916271182493886783253891.png" group-title="Local",Kavin Tv
+#EXTINF:-1 tvg-id="132" tvg-name="Kavin Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240325_1916271182493886783253891.png" group-title="Local",Kavin Tv
 http://198.144.149.206:8080/NOTV/KAVINTV/tracks-v1a1/mono.m3u8?token=GTR
-#EXTINF:-1 tvg-id="133" tvg-name="VCTN Tv" group-title="Local" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_0451574292623150284952506.png" group-title="Local",VCTN Tv
+#EXTINF:-1 tvg-id="133" tvg-name="VCTN Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_0451574292623150284952506.png" group-title="Local",VCTN Tv
 http://ttv.7starcloud.com:1935/vctn/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="134" tvg-name="JHP Tv" group-title="Local" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_0428126497187039134008538.png" group-title="Local",JHP Tv
+#EXTINF:-1 tvg-id="134" tvg-name="JHP Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_0428126497187039134008538.png" group-title="Local",JHP Tv
 http://jhptv.7starcloud.com:1935/live/jhptv/playlist.m3u8
-#EXTINF:-1 tvg-id="135" tvg-name="Vaanavil Tv" group-title="Local" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240317_0009568734016209579420980.png" group-title="Local",Vaanavil Tv
+#EXTINF:-1 tvg-id="135" tvg-name="Vaanavil Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240317_0009568734016209579420980.png" group-title="Local",Vaanavil Tv
 http://ttv.7starcloud.com:1935/vaanavil/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="136" tvg-name="KCTN Tv" group-title="Local" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_0430295020070800902055299.png" group-title="Local",KCTN Tv
+#EXTINF:-1 tvg-id="136" tvg-name="KCTN Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_0430295020070800902055299.png" group-title="Local",KCTN Tv
 http://ttv.7starcloud.com:1935/kctn/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="137" tvg-name="Thirumagal Tv" group-title="Local" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_0920178224610300763181208.png" group-title="Local",Thirumagal Tv
+#EXTINF:-1 tvg-id="137" tvg-name="Thirumagal Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_0920178224610300763181208.png" group-title="Local",Thirumagal Tv
 http://ttv.7starcloud.com:1935/thirumagal/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="SMCV Tv" group-title="Local" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240329_1856098805902789330765050.png" group-title="Local",SMCV Tv
+#EXTINF:-1 tvg-id="138" tvg-name="SMCV Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240329_1856098805902789330765050.png" group-title="Local",SMCV Tv
 http://singamcloud.in/smcvtv/smcvtv/index.m3u8
-#EXTINF:-1 tvg-id="139" tvg-name="G Tv" group-title="Local" tvg-logo="https://i.ibb.co/pQH3GXj/Screenshot-2024-08-07-124306-photoaidcom-cropped.png" group-title="Local", G TV
+#EXTINF:-1 tvg-id="139" tvg-name="G Tv" tvg-logo="https://i.ibb.co/pQH3GXj/Screenshot-2024-08-07-124306-photoaidcom-cropped.png" group-title="Local", G TV
 http://live.singamcloud.in/gtv/gtv/index.m3u8
 #EXTINF:-1 tvg-id="140" tvg-logo="http://tnm3u.live/icon/tamil/local/mmtv.png"  group-title="Local", MM TV HD
 https://ipcloud.live/mmtv/mmtvhd/index.m3u8
