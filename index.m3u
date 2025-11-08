@@ -608,6 +608,8 @@ https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8
 http://ayyatv.sscloud7.in/live/ayyatv/index.m3u8
 #EXTINF:-1 tvg-id="413" tvg-name="Jothi Tv" tvg-logo="https://i.ibb.co/spNHQ4Y1/1000146573.jpg" group-title="Devotional",Jothi Tv
 https://servertvhub.site/jio/app/ts_live_2768.m3u8
+#EXTINF:-1 tvg-id="413" tvg-name="OM Tv" tvg-logo="https://i.ibb.co/spNHQ4Y1/1000146573.jpg" group-title="Devotional",OM Tv
+https://www.youtube.com/watch?v=_ph-sMO3QBI
 
 
 #EXTINF:-1  tvg-id="451" tvg-name="Madha Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240425_0018005459724516056593968.png" group-title="Devotional-Christian",Madha Tv
