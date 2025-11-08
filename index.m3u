@@ -297,7 +297,7 @@ https://server.sscloud7.in/marantv/marantv/index.m3u8
 http://kingtv.sscloud7.in/kingtv/kingtv/index.m3u8
 #EXTINF:-1 tvg-id="119" tvg-name="Isai Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240303_2108146971581320837669712.png" group-title="Local",Isai Tv
 http://server.sscloud7.in/isaihd/isaihd/index.m3u8
-#EXTINF:-1 tvg-id="120" tvg-logo="http://tnm3u.live/icon/tamil/local/pcv-channel.png" group-title="Local" group-title="Local", PCV TV
+#EXTINF:-1 tvg-id="120" tvg-logo="http://tnm3u.live/icon/tamil/local/pcv-channel.png" group-title="Local", PCV TV
 http://pcvtv.sscloud7.com/live/livepcv/index.m3u8
 #EXTINF:-1  tvg-id="121" tvg-name="Irattai Pathai Tv"tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_2114196845832868490079177.png" group-title="Local",Irratai Pathai Tv
 https://account31.livebox.co.in/IRATTAIPAATHAITVhls/live.m3u8
@@ -370,7 +370,7 @@ https://live.rojatv.cloud/rojamovies/rojamovies/index.m3u8
 https://account31.livebox.co.in/Kovaitvhls/live.m3u8
 #EXTINF:-1 tvg-id="155" tvg-name="S Max HD"tvg-logo="https://tvicn.wordpress.com/wp-content/uploads/2025/09/20250902_1928366723473282713429482.jpg"  group-title="Local",S Max HD
 http://applelive.in/smaxtv/smaxtv.m3u8
-#EXTINF:-1 tvg-id="156" tvg-name="Maruthi HD" group-title="Local" tvg-logo="https://i.ibb.co/R4DVKDh1/1000122165.jpg group-title="Local"",Maruthi HD
+#EXTINF:-1 tvg-id="156" tvg-name="Maruthi HD" tvg-logo="https://i.ibb.co/R4DVKDh1/1000122165.jpg group-title="Local"",Maruthi HD
 https://stream.onecloudlive.in/maruthitv/maruthitvhd/index.m3u8
 #EXTINF:-1 tvg-id="157" tvg-name="Aadhavan Tv" tvg-logo="https://i.ibb.co/GQn3zdXz/1000122170.jpg group-title="Local"",Aadhavan Tv
 https://ipcloud.live/aadhavantv/aadhavanhd/index.m3u8
@@ -540,7 +540,7 @@ https://notvstream.in/brightsimrosetv/brightsimrosetv.m3u8
 http://xstream.onecloudlive.in:8080/bass/basstv/index.m3u8
 #EXTINF:-1 tvg-id="241" tvg-name="RS Tv" tvg-logo="https://i.ibb.co/4RdSBq9G/1000160410.png" group-title="Local",RS Tv
 https://stream.onecloudlive.in/rstv/rstvhd/index.m3u8
-#EXTINF:-1 tvg-id="242" tvg-name="Easan Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240408_2035501474180601170361895.png" group-title="Local" ,Easan Tv
+#EXTINF:-1 tvg-id="242" tvg-name="Easan Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240408_2035501474180601170361895.png" group-title="Local,Easan Tv
 http://live.singamcloud.in/eesantv/eesantv/index.m3u8
 #EXTINF:-1 tvg-id="243" tvg-name="Jayam Tv Namakkal" tvg-logo="https://i.ibb.co/MxXLfHMg/1000145099.png" group-title="Local",Jayam Tv Namakkal
 https://rtmp.bmlive.net/bms/jayamtv/index.m3u8
