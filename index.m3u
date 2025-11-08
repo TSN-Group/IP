@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="7 STAR SALEM" tvg-logo= "https://images.jdmagicbox.com/quickquotes/images_main/scrolling-2225252502-tl0lld0p.png" group-title="Local HD", 7 STAR SALEM
+#EXTINF:-1 tvg-id="1" tvg-name="7 STAR SALEM" tvg-logo= "https://tataprime.files.wordpress.com/2024/02/20240223_0026202554836848690543423.png" group-title="Local HD", 7 STAR SALEM
 http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name=SANA TV HD" tvg-logo= "https://i.ibb.co/PwK8tXr/Sanatv250x250.jpg" group-title="Local HD", SANA TV HD
+#EXTINF:-1 tvg-id="2" tvg-name=SANA TV HD" tvg-logo= "https://tataprime.files.wordpress.com/2024/03/20240301_0056252540586574154652196.png" group-title="Local HD", SANA TV HD
 https://galaxyott.live/hls/sanatv.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-name="TSN MUSIC" group-title="Local - Music", TSN MUSIC
 http://198.144.149.206:8080/NOTV/VAAGAI/tracks-v1a1/mono.m3u8?token=GTR
 
-#EXTINF:-1 tvg-id="4" tvg-name="SANA PLUS HD" tvg-logo= "https://i.ibb.co/yVbprNG/Sanaplushd.jpg" group-title="Local - Music", SANA PLUS HD
+#EXTINF:-1 tvg-id="4" tvg-name="SANA PLUS HD" tvg-logo= "https://tataprime.files.wordpress.com/2024/03/20240307_1432431031355866089872027.png" group-title="Local - Music", SANA PLUS HD
 https://galaxyott.live/hls/sanaplus.m3u8
 
 #EXTINF:-1 tvg-id="901" tvg-name="RASI TAMIL" tvg-logo= "https://i.ibb.co/YF0ZXBwV/rasitamil.jpg" group-title="Local- RASI", RASI TAMIL
@@ -59,7 +59,7 @@ http://198.144.149.206:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="18" tvg-name="ITHAL" group-title="Local - Movies", ITHAL
 rtmp://148.113.170.17/static/ithal
 
-#EXTINF:-1 tvg-id="19" tvg-name="KRISHNA TV ERODE" group-title="Local HD", KRISHNA TV ERODE
+#EXTINF:-1 tvg-id="19" tvg-name="KRISHNA TV ERODE" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240318_2313304124091249313761458.png" group-title="Local HD", KRISHNA TV ERODE
 http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="20" tvg-name="DURAI TV" group-title="Local", DURAI TV
@@ -252,7 +252,7 @@ https://novaiptv.cc/live/eyetamil/4257832/32fa2542-142d-48e5-86ad-fc98be0e9e5f.m
 https://live.olidigital.in/nilatv/nilatv/index.m3u8
 #EXTINF:-1 tvg-id="97" tvg-name="Apple TV Pondy" tvg-logo=""  group-title="Local", Apple TV Pondy
 https://stream.iplive.xyz/appletv/4kpondy/index.m3u8
-#EXTINF:-1 tvg-id="98" tvg-name="TDN Kanchi" tvg-logo=""  group-title="Local HD", TDN Kanchi
+#EXTINF:-1 tvg-id="98" tvg-name="TDN Kanchi" tvg-logo="https://i.ibb.co/h1BTNcjY/1000136660.jpg"  group-title="Local HD", TDN Kanchi
 http://live.maxtn.in/tdn/tdn/playlist.m3u8
 #EXTINF:-1 tvg-id="99" tvg-name="MAX MUSIC" tvg-logo=""  group-title="Local - Music", MAX MUSIC
 http://live.maxtn.in/maxmusic/maxmusic/playlist.m3u8
