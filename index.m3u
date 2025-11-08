@@ -458,7 +458,7 @@ http://almthendraltv.phoenixcreations.online/almthendraltv/almthendraltv/playlis
 http://sartv.phoenixcreations.online/sartv/sartv/playlist.m3u8
 #EXTINF:-1 tvg-id="199" tvg-name="Devathai Tv" tvg-logo="https://i.ibb.co/hJMX40D9/1000138934.jpg group-title="Local"",Devathai Tv
 https://hdbox.singamcloud.in/Deavathaitv/Deavathaitv/index.m3u8
-#EXTINF:-1 tvg-id="200" tvg-name="Smart Tv" tvg-logo="https://harisofttecch.in/tamillive//upload/1669967959_smart.jpg group-title="Local"" group-title="TLL MUSIC",|MOVIES|SMART SRI TV
+#EXTINF:-1 tvg-id="200" tvg-name="Smart Tv" tvg-logo="https://harisofttecch.in/tamillive//upload/1669967959_smart.jpg" group-title="Local"",SMART SRI TV
 http://hdserver.7starcloud.com:1935/smart/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="201" tvg-name="MDN Tv" tvg-logo="https://play-lh.googleusercontent.com/QA3P57Fy_wkicZk26xrbmemgxfHm0nz5r9qM55n2Cb4QQQXHN9v81xzEVa8HqGXNWA=w240-h480-rw"  group-title="Local",MDN TV
 https://account18.livebox.co.in/IMAGESEQUENCEhls/live.m3u8
