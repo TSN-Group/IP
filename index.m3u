@@ -546,6 +546,12 @@ http://live.singamcloud.in/eesantv/eesantv/index.m3u8
 https://rtmp.bmlive.net/bms/jayamtv/index.m3u8
 #EXTINF:-1 tvg-id="244" tvg-name="SV Tv" tvg-logo="https://i.ibb.co/Z1zWzXBz/1000145864.jpg" group-title="Local",SV Tv
 http://shreeparams.7starcloud.com:1935/live/params/playlist.m3u8
+#EXTINF:-1 tvg-id="245" tvg-name="Sai Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240316_0900188433404147671876624.png" group-title="Local",Sai Tv
+http://198.144.149.206:8080/NOTV/SAITVMD/tracks-v1a1/mono.m3u8?token=GTR
+#EXTINF:-1 tvg-id="246" tvg-name="Urchagam TV" tvg-logo="https://bmcloud.in/apis/apps/bmcloudimages/urchagamtv.png" group-title="Local",Urchagam TV
+https://rtmp.bmlive.net/bms/urchagamtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Local", NO1 TV
+https://live.skystream.in/live/no1tv/index.m3u8
 
 # -----------------------
 # TAMIL FTA NEWS
@@ -577,6 +583,8 @@ https://utubev2.psrutube.workers.dev/stream/UCYmUbCx3q38TJo4_qN-_uAA/master.m3u8
 http://m3u.8088y.fun/yt.php?c=TamilJanamNews
 #EXTINF:-1 tvg-id=""513" tvg-name="M Nadu" tvg-logo="https://i.ibb.co/G1fQ5Rh/1000158590.png" group-title="NEWS",M Nadu
 http://m3u.8088y.fun/yt.php?c=mnadutv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="NEWS",Thandhi Tv
+http://m3u.8088y.fun/yt.php?c=thanthitv
 
 # -----------------------
 # TAMIL DEVOTIONAL
