@@ -33,7 +33,7 @@ rtmp://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac
 http://198.144.149.206:8080/NOTV/ASOSACHENNAI/tracks-v1a1/mono.m3u8?token=GTR
 
 #EXTINF:-1 tvg-id="10" tvg-name="VELLITHIRAI" group-title="Local - Movies", VELLITHIRAI
-https://riotv.stream.onecloudlive.in/riotv/riotvmax/index.m3u8
+http://front-main.eagle-4k.me:80/live/m7t7u5p96o/g4xb6pbb1r/1163696.m3u8
 
 #EXTINF:-1 tvg-id="11" tvg-name="EMPEROR TV" group-title="Local", EMPEROR TV
 https://rtmp.bmlive.net/bms/emperortv/index.m3u8
