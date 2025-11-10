@@ -206,7 +206,7 @@ https://live.sscloud7.in/live/suryatv/index.m3u8
 https://ipcloud.live/minnaltv/minnalhd/index.m3u8
 #EXTINF:-1 tvg-id="75" tvg-name="NTN TV" tvg-logo="https://i.ibb.co/Ctcw1gP/Ntn250x250.jpg" group-title="Local", NTN TV
 https://live.skystream.in/live/ntntv/index.m3u8
-#EXTINF:-1 tvg-id="76" tvg-name="Anandham TV" tvg-logo="https://i.ibb.co/crjJVdY/Anandhamtv250x250.jpg" group-title="Local", Anandham TV
+#EXTINF:-1 tvg-id="76" tvg-name="Anandham TV" tvg-logo="https://i.ibb.co/crjJVdY/Anandhamtv250x250.jpg" group-title="Local - Movies", Anandham TV
 https://stream.galaxyott.live/live/anandhamtv/index.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="N TV TRICHY" tvg-logo="https://i.ibb.co/6sptcNn/Ntv.jpg" group-title="Local", N TV TRICHY
 https://stream.sscloud7.in/live/ntv/index.m3u8
@@ -279,7 +279,7 @@ https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
 https://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:-1 tvg-id="110" tvg-name="GEM TV" tvg-logo="" group-title="Local",GEM TV
 https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="111" tvg-name="YET TV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1752314659_Y2.png&w=1920&q=75" group-title="Local",YET TV
+#EXTINF:-1 tvg-id="111" tvg-name="YET TV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1752314659_Y2.png&w=1920&q=75" group-title="Local - Movies",YET TV
 https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
 #EXTINF:-1 tvg-id="112" tvg-name="RIO MAX" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746108596_ACP%2520TV%2520LOGO%252026-Mar-2025%252014-57-40%2520(2)-1.png&w=1920&q=75" group-title="Local HD",RIO MAX
 https://riotv.stream.onecloudlive.in/riotv/riotvmax/index.m3u8
@@ -333,7 +333,7 @@ http://ttv.7starcloud.com:1935/vaanavil/tv/playlist.m3u8
 http://ttv.7starcloud.com:1935/kctn/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="137" tvg-name="Thirumagal Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_0920178224610300763181208.png" group-title="Local",Thirumagal Tv
 http://ttv.7starcloud.com:1935/thirumagal/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="SMCV Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240329_1856098805902789330765050.png" group-title="Local",SMCV Tv
+#EXTINF:-1 tvg-id="138" tvg-name="SMCV Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240329_1856098805902789330765050.png" group-title="Local - Movies",SMCV Tv
 http://singamcloud.in/smcvtv/smcvtv/index.m3u8
 #EXTINF:-1 tvg-id="139" tvg-name="G Tv" tvg-logo="https://i.ibb.co/pQH3GXj/Screenshot-2024-08-07-124306-photoaidcom-cropped.png" group-title="Local", G TV
 http://live.singamcloud.in/gtv/gtv/index.m3u8
@@ -344,7 +344,7 @@ https://ipcloud.live/sachintv/musichd/index.m3u8
 #EXTINF:-1 tvg-id="142"  tvg-name="" tvg-language="Tamil" tvg-logo=""    group-title="Local",Bright Rose
 http://server.notvstream.in/brightsimrosetv/brightsimrosetv.m3u8
 
-#EXTINF:-1 tvg-id="143" tvg-name="MCN TV" tvg-logo="" group-title="Local",MCN TV
+#EXTINF:-1 tvg-id="143" tvg-name="MCN TV" tvg-logo="" group-title="Local HD",MCN TV
 https://play.applelive.in/mcntv/mcntv.m3u8
 #EXTINF:-1 tvg-id="144" tvg-name="DEEPAM TV" tvg-logo="" group-title="Local",DEEPAM TV
 https://play.applelive.in/deebamtv/deebamtv.m3u8
@@ -364,7 +364,7 @@ https://live.applelive.in/penguinhd/penguinhd/index.m3u8
 https://ipcloud.live/harintv/harintvhd/index.m3u8
 #EXTINF:-1 tvg-id="152" tvg-name="ACP TV" tvg-logo="" group-title="Local",ACP TV
 rtmp://acptv.stream.iplive.xyz:1935/acptv/acptvhd?password=acptv
-#EXTINF:-1 tvg-id="153" tvg-name="Roja Movies HD" tvg-logo="https://i.ibb.co/21by5dpD/1000135211.png" group-title="Local",Roja Movies HD
+#EXTINF:-1 tvg-id="153" tvg-name="Roja Movies HD" tvg-logo="https://i.ibb.co/21by5dpD/1000135211.png" group-title="Local HD",Roja Movies HD
 https://live.rojatv.cloud/rojamovies/rojamovies/index.m3u8
 #EXTINF:-1 tvg-id="154" tvg-name="Kovai Tv" tvg-logo="https://i.ibb.co/TBF3LCqw/1000135638.jpg" group-title="Local",Kovai Tv
 https://account31.livebox.co.in/Kovaitvhls/live.m3u8
@@ -394,7 +394,7 @@ https://notvstream.in/mathitv/mathitv.m3u8
 http://cloudstream4k.com:1935/velantv/bsk/chunklist_w1215529300.m3u8
 #EXTINF:-1 tvg-id="167" tvg-name="Jith Tv" tvg-logo="https://i.ibb.co/WpDgyPfR/1000136465.jpg" group-title="Local",Jith Tv
 https://sscloud7.com/live/jithtv/index.m3u8
-#EXTINF:-1 tvg-id="168" tvg-name="Sakthi Tv" tvg-logo="https://i.ibb.co/RGThWXLc/1000136469.jpg" group-title="Local",Sakthi Tv
+#EXTINF:-1 tvg-id="168" tvg-name="Sakthi Tv" tvg-logo="https://i.ibb.co/RGThWXLc/1000136469.jpg" group-title="Local HD",Sakthi Tv
 https://live.sscloud7.in/live/sakthitv/index.m3u8
 #EXTINF:-1 tvg-id="169" tvg-name="Velavan Tv" tvg-logo="https://i.ibb.co/mCHRtk8d/1000136472.jpg" group-title="Local",Velavan Tv
 http://velavantv.sscloud7.in/live/velavantv/index.m3u8
@@ -408,7 +408,7 @@ http://arulstream.in:1935/ArulTv/live/playlist.m3u8
 https://server.sscloud7.in/live/bharathitv/index.m3u8
 #EXTINF:-1 tvg-id="174" tvg-name="Thendral Tv" tvg-logo="https://i.ibb.co/kgxJkNYV/1000136510.png" group-title="Local",Thendral Tv
 https://sscloud7.com/live/thendraltv/index.m3u8
-#EXTINF:-1 tvg-id="175" tvg-name="Aaryaa Tv" tvg-logo="https://i.ibb.co/dRLxwNg/1000136512.jpg" group-title="Local",Aaryaa Tv
+#EXTINF:-1 tvg-id="175" tvg-name="Aaryaa Tv" tvg-logo="https://i.ibb.co/dRLxwNg/1000136512.jpg" group-title="Local HD",Aaryaa Tv
 https://live.sscloud7.in/live/aaryaatv/index.m3u8
 #EXTINF:-1 tvg-id="176" tvg-name="Mayuri Tv" tvg-logo="https://i.ibb.co/36PY5KH/1000136545.jpg" group-title="Local"",Mayuri Tv
 https://server.sscloud7.in/live/mayuritvtvl/index.m3u8
@@ -420,9 +420,9 @@ https://stream.onecloudlive.in/tigertv/tigertvhd/index.m3u8
 https://stream.onecloudlive.in/forttv/fortchannel/index.m3u8
 #EXTINF:-1 tvg-id="180" tvg-name="Time Tv" tvg-logo="https://i.ibb.co/1G99vW7k/1000136567.jpg" group-title="Local",Time Tv
 https://live.olidigital.in/timetv/timetv/index.m3u8
-#EXTINF:-1 tvg-id="181" tvg-name="Mallai Tv" tvg-logo="https://i.ibb.co/QvTHJWhy/1000136573.jpg" group-title="Local",Mallai Tv
+#EXTINF:-1 tvg-id="181" tvg-name="Mallai Tv" tvg-logo="https://i.ibb.co/QvTHJWhy/1000136573.jpg" group-title="Local - Movies",Mallai Tv
 https://rojatv.cloud/mallaitv/mallaitv/index.m3u8
-#EXTINF:-1 tvg-id="182" tvg-name="SK Tv" tvg-logo="https://i.ibb.co/B566zzxL/1000136577.png" group-title="Local",SK Tv
+#EXTINF:-1 tvg-id="182" tvg-name="SK Tv" tvg-logo="https://i.ibb.co/B566zzxL/1000136577.png" group-title="Local - Movies",SK Tv
 https://stream.galaxyott.live/live/sktv/index.m3u8
 #EXTINF:-1 tvg-id="183" tvg-name="Jeyam Tv" tvg-logo="https://i.ibb.co/fV19dTvF/1000136666.jpg" group-title="Local",Jeyam Tv
 https://stream.onecloudlive.in/jeyam/jeyammdu/index.m3u8
@@ -450,7 +450,7 @@ https://ipcloud.live/subashtv/subashhd/index.m3u8
 http://madhantv.phoenixcreations.online/madhantv/madhantv/playlist.m3u8
 #EXTINF:-1 tvg-id="195" tvg-name="Magizh Tv" tvg-logo="https://i.ibb.co/PGkM1C1h/1000137344.png group-title="Local"",Magizh Tv
 http://magizhtv.phoenixcreations.online/magizhtv/magizhtv/playlist.m3u8
-#EXTINF:-1 tvg-id="196" tvg-name="APS Tv" tvg-logo="https://i.ibb.co/bMpwqJXb/1000137350.png group-title="Local"",APS Tv
+#EXTINF:-1 tvg-id="196" tvg-name="APS Tv" tvg-logo="https://i.ibb.co/bMpwqJXb/1000137350.png group-title="Local - Movies"",APS Tv
 http://apstv.phoenixcreations.online/apstv/apstv/playlist.m3u8
 #EXTINF:-1 tvg-id="197" tvg-name="Thendral HD" tvg-logo="https://i.ibb.co/svb85Vyw/1000137351.png group-title="Local"",Thendral HD
 http://almthendraltv.phoenixcreations.online/almthendraltv/almthendraltv/playlist.m3u8
@@ -518,9 +518,9 @@ rtmp://103.136.136.77:1935/abihd/abihd?psk=123456
 rtmp://103.136.136.77:1935/muruga4k/muruga4k?psk=123456
 #EXTINF:-1 tvg-id="230" tvg-name="Boova 4K" tvg-logo="https://i.ibb.co/tptMtJMG/1000157666.png" group-title="Local",Boova 4K
 rtmp://103.136.136.77:1935/boova4k/boova4k?psk=123456
-#EXTINF:-1 tvg-id="231" tvg-name="CSK Tv" tvg-logo="https://i.ibb.co/tptMtJMG/1000157666.png" group-title="Local",CSK Tv
+#EXTINF:-1 tvg-id="231" tvg-name="CSK Tv" tvg-logo="https://i.ibb.co/tptMtJMG/1000157666.png" group-title="Local - Movies",CSK Tv
 rtmp://103.136.136.77:1935/cs4k/cs4k?psk=123456
-#EXTINF:-1 tvg-id="232" tvg-name="Power Tv" tvg-logo="https://i.ibb.co/3mmt5Ygp/1000157666.png" group-title="Local",Power Tv
+#EXTINF:-1 tvg-id="232" tvg-name="Power Tv" tvg-logo="https://i.ibb.co/3mmt5Ygp/1000157666.png" group-title="Local - Movies",Power Tv
 rtmp://103.136.136.77:1935/powertv/powertv?psk=123456
 #EXTINF:-1 tvg-id="233" tvg-name="Kani Tv" tvg-logo="https://i.ibb.co/3mmt5Ygp/1000157666.png" group-title="Local HD",Kani Tv
 rtmp://103.136.136.77:1935/kanitv/kanitv?psk=123456
