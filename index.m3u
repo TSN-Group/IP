@@ -793,6 +793,12 @@ https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlc
 #EXTINF:-1  tvg-id="400" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-SIRIPPU.png?alt=media&token=945fdfe6-2d99-479f-a12e-831596646623" tvg-chno="104" group-title="Local HD",CTN Arasu
 https://ipcloud.live/ctn/arasu/index.m3u8
 
+#EXTINF:-1 tvg-id="401" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1754982558_f90dff80-1533-4884-906a-de6f24041e53-removebg-preview.png&w=1920&q=75" group-title="Local",Hari TV 
+http://haritv.stream.ashokadigital.net/haritv/haritvhd/index.m3u8
+
+#EXTINF:-1 tvg-id="402" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732431684_227461593_220794490025454_2506413802748050177_n-removebg-preview.png&w=1920&q=75" group-title="Local HD",Sri Krishna TV Tiruchengode 
+http://krishnatv.7starcloud.com:1935/live/livestream/playlist.m3u8
+
 # -----------------------
 #  LIFE STYLE
 # -----------------------
