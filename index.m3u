@@ -32,8 +32,8 @@ rtmp://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac
 #EXTINF:-1 tvg-id="9" tvg-name="SNR TV" group-title="Local - Movies", SNR TV
 http://198.144.149.206:8080/NOTV/ASOSACHENNAI/tracks-v1a1/mono.m3u8?token=GTR
 
-#EXTINF:-1 tvg-id="10" tvg-name="VELLITHIRAI" group-title="Local - Movies", VELLITHIRAI
-http://front-main.eagle-4k.me:80/live/m7t7u5p96o/g4xb6pbb1r/1163696.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="SURYA HD" group-title="Local - Movies", SURYA HD
+https://live.sscloud7.in/live/suryatv/index.m3u8
 
 #EXTINF:-1 tvg-id="11" tvg-name="EMPEROR TV" group-title="Local", EMPEROR TV
 https://rtmp.bmlive.net/bms/emperortv/index.m3u8
@@ -486,7 +486,7 @@ http://server3.sscloud7.in/kmmusic/kmmusic/playlist.m3u8
 http://vaanivisuals.in:1935/vaanitv/vaanitv/playlist.m3u8
 #EXTINF:-1 tvg-id="214" tvg-name="Tamil Star" tvg-logo="https://i.ibb.co/twdvpzDn/1000146947.jpg" group-title="Local",Tamil Star
 http://acv.7starcloud.com:1935/tamilstar/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="215" tvg-name="Thendral2 Tv" tvg-logo="https://i.ibb.co/R4ccLfx2/1000146985.jpg",Thendral2 Tv
+#EXTINF:-1 tvg-id="215" tvg-name="Thendral Madurai" tvg-logo="https://i.ibb.co/twdvpzDn/1000146947.jpg" group-title="Local",Thendral Madurai
 https://ipcloud.live/thendralmdu/madurai/index.m3u8
 #EXTINF:-1 tvg-id="216" tvg-name="Raga Tv" tvg-logo="https://i.ibb.co/KzSwyBN4/1000146992.jpg" group-title="Local",Raga Tv
 https://live.onecloudlive.in/ragatv/ragatvhd/index.m3u8
@@ -579,7 +579,7 @@ https://stream.rojatv.cloud/kumarantv/gobi/index.m3u8
 #EXTINF:-1 tvg-id="257" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240614_1335324398279775267840408.png" group-title="Local", Thirumalai HD
 https://notvstream.in/thirumalaitv/thirumalaitv.m3u8
 
-#EXTINF:-1  tvg-id="258" tvg-name="" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240330_0300052925648569473399889.png" group-title="Local",Udhayam Tv
+#EXTINF:-1  tvg-id="258" tvg-name="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240330_0300052925648569473399889.png" group-title="Local",Udhayam Tv
 https://ipcloud.live/udhayamtv/live/index.m3u8
 
 #EXTINF:-1 tvg-id="259" tvg-logo="https://play-lh.googleusercontent.com/59vyKG300-B1Mjz0mhXhiecDosmM0wWC2ROKEobJxfdVjfWqXzM6mMiSBtBrVfN2tCE=w240-h480-rw" group-title="Local", Bala TV
@@ -730,13 +730,13 @@ https://view.rcserver.in/tmp_hls17/karurcity/index.m3u8
 #EXTINF:-1 tvg-id="306" group-title="Local",Apple TV
 https://view.rcserver.in/tmp_hls18/index.m3u8
 
-#EXTINF:-1 tvg-id="307" group-title="Local"Amma Vision
+#EXTINF:-1 tvg-id="307" group-title="Local", Amma Vision
 https://view.rcserver.in/tmp_hls19/ammavision/index.m3u8
 
 #EXTINF:-1 tvg-id="308" group-title="Local",Jayam TV
 https://view.rcserver.in/tmp_hls20/index.m3u8
 
-#EXTINF:-1 tvg-id="309" group-title="Local"QMax Plus
+#EXTINF:-1 tvg-id="309" group-title="Local", QMax Plus
 https://view.rcserver.in/tmp_hls21/qmaxtv/index.m3u8
 
 #EXTINF:-1 tvg-id="310" group-title="Local",BK TV
