@@ -926,9 +926,9 @@ https://server1.thewebworld.in:3208/hybrid/play.m3u8
 http://kayal.inet.moe/kayal/kayaltv/index.m3u8
 #EXTINF:-1 tvg-id="497" tvg-name="Salaam TV" tvg-logo="" group-title="Devotional - Muslim",Salaam TV
 https://stream.onecloudlive.in/salamtv/salamtvhd/index.m3u8
-#EXTINF:-1 tvg-id="498" tvg-name="Madina Live" tvg-logo="https://i.ibb.co/tPz7pB8S/1000157499.png" Group-title="Devotional - Muslim",Madina Live
+#EXTINF:-1 tvg-id="498" tvg-name="Madina Live" tvg-logo="https://i.ibb.co/tPz7pB8S/1000157499.png" group-title="Devotional - Muslim",Madina Live
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-#EXTINF:-1 tvg-id="499" tvg-name="Mecca Live" tvg-logo="https://i.ibb.co/d4d7rSxc/1000157501.png" Group-title="Devotional - Muslim",Mecca Live
+#EXTINF:-1 tvg-id="499" tvg-name="Mecca Live" tvg-logo="https://i.ibb.co/d4d7rSxc/1000157501.png" group-title="Devotional - Muslim",Mecca Live
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
 # -----------------------
