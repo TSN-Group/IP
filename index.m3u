@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="7 STAR SALEM" tvg-logo= "https://tataprime.files.wordpress.com/2024/02/20240223_0026202554836848690543423.png" group-title="Local HD", 7 STAR SALEM
+#EXTINF:-1 tvg-id="1" tvg-name="7 STAR SALEM" tvg-logo= "https://tataprime.files.wordpress.com/2024/02/20240223_0026202554836848690543423.png" group-title="Local HD, All", 7 STAR SALEM
 http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name=SANA TV HD" tvg-logo= "https://tataprime.files.wordpress.com/2024/03/20240301_0056252540586574154652196.png" group-title="Local HD", SANA TV HD
+#EXTINF:-1 tvg-id="2" tvg-name=SANA TV HD" tvg-logo= "https://tataprime.files.wordpress.com/2024/03/20240301_0056252540586574154652196.png" group-title="Local HD, All", SANA TV HD
 https://galaxyott.live/hls/sanatv.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-name="TSN MUSIC" group-title="Local - Music", TSN MUSIC
@@ -633,7 +633,7 @@ https://stream.onecloudlive.in/raagamtv/raagamtvhd/index.m3u8
 #EXTINF:-1  tvg-id="274" tvg-logo="" group-title="Local", National TV
 https://stream.onecloudlive.in/karnan/Nationaltv/index.m3u8
 
-#EXTINF:-1  tvg-id="275" tvg-logo="https://i.ibb.co/p6ktd0LV/AIdro-k-Nc-Tf0s1xm-Nwxu2w-G7xa-Ewopb-Wunw-KMI67-K42-J7-Viimg-s900-c-k-c0x00ffffff-no-rj.jpg" group-title="Local - HD", ADHIYAMAAN TV
+#EXTINF:-1  tvg-id="275" tvg-logo="https://i.ibb.co/p6ktd0LV/AIdro-k-Nc-Tf0s1xm-Nwxu2w-G7xa-Ewopb-Wunw-KMI67-K42-J7-Viimg-s900-c-k-c0x00ffffff-no-rj.jpg" group-title="Local HD, All", ADHIYAMAAN TV
 https://hd.singamcloud.in/adhiyamamtv/adhiyamamtv/index.m3u8
 
 #EXTINF:-1  tvg-id="276" tvg-name="Manju Tv"  tvg-logo="https://i.ibb.co/QvnKft4c/1000145860.png" group-title="Local",Manju Tv
@@ -922,11 +922,11 @@ https://server1.thewebworld.in:3208/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="496" tvg-name="Tamil Pirai" tvg-logo="" group-title="Devotional - Muslim",Tamil Pirai
 http://kayal.inet.moe/kayal/kayaltv/index.m3u8
-#EXTINF:-1 tvg-id="497" tvg-name="Salaam TV" tvg-logo="" group-title="Devotional - Muslim-",Salaam TV
+#EXTINF:-1 tvg-id="497" tvg-name="Salaam TV" tvg-logo="" group-title="Devotional - Muslim",Salaam TV
 https://stream.onecloudlive.in/salamtv/salamtvhd/index.m3u8
-#EXTINF:-1 tvg-id="498" tvg-name="Madina Live" tvg-logo="https://i.ibb.co/tPz7pB8S/1000157499.png",Madina Live
+#EXTINF:-1 tvg-id="498" tvg-name="Madina Live" tvg-logo="https://i.ibb.co/tPz7pB8S/1000157499.png" Group-title="Devotional - Muslim",Madina Live
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-#EXTINF:-1 tvg-id="499" tvg-name="Mecca Live" tvg-logo="https://i.ibb.co/d4d7rSxc/1000157501.png",Mecca Live
+#EXTINF:-1 tvg-id="499" tvg-name="Mecca Live" tvg-logo="https://i.ibb.co/d4d7rSxc/1000157501.png" Group-title="Devotional - Muslim",Mecca Live
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
 # -----------------------
