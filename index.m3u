@@ -920,7 +920,9 @@ https://server1.thewebworld.in:3208/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="474" tvg-name="Joy HD Tv" tvg-logo="https://i.ibb.co/1J7hNb8C/1000159607.png" group-title="Devotional-Christian",Joy HD Tv
 https://server1.thewebworld.in:3208/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="499" tvg-name="Salaam TV" tvg-logo="" group-title="Devotional-", Salaam TV
+#EXTINF:-1 tvg-id="498" tvg-name="Tamil Pirai" tvg-logo="" group-title="Devotional - Muslim",Tamil Pirai
+http://kayal.inet.moe/kayal/kayaltv/index.m3u8
+#EXTINF:-1 tvg-id="499" tvg-name="Salaam TV" tvg-logo="" group-title="Devotional - Muslim-",Salaam TV
 https://stream.onecloudlive.in/salamtv/salamtvhd/index.m3u8
 
 # -----------------------
