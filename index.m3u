@@ -985,7 +985,12 @@ https://eu.streamjo.com/eetlive/eettv.m3u8
 https://in1.sunilprasad.com.np/yuppLive/athavan-tv-hd/master.m3u8
 #EXTINF:-1 tvg-id="1015" tvg-name="MEDIA CORP" tvg-logo="https://i.ibb.co/K1vWbkZ/1000122569.jpg" group-title="International",MEDIA CORP
 https://mix.drmlive.net/mix/distro-4959.m3u8
-
+#EXTINF:-1 tvg-id="1016" tvg-name="Analai Express" tvg-logo="https://i.ibb.co/7tNSJQPM/1000133566.jpg" group-title="International",Analai Express
+http://148.113.170.17:8091/analaicanada/embed.html
+#EXTINF:-1 tvg-id="1017" tvg-name="Analai Cinema" tvg-logo="https://i.ibb.co/7tNSJQPM/1000133566.jpg" group-title="International",Analai Cinema
+http://148.113.170.17:8091/analaicine/embed.html
+#EXTINF:-1 tvg-id="1018" tvg-name="Ruthram" tvg-logo="https://i.ibb.co/7tNSJQPM/1000133566.jpg" group-title="International",Ruthram
+http://148.113.170.17:8091/rudhram/embed.html
 
 
 
