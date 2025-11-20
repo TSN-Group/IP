@@ -1,0 +1,116 @@
+#EXTINF:-1 tvg-id="KCTV" tvg-logo="https://play-lh.googleusercontent.com/qAyUZPMllAhkhcuNK-3sCcnSC6SGT83oytQjtMNwLGiXXO7P5qZb6yg3Dp0jahi5fkA=w480-h960-rw" group-title="Unknown",KC TV
+https://rtmp.bmlive.net/bms/kctv/stream.m3u8
+
+#EXTINF:-1 tvg-id="OmSakthiTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746107774_rannig%2520logo%2520copy%2520(1).png&w=1920&q=75" group-title="Sankarankoil",Om Sakthi TV
+https://live1.sscloud7.com/live/omsakthitv/index.m3u8
+
+#EXTINF:-1 tvg-id="VedhaTV" group-title="Unknown",Vedha TV
+https://skystream.in/live/vedha6528/index.m3u8
+
+#EXTINF:-1 tvg-id="ACPIsaiOli" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1762800961_WhatsApp%2520Image%25202025-11-10%2520at%25202.03.57%2520PM.jpeg&w=1920&q=75" group-title="Madurai",ACP Isai Oli [RTMP]
+rtmp://103.87.105.51:1935/acpisaioli/acpisaioli?psk=123456
+
+#EXTINF:-1 tvg-id="SSMusic" tvg-logo="" group-title="Unknown",SS Music
+https://stream.advikadigital.in/advika/ssmusic/index.m3u8
+
+#EXTINF:-1 tvg-id="SreeSaravanaaTV" tvg-logo="" group-title="Unknown",Sree Saravanaa TV
+https://stream.advikadigital.in/advika/saravana/index.m3u8
+
+#EXTINF:-1 tvg-id="TamilOliTV" tvg-logo="https://play-lh.googleusercontent.com/fRbNk6OxA12aYw0Vu7jSbv1HUivEv_Zr8WcUQta67fJf1gfScLn-SLdmWCu5p9rWtjE=w512-h960-rw" group-title="Unknown",Tamil Oli TV
+https://view.rcserver.in/tmp_hls7/tamilolitv/index.m3u8
+
+#EXTINF:-1 tvg-id="AasaiTV" tvg-logo="https://i.imgur.com/5p42C3t.jpg" group-title="Karur",Aasai TV
+https://notvstream.in/aasaitv/aasaitv.m3u8
+
+#EXTINF:-1 tvg-id="OscarTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1741858477_PeMGZ-pz_400x400.png&w=1920&q=75" group-title="Unknown",Oscar TV
+https://account21.livebox.co.in/oscartvhls/live.m3u8
+
+#EXTINF:-1 tvg-id="JawaharChannel" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1731775837_JAWAHAR%2520TV%2520LOGO%2520PNG.png&w=1920&q=75" group-title="Salem",Jawahar Channel
+http://jawahar.7starcloud.com:1935/live/app/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YoursTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1748079240_YOURS%2520TV.png&w=1920&q=75" group-title="Unknown",Yours TV
+http://yours.7starcloud.com:1935/live/yourstv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VisakaTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1748146464_TV%2520(1)%2520(1).png&w=1920&q=75" group-title="Unknown",Visaka TV
+http://visaka.7starcloud.com:1935/live/visakatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LotusTV" tvg-logo="https://play-lh.googleusercontent.com/zI2dPLwW9CojH8Gu2MQS70hEbGd8yJBZMwzFN1DS1YfGxsGeW7FZ3273SSbuSud179bqYg-FUE3ekmIwByNd2Q=w480-h960-rw" group-title="Kodumudi; Erode Dist.",Lotus TV
+https://lotustv.phoenixcreations.online/lotustv/lotustv/index.m3u8
+
+#EXTINF:-1 tvg-id="JothiBalaTV" tvg-logo="https://play-lh.googleusercontent.com/AO6LDGUXp56V2Rgf95ZbaCKQClYVZ9a9S6lDWnWqIMT1fTCKJndUWo_9utYWsCGeedE=w512-h960-rw" group-title="Unknown",Jothi Bala TV [Not 24/7]
+https://jothibalatv.phoenixcreations.online/jothibalatv/jothibalatv/index.m3u8
+
+#EXTINF:-1 tvg-id="NTVNellai" tvg-logo="https://play-lh.googleusercontent.com/PBXlTGaua0z8KSGfcl5Wlkv2Bkr2eGqCWHVj0POSciXosMmHHNalH9jU8XSv-8-3yTiQ=w480-h960-rw" group-title="Tirunelveli",NTV Nellai
+https://ntv.phoenixcreations.online/ntv/ntv/index.m3u8
+
+
+#EXTINF:-1 tvg-id="ThendralTVAmbai" tvg-logo="https://play-lh.googleusercontent.com/l06iyyboWjfU13_hZe2fSTjNHtlTZ12YqFcQmwkJF68rLuL_cg6qRykYdiEv8H6tKg=w480-h960-rw" group-title="Ambasamudram",Thendral TV Ambai
+https://thendraltv.phoenixcreations.online/thendraltv/thendraltv/index.m3u8
+
+
+#EXTINF:-1 tvg-id="SkyMedia" tvg-logo="https://play-lh.googleusercontent.com/M8aznVOZ1lyqU9dKy34x_WguhPLLieeLxkfM3yfoi4i1fszevAKRAA89anSqr_eWZ-Gq=w480-h960-rw" group-title="Unknown",Sky Media
+https://skymedia.phoenixcreations.online/skymedia/skymedia/index.m3u8
+
+#EXTINF:-1 tvg-id="SSTVNagercoil" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1721756371.PNG" group-title="Nagercoil; Kanyakumari Dist.",SS TV Nagercoil
+https://server.sscloud7.in/live/sshd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BhakthiTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1735381330.jpg" group-title="Vasudevanallur; Tenkasi Dist.",Bhakthi TV
+https://live.sscloud7.in/live/bhakthitv/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1735972022.PNG" group-title="Unknown",Sky TV
+https://sscloud7.com/live/skytv/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyTV2" group-title="Unknown",Sky TV
+https://view.rcserver.in/tmp_hls6/skytv/index.m3u8
+
+#EXTINF:-1 tvg-id="UdhayamTV2" group-title="Unknown",Udhayam TV
+https://view.rcserver.in/tmp_hls8/udhayamtv/index.m3u8
+
+#EXTINF:-1 tvg-id="JayamTVKarur" tvg-logo="https://play-lh.googleusercontent.com/c6mTAt5hkqZtmfRu_xJiZLY8kTGEcSC2Z2bDZuhYbRvfRrFYZsMCQX_qF8GJEd4KA2At=w512-h960-rw" group-title="Karur",Jayam TV Karur
+https://view.rcserver.in/tmp_hls10/jayamtvkarur/index.m3u8
+
+#EXTINF:-1 tvg-id="BKTV" group-title="Unknown",BK TV
+https://view.apserver.in/tmp_hls3/bktv/index.m3u8
+
+#EXTINF:-1 tvg-id="LikeTV" group-title="Unknown",Like TV [Not 24/7]
+https://view.apserver.in/tmp_hls9/liketv/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyTVTCCL" group-title="TCCL platform",Sky TV (TCCL)
+https://uiptv.iptv.pics/hls/skytv/index.m3u8
+
+
+#EXTINF:-1 tvg-id="SMaxTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1758117813_stv%2520maxxxlogo%2520copy.png&w=1080&q=75" group-title="Unknown",S Max TV
+http://play.applelive.in/smaxtv/smaxtv.m3u8
+
+#EXTINF:-1 tvg-id="PanjamiTV" group-title="TCCL platform",Panjami TV
+https://uiptv.iptv.pics/hls/tcclamman/index.m3u8
+
+#EXTINF:-1 tvg-id="ShaliniTVKanchipuram" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1736392678_IMG-20250109-WA0048.jpg&w=1080&q=75" group-title="Kanchipuram",Shalini TV Kanchipuram [RTMP]
+rtmp://103.78.164.62/static/SHALINITVHD
+#EXTINF:-1 tvg-id="MMTV2" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1736392713_IMG-20250109-WA0034.jpg&w=1920&q=75" group-title="Unknown",MM TV [RTMP]
+rtmp://103.78.164.62/static/MMTVHD
+#EXTINF:-1 tvg-id="MMClassic" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1736395960_WhatsApp%2520Image%25202025-01-09%2520at%25209.42.01%2520AM.jpeg&w=1920&q=75" group-title="Unknown",MM Classic [RTMP]
+rtmp://103.78.164.62/static/MMCLASSIC
+#EXTINF:-1 tvg-id="SSSTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1736392738_cf77d13b-c021-40e7-9596-ce3964e03fc9.png&w=1920&q=75" group-title="Unknown",SSS TV [RTMP]
+rtmp://103.78.164.62/static/SSSHD
+#EXTINF:-1 tvg-id="QTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1736392772_IMG-20250109-WA0035.jpg&w=1920&q=75" group-title="Unknown",Q TV [RTMP]
+rtmp://103.78.164.62/static/QTVHD
+
+#EXTINF:-1 tvg-id="SKTV2" group-title="Unknown",SK TV
+https://view.rcserver.in/tmp_hls23/sktv/index.m3u8
+
+#EXTINF:-1 tvg-id="ChenTV" group-title="Unknown",Chen TV
+https://view.apserver.in/tmp_hls16/chentv/index.m3u8
+#EXTINF:-1 tvg-id="ChenPlus" group-title="Unknown",Chen Plus
+https://view.apserver.in/tmp_hls7/chenplus/index.m3u8
+
+#EXTINF:-1 tvg-id="CTNChannel" tvg-logo="https://play-lh.googleusercontent.com/RNJI7zZh3z3FU-KkGLsyJou7JVmXU7jh9LA8V1zYfMiHymnmgLTZrCnyB-NeSk_OrGQMCMG2-jmssbeovxt6RMg=w5120-h2880-rw" group-title="Unknown",CTN Channel
+https://live.olidigital.in/ctnchannel/ctnchannel/index.m3u8
+
+#EXTINF:-1 tvg-id="YatraTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1762598647_IMG-20251108-WA0090.jpg&w=1920&q=75" group-title="Unknown",Yatra TV
+https://live.rojatv.cloud/yatra/tv/index.m3u8
+
+
+#EXTINF:-1 tvg-id="SuriyanTV2" group-title="Unknown",Suriyan TV
+https://view.rcserver.in/tmp_hls9/suriyantv/index.m3u8
+
