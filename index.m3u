@@ -747,57 +747,66 @@ https://view.apserver.in/tmp_hls4/lingaatv/index.m3u8
 
 #EXTINF:-1 tvg-id="312" group-title="Local",OPV TV
 https://view.apserver.in/tmp_hls5/opvtv/index.m3u8
-
 #EXTINF:-1 tvg-id="313" group-title="Local",MR TV
 https://view.apserver.in/tmp_hls8/mrtv/index.m3u8
-
 #EXTINF:-1 tvg-id="314" group-title="Local",Everest TV
 https://view.apserver.in/tmp_hls11/everesttv/index.m3u8
-
 #EXTINF:-1 tvg-id="315" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1733809002_IMG-20241210-WA0097.jpg&w=1080&q=75" group-title="Local HD",Leaf TV
 https://view.apserver.in/tmp_hls15/leaftv/index.m3u8
-
 #EXTINF:-1 tvg-id="316" group-title="Local",Sky TV
 https://uiptv.iptv.pics/hls/skytv/index.m3u8
-
 #EXTINF:-1 tvg-id="317" group-title="Local",Panjami TV
 https://uiptv.iptv.pics/hls/tcclamman/index.m3u8
-
 #EXTINF:-1 tvg-id="318" group-title="Local",Thentamil TV
 https://gem.inet.moe/hls/thentamil.m3u8
-
 #EXTINF:-1 tvg-id="319" tvg-logo="https://play-lh.googleusercontent.com/6fWqtRlywXirpl4cUwbjCl1vo86lOznuX6VZgG88MjMQvuwEa3OdQUG05njBjuCuhg=w240-h480-rw" group-title="Local", Rock TV
 https://apis.avmediawork.in/tvhls/rocktv.m3u8
-
 #EXTINF:-1 tvg-id="320" tvg-logo="" group-title="Local", ABI TV
 rtmp://in-2.castr.io/static/live_40fb69e0107211f0adde2f394a2bbc0f
-
 #EXTINF:-1 tvg-id="321" tvg-logo="" group-title="Local", SINGAM TV
 http://brightmeltech.in/singamtv/singamtv.m3u8
-
 #EXTINF:-1 tvg-id="322" tvg-name="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240402_0244113518845900804817006.png" group-title="Local - Movies",Thalaa Tv
 https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
-
 #EXTINF:-1 tvg-id="323" tvg-name="Southern Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240331_0037217658317852544226240.png" group-title="Local",Southern Tv
 https://player.mslivestream.net/mslive/9fe7c84b8253e88099d47237e0b7367c.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-id="397" tvg-id="Music.Dummy.us"  tvg-name="Tamil Songs"  tvg-logo="https://i.postimg.cc/3RxbPVdD/cropped-image.png" group-title="Local - Music",Tamil Songs 1
 https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LnN0cmVhbTRrLmNjL3N0YWxrZXJfcG9ydGFsLyIsIm1hYyI6IjAwOjFBOjc5Ojk3OjFDOjFCIiwic24iOiIwMDoxQTo3OTo5NzoxQzoxQiIsImRldmljZV9pZDEiOiIwODdGQzNEMkY4NzEyOUU4MUUwMzYyREQ1NURFMTg1MTA4QTdBNDg5MDYzNTFBRkZDODc3MjgzREY4ODFDOEQzIiwiZGV2aWNlX2lkMiI6IjA4N0ZDM0QyRjg3MTI5RTgxRTAzNjJERDU1REUxODUxMDhBN0E0ODkwNjM1MUFGRkM4NzcyODNERjg4MUM4RDMiLCJzaWciOiIifQ%3D%3D&id=481200
-
 #EXTINF:-1 tvg-id="398"  tvg-name="Tamil Songs" tvg-logo="https://i.postimg.cc/3RxbPVdD/cropped-image.png" group-title="Local - Music",Tamil Songs 2
 https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LnN0cmVhbTRrLmNjL3N0YWxrZXJfcG9ydGFsLyIsIm1hYyI6IjAwOjFBOjc5Ojk3OjFDOjFCIiwic24iOiIwMDoxQTo3OTo5NzoxQzoxQiIsImRldmljZV9pZDEiOiIwODdGQzNEMkY4NzEyOUU4MUUwMzYyREQ1NURFMTg1MTA4QTdBNDg5MDYzNTFBRkZDODc3MjgzREY4ODFDOEQzIiwiZGV2aWNlX2lkMiI6IjA4N0ZDM0QyRjg3MTI5RTgxRTAzNjJERDU1REUxODUxMDhBN0E0ODkwNjM1MUFGRkM4NzcyODNERjg4MUM4RDMiLCJzaWciOiIifQ%3D%3D&id=481199
-
 #EXTINF:-1 tvg-id="399"  tvg-name="Tamil Songs" tvg-logo="https://i.postimg.cc/3RxbPVdD/cropped-image.png" group-title="Local - Music",Tamil Songs 3
 https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LnN0cmVhbTRrLmNjL3N0YWxrZXJfcG9ydGFsLyIsIm1hYyI6IjAwOjFBOjc5Ojk3OjFDOjFCIiwic24iOiIwMDoxQTo3OTo5NzoxQzoxQiIsImRldmljZV9pZDEiOiIwODdGQzNEMkY4NzEyOUU4MUUwMzYyREQ1NURFMTg1MTA4QTdBNDg5MDYzNTFBRkZDODc3MjgzREY4ODFDOEQzIiwiZGV2aWNlX2lkMiI6IjA4N0ZDM0QyRjg3MTI5RTgxRTAzNjJERDU1REUxODUxMDhBN0E0ODkwNjM1MUFGRkM4NzcyODNERjg4MUM4RDMiLCJzaWciOiIifQ%3D%3D&id=481201
-
-#EXTINF:-1  tvg-id="400" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-SIRIPPU.png?alt=media&token=945fdfe6-2d99-479f-a12e-831596646623" tvg-chno="104" group-title="Local HD",CTN Arasu
+#EXTINF:-1  tvg-id="400" tvg-name="Tamil Songs" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-SIRIPPU.png?alt=media&token=945fdfe6-2d99-479f-a12e-831596646623" tvg-chno="104" group-title="Local HD",CTN Arasu
 https://ipcloud.live/ctn/arasu/index.m3u8
-
-#EXTINF:-1 tvg-id="401" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1754982558_f90dff80-1533-4884-906a-de6f24041e53-removebg-preview.png&w=1920&q=75" group-title="Local",Hari TV 
+#EXTINF:-1 tvg-id="401" tvg-name="Tamil Songs" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1754982558_f90dff80-1533-4884-906a-de6f24041e53-removebg-preview.png&w=1920&q=75" group-title="Local",Hari TV 
 http://haritv.stream.ashokadigital.net/haritv/haritvhd/index.m3u8
-
-#EXTINF:-1 tvg-id="402" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732431684_227461593_220794490025454_2506413802748050177_n-removebg-preview.png&w=1920&q=75" group-title="Local HD",Sri Krishna TV Tiruchengode 
+#EXTINF:-1 tvg-id="402" tvg-name="Krishna TV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732431684_227461593_220794490025454_2506413802748050177_n-removebg-preview.png&w=1920&q=75" group-title="Local HD",Sri Krishna TV Tiruchengode 
 http://krishnatv.7starcloud.com:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="403" tvg-name="KC TV" tvg-logo="https://play-lh.googleusercontent.com/qAyUZPMllAhkhcuNK-3sCcnSC6SGT83oytQjtMNwLGiXXO7P5qZb6yg3Dp0jahi5fkA=w480-h960-rw" group-title="Local",KC TV
+https://rtmp.bmlive.net/bms/kctv/stream.m3u8
+#EXTINF:-1 tvg-id="404" tvg-name="OmSakthiTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746107774_rannig%2520logo%2520copy%2520(1).png&w=1920&q=75" group-title="Local",Om Sakthi TV
+https://live1.sscloud7.com/live/omsakthitv/index.m3u8
+#EXTINF:-1 tvg-id="405" tvg-name="Vedha TV" tvg-logo="" group-title="Local",Vedha TV
+https://skystream.in/live/vedha6528/index.m3u8
+#EXTINF:-1 tvg-id="406" tvg-name="Sree Saravana" tvg-logo="" group-title="Local HD",SS Music
+rtmp://stream.advikadigital.in/advika/saravana
+#EXTINF:-1 tvg-id="407" tvg-name="ACP Isai Oli" tvg-logo="" group-title="Local - Music",ACP Isai Oli
+rtmp://103.87.105.51:1935/acpisaioli/acpisaioli?psk=123456
+#EXTINF:-1 tvg-id="408" tvg-name="SS Music" tvg-logo="" group-title="Local - Music",SS Music
+rtmp://stream.advikadigital.in/advika/ssmusic
+#EXTINF:-1 tvg-id="409" tvg-name="Tamil Oli TV" tvg-logo="https://play-lh.googleusercontent.com/fRbNk6OxA12aYw0Vu7jSbv1HUivEv_Zr8WcUQta67fJf1gfScLn-SLdmWCu5p9rWtjE=w512-h960-rw" group-title="Local",Tamil Oli TV
+https://view.rcserver.in/tmp_hls7/tamilolitv/index.m3u8
+#EXTINF:-1 tvg-id="410" tvg-name="Aasai TV Karur" tvg-logo="https://i.imgur.com/5p42C3t.jpg" group-title="Local",Aasai TV Karur
+https://notvstream.in/aasaitv/aasaitv.m3u8
+#EXTINF:-1 tvg-id="411" tvg-name="Oscar TV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1741858477_PeMGZ-pz_400x400.png&w=1920&q=75" group-title="Local",Oscar TV
+https://account21.livebox.co.in/oscartvhls/live.m3u8
+#EXTINF:-1 tvg-id="412" tvg-name="Jawahar Salem" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1731775837_JAWAHAR%2520TV%2520LOGO%2520PNG.png&w=1920&q=75" group-title="Local HD",Jawahar Salem
+http://jawahar.7starcloud.com:1935/live/app/playlist.m3u8
+#EXTINF:-1 tvg-id="413" tvg-name="Yours TV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1748079240_YOURS%2520TV.png&w=1920&q=75" group-title="Local",Yours TV
+http://yours.7starcloud.com:1935/live/yourstv/playlist.m3u8
+#EXTINF:-1 tvg-id="414" tvg-name="Visaka TV" tvg-logo="" group-title="Local HD",Visaka TV
+http://visaka.7starcloud.com:1935/live/visakatv/playlist.m3u8
+#EXTINF:-1 tvg-id="415" tvg-name="Lotus TV" tvg-logo="https://play-lh.googleusercontent.com/zI2dPLwW9CojH8Gu2MQS70hEbGd8yJBZMwzFN1DS1YfGxsGeW7FZ3273SSbuSud179bqYg-FUE3ekmIwByNd2Q=w480-h960-rw" group-title="Local",Lotus TV Kodumudi
+https://lotustv.phoenixcreations.online/lotustv/lotustv/index.m3u8
 
 # -----------------------
 #  LIFE STYLE
