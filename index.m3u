@@ -988,7 +988,7 @@ https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835
 # -----------------------
 #EXTINF:-1 tvg-id="1001" tvg-name="Analai Movies" tvg-logo="https://i.ibb.co/7tNSJQPM/1000133566.jpg" group-title="International",Analai Express Cinema
 http://198.144.149.206:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
-#EXTINF:-1  tvg-id="1002" tvg-name="Analai Express" group-title="Overseas" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240314_0109167221661575844903220.png",Analai Express
+#EXTINF:-1  tvg-id="1002" tvg-name="Analai Express" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240314_0109167221661575844903220.png" group-title="International",Analai Express
 http://198.144.149.206:8080/ANALAI_MOVIE/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="1011" tvg-name="IBC Tamil" tvg-logo="https://i.ibb.co/K1vWbkZ/1000122569.jpg" group-title="International",IBC Tamil
 http://ibc.massstream.net/IBC/index.m3u8
