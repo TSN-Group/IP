@@ -12,13 +12,12 @@ http://198.144.149.206:8080/NOTV/VAAGAI/tracks-v1a1/mono.m3u8?token=GTR
 https://galaxyott.live/hls/sanaplus.m3u8
 
 #EXTINF:-1 tvg-id="901" tvg-name="RASI TAMIL" tvg-logo= "https://i.ibb.co/YF0ZXBwV/rasitamil.jpg" group-title="Local- RASI", RASI TAMIL
-https://live.skystream.in/live/rasitamil2346/index.m3u8
+https://stream.e2is.in/hls/Rasitamil.m3u8
 
 #EXTINF:-1 tvg-id="902" tvg-name="RASI TV" tvg-logo= "https://tataprime.files.wordpress.com/2024/04/20240407_1437564760907591116562534.png" group-title="Local- RASI", RASI TV
-https://live.skystream.in/live/rasitv2346/index.m3u8
-
+https://stream.e2is.in/hls/RasiTv.m3u8
 #EXTINF:-1 tvg-id="903" tvg-name="RASI MOVIES" tvg-logo= "https://i.ibb.co/ZRFYXdvm/rasimovies.jpg" group-title="Local- RASI", RASI MOVIES
-https://live.skystream.in/live/rasimovies2346/index.m3u8
+https://stream.e2is.in/hls/Rasimovies.m3u8
 
 #EXTINF:-1 tvg-id="904" tvg-name="RASI CINEMA" group-title="Local- RASI", RASI CINEMA
 https://live.skystream.in/live/rasilifestyle2346/index.m3u8
@@ -27,7 +26,7 @@ https://live.skystream.in/live/rasilifestyle2346/index.m3u8
 https://live.skystream.in/live/rasiservam2346/index.m3u8
 
 #EXTINF:-1 tvg-id="906" tvg-name="RASI HOLLYWOOD" tvg-logo="https://i.ibb.co/mF9XV2nG/rasihollywood.jpg" group-title="Local- RASI", RASI HOLLYWOOD
-https://live.skystream.in/live/rasihollywood2346/index.m3u8
+https://stream.e2is.in/hls/RasiHollywood.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-name="SNR TV" group-title="Local - Movies", SNR TV
 http://198.144.149.206:8080/NOTV/ASOSACHENNAI/tracks-v1a1/mono.m3u8?token=GTR
@@ -51,7 +50,7 @@ https://live.rojatv.cloud/rojatv/rojatv/index.m3u8
 https://rtmp.applelive.in/boobsh/boobsh/index.m3u8
 
 #EXTINF:-1 tvg-id="16" tvg-name="RASI MUSIC" tvg-logo="https://i.ibb.co/FkPwykW7/1000118463.jpg" group-title="Local- RASI", RASI MUSIC
-https://live.skystream.in/live/rasimusic2346/index.m3u8
+https://stream.e2is.in/hls/Rasimusic.m3u8
 
 #EXTINF:-1 tvg-id="17" tvg-name="ANALY CINEMA" group-title="Local", ANALY CINEMA
 http://198.144.149.206:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
@@ -99,7 +98,7 @@ https://live.skystream.in/live/rasicomedy2346/index.m3u8
 https://live.skystream.in/live/rasiclassic2346/index.m3u8
 
 #EXTINF:-1 tvg-id="32" tvg-name="RASI TAMIL" tvg-logo= "" group-title="Local- RASI", RASI TAMIL
-rtmp://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac
+https://stream.e2is.in/hls/Rasitamil.m3u8
 
 #EXTINF:-1 tvg-id="33" tvg-name="AKASH" tvg-logo= "" group-title="Local", AKASH
 https://account2.livebox.co.in/AkashTvhls/live.m3u8
@@ -346,8 +345,7 @@ http://server.notvstream.in/brightsimrosetv/brightsimrosetv.m3u8
 
 #EXTINF:-1 tvg-id="143" tvg-name="MCN TV" tvg-logo="" group-title="Local HD",MCN TV
 https://play.applelive.in/mcntv/mcntv.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="DEEPAM TV" tvg-logo="" group-title="Local",DEEPAM TV
-https://play.applelive.in/deebamtv/deebamtv.m3u8
+
 #EXTINF:-1 tvg-id="145" tvg-name="JAI TV" tvg-logo="" group-title="Local",JAI TV
 https://play.applelive.in/jaitv/jaitv.m3u8
 #EXTINF:-1 tvg-id="146" tvg-name="Enthiran TV" tvg-logo="" group-title="Local",Enthiran TV
@@ -812,16 +810,16 @@ https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlc
 #EXTINF:-1 tvg-id="417" tvg-name="Tamil Songs" tvg-id="Music.Dummy.us" tvg-logo="https://i.postimg.cc/3RxbPVdD/cropped-image.png" group-title="Local - Music",Tamil Songs 
 https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LnN0cmVhbTRrLmNjL3N0YWxrZXJfcG9ydGFsLyIsIm1hYyI6IjAwOjFBOjc5Ojk3OjFDOjFCIiwic24iOiIwMDoxQTo3OTo5NzoxQzoxQiIsImRldmljZV9pZDEiOiIwODdGQzNEMkY4NzEyOUU4MUUwMzYyREQ1NURFMTg1MTA4QTdBNDg5MDYzNTFBRkZDODc3MjgzREY4ODFDOEQzIiwiZGV2aWNlX2lkMiI6IjA4N0ZDM0QyRjg3MTI5RTgxRTAzNjJERDU1REUxODUxMDhBN0E0ODkwNjM1MUFGRkM4NzcyODNERjg4MUM4RDMiLCJzaWciOiIifQ%3D%3D&id=481315
 
-#EXTINF:-1 tvg-id="418" tvg-name="JothiBalaTV" tvg-logo="https://play-lh.googleusercontent.com/AO6LDGUXp56V2Rgf95ZbaCKQClYVZ9a9S6lDWnWqIMT1fTCKJndUWo_9utYWsCGeedE=w512-h960-rw" group-title="Unknown",Jothi Bala TV [Not 24/7]
+#EXTINF:-1 tvg-id="418" tvg-name="JothiBalaTV" tvg-logo="https://play-lh.googleusercontent.com/AO6LDGUXp56V2Rgf95ZbaCKQClYVZ9a9S6lDWnWqIMT1fTCKJndUWo_9utYWsCGeedE=w512-h960-rw" group-title="Local",Jothi Bala TV [Not 24/7]
 https://jothibalatv.phoenixcreations.online/jothibalatv/jothibalatv/index.m3u8
 
-#EXTINF:-1 tvg-id="419" tvg-name="NTVNellai" tvg-logo="https://play-lh.googleusercontent.com/PBXlTGaua0z8KSGfcl5Wlkv2Bkr2eGqCWHVj0POSciXosMmHHNalH9jU8XSv-8-3yTiQ=w480-h960-rw" group-title="Tirunelveli",NTV Nellai
+#EXTINF:-1 tvg-id="419" tvg-name="NTVNellai" tvg-logo="https://play-lh.googleusercontent.com/PBXlTGaua0z8KSGfcl5Wlkv2Bkr2eGqCWHVj0POSciXosMmHHNalH9jU8XSv-8-3yTiQ=w480-h960-rw" group-title="Local",NTV Nellai
 https://ntv.phoenixcreations.online/ntv/ntv/index.m3u8
 
-#EXTINF:-1 tvg-id="420" tvg-name="ThendralTVAmbai" tvg-logo="https://play-lh.googleusercontent.com/l06iyyboWjfU13_hZe2fSTjNHtlTZ12YqFcQmwkJF68rLuL_cg6qRykYdiEv8H6tKg=w480-h960-rw" group-title="Ambasamudram",Thendral TV Ambai
+#EXTINF:-1 tvg-id="420" tvg-name="ThendralTVAmbai" tvg-logo="https://play-lh.googleusercontent.com/l06iyyboWjfU13_hZe2fSTjNHtlTZ12YqFcQmwkJF68rLuL_cg6qRykYdiEv8H6tKg=w480-h960-rw" group-title="Local",Thendral TV Ambai
 https://thendraltv.phoenixcreations.online/thendraltv/thendraltv/index.m3u8
 
-#EXTINF:-1 tvg-id="421" tvg-name="SkyTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1735972022.PNG" group-title="Unknown",Sky TV
+#EXTINF:-1 tvg-id="421" tvg-name="SkyTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1735972022.PNG" group-title="Local",Sky TV
 https://sscloud7.com/live/skytv/index.m3u8
 
 #EXTINF:-1 tvg-id="422" tvg-name="SkyTV2" group-title="Local II",Sky TV Karur
@@ -829,13 +827,13 @@ https://view.rcserver.in/tmp_hls6/skytv/index.m3u8
 #EXTINF:-1 tvg-id="423" tvg-name="ChenPlus" group-title="Local II",Chen Plus Chennaimalai
 https://view.apserver.in/tmp_hls7/chenplus/index.m3u8
 
-#EXTINF:-1 tvg-id="424" tvg-name="LikeTV" group-title="Unknown",Like TV
+#EXTINF:-1 tvg-id="424" tvg-name="LikeTV" group-title="Local",Like TV
 https://view.apserver.in/tmp_hls9/liketv/index.m3u8
-#EXTINF:-1 tvg-id="425" tvg-name="MMTV2" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1736392713_IMG-20250109-WA0034.jpg&w=1920&q=75" group-title="Unknown",MM TV Kanchi
+#EXTINF:-1 tvg-id="425" tvg-name="MMTV2" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1736392713_IMG-20250109-WA0034.jpg&w=1920&q=75" group-title="Local",MM TV Kanchi
 rtmp://103.78.164.62/static/MMTVHD
-#EXTINF:-1 tvg-id="426" tvg-name="MMClassic" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1736395960_WhatsApp%2520Image%25202025-01-09%2520at%25209.42.01%2520AM.jpeg&w=1920&q=75" group-title="Unknown",MM Classic Kanchi
+#EXTINF:-1 tvg-id="426" tvg-name="MMClassic" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1736395960_WhatsApp%2520Image%25202025-01-09%2520at%25209.42.01%2520AM.jpeg&w=1920&q=75" group-title="Local",MM Classic Kanchi
 rtmp://103.78.164.62/static/MMCLASSIC
-#EXTINF:-1 tvg-id="427" tvg-name="CTNChannel" tvg-logo="https://play-lh.googleusercontent.com/RNJI7zZh3z3FU-KkGLsyJou7JVmXU7jh9LA8V1zYfMiHymnmgLTZrCnyB-NeSk_OrGQMCMG2-jmssbeovxt6RMg=w5120-h2880-rw" group-title="Unknown",CTN Channel
+#EXTINF:-1 tvg-id="427" tvg-name="CTNChannel" tvg-logo="https://play-lh.googleusercontent.com/RNJI7zZh3z3FU-KkGLsyJou7JVmXU7jh9LA8V1zYfMiHymnmgLTZrCnyB-NeSk_OrGQMCMG2-jmssbeovxt6RMg=w5120-h2880-rw" group-title="Local",CTN Channel
 https://live.olidigital.in/ctnchannel/ctnchannel/index.m3u8
 #EXTINF:-1 tvg-id="428" tvg-name="YatraTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1762598647_IMG-20251108-WA0090.jpg&w=1920&q=75" group-title="Local II",Yatra TV Gopi
 https://live.rojatv.cloud/yatra/tv/index.m3u8
@@ -896,30 +894,32 @@ https://stream.onecloudlive.in/britaintamil/britaintamil/index.m3u8
 #EXTINF:-1 tvg-id="403" tvg-name="Alaya Magimai" tvg-logo="https://i.ibb.co/Z1N0YSSB/1000150790.png" group-title="Devotional",Alaya Magimai
 https://app.ashokadigital.net/aalayamagimaitv/aalayamagimaitv/index.m3u8
 #EXTINF:-1 tvg-id="404" tvg-name="Kanchi tv" tvg-logo="https://i.ibb.co/Z1N0YSSB/1000150790.png" group-title="Devotional",Kanchi tv
+#EXTINF:-1 tvg-id="405" tvg-name="DEEPAM TV" tvg-logo="" group-title="Devotional",DEEPAM TV
+https://play.applelive.in/deebamtv/deebamtv.m3u8
 http://live.maxtn.in/srikanchi/kanchi/playlist.m3u8
-#EXTINF:-1 tvg-id="405" tvg-name="Dheivigam Tv" tvg-logo="https://i.ibb.co/Kx3b11vd/1000150819.png" group-title="Devotional",Dheivigam Tv
+#EXTINF:-1 tvg-id="406" tvg-name="Dheivigam Tv" tvg-logo="https://i.ibb.co/Kx3b11vd/1000150819.png" group-title="Devotional",Dheivigam Tv
 https://stream.singamcloud.in/Dheiveegamtv/Dheiveegamtv/index.m3u8
-#EXTINF:-1 tvg-id="406" tvg-name="DHARSHAN TV" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240306_2144488526404058563256885.png" group-title="Devotional",DHARSHAN TV
+#EXTINF:-1 tvg-id="407" tvg-name="DHARSHAN TV" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240306_2144488526404058563256885.png" group-title="Devotional",DHARSHAN TV
 https://galaxyott.live/hls/dharshantv.m3u8
-#EXTINF:-1 tvg-id="407" tvg-name="Garudan TV" tvg-logo="https://i.ibb.co/j5DtKkS/Gurudanmedia.jpg" group-title="Devotional",Garudan TV
+#EXTINF:-1 tvg-id="408" tvg-name="Garudan TV" tvg-logo="https://i.ibb.co/j5DtKkS/Gurudanmedia.jpg" group-title="Devotional",Garudan TV
 https://play.applelive.in/hls/garudantv.m3u8
-#EXTINF:-1 tvg-id="408" tvg-id="BhakthiTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1735381330.jpg" group-title="Vasudevanallur; Tenkasi Dist.",Bhakthi TV
+#EXTINF:-1 tvg-id="409" tvg-id="BhakthiTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1735381330.jpg" group-title="Vasudevanallur; Tenkasi Dist.",Bhakthi TV
 https://live.sscloud7.in/live/bhakthitv/index.m3u8
-#EXTINF:-1 tvg-id="411" tvg-name="Easan Tv" tvg-logo="https://i.ibb.co/tMtysz6V/1000159800.png" group-title="Devotional",Easan Tv
+#EXTINF:-1 tvg-id="415" tvg-name="Easan Tv" tvg-logo="https://i.ibb.co/tMtysz6V/1000159800.png" group-title="Devotional",Easan Tv
 https://amigofx.com:1936/easontv/easontv/playlist.m3u8
-#EXTINF:-1 tvg-id="412" tvg-name="Dharumai Adhenam Tv" tvg-logo="https://i.ibb.co/3KPJ581/1000150821.png" group-title="Devotional",Dharumai Adhenam Tv
+#EXTINF:-1 tvg-id="416" tvg-name="Dharumai Adhenam Tv" tvg-logo="https://i.ibb.co/3KPJ581/1000150821.png" group-title="Devotional",Dharumai Adhenam Tv
 https://stream.onecloudlive.in/taitaltv/livetv/index.m3u8
-#EXTINF:-1 tvg-id="413" tvg-name="IBC Bakthi" tvg-logo="https://i.ibb.co/gM6n2Qwf/1000122568.jpg" group-title="Devotional",IBC Bakthi
+#EXTINF:-1 tvg-id="417" tvg-name="IBC Bakthi" tvg-logo="https://i.ibb.co/gM6n2Qwf/1000122568.jpg" group-title="Devotional",IBC Bakthi
 http://ibc.massstream.net/IBC2/index.m3u8
-#EXTINF:-1  tvg-id="414"tvg-name="TTD" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_2032542389748254668780317.png" group-title="Devotional",TTD
+#EXTINF:-1  tvg-id="418"tvg-name="TTD" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_2032542389748254668780317.png" group-title="Devotional",TTD
 https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
-#EXTINF:-1 tvg-id="415" tvg-name="AASTHA TAMIL" tvg-logo="" group-title="Devotional",AASTHA TAMIL
+#EXTINF:-1 tvg-id="419" tvg-name="AASTHA TAMIL" tvg-logo="" group-title="Devotional",AASTHA TAMIL
 https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="416" tvg-name="Ayya Vaikundar Tv" tvg-logo="https://i.ibb.co/rfMsdCg6/1000144376.webp" group-title="Devotional",Ayya Vaikundar Tv
+#EXTINF:-1 tvg-id="420" tvg-name="Ayya Vaikundar Tv" tvg-logo="https://i.ibb.co/rfMsdCg6/1000144376.webp" group-title="Devotional",Ayya Vaikundar Tv
 http://ayyatv.sscloud7.in/live/ayyatv/index.m3u8
-#EXTINF:-1 tvg-id="417" tvg-name="Jothi Tv" tvg-logo="https://i.ibb.co/spNHQ4Y1/1000146573.jpg" group-title="Devotional",Jothi Tv
+#EXTINF:-1 tvg-id="421" tvg-name="Jothi Tv" tvg-logo="https://i.ibb.co/spNHQ4Y1/1000146573.jpg" group-title="Devotional",Jothi Tv
 https://servertvhub.site/jio/app/ts_live_2768.m3u8
-#EXTINF:-1 tvg-id="418" tvg-name="D Bhakthi" tvg-logo="" group-title="Devotional", D BHAKTHI TV
+#EXTINF:-1 tvg-id="422" tvg-name="D Bhakthi" tvg-logo="" group-title="Devotional", D BHAKTHI TV
 https://stream.d6-pro.com/Dbhakhi/live/index.m3u8
 
 
