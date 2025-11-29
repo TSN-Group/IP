@@ -31,7 +31,7 @@ https://stream.e2is.in/hls/RasiHollywood.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="SNR TV" group-title="Local - Movies", SNR TV
 http://198.144.149.206:8080/NOTV/ASOSACHENNAI/tracks-v1a1/mono.m3u8?token=GTR
 
-#EXTINF:-1 tvg-id="10" tvg-name="SURYA HD" group-title="Local - Movies", SURYA HD
+#EXTINF:-1 tvg-id="10" tvg-name="SURYA HD" group-title="Local HD", SURYA HD
 https://live.sscloud7.in/live/suryatv/index.m3u8
 
 #EXTINF:-1 tvg-id="11" tvg-name="EMPEROR TV" group-title="Local", EMPEROR TV
@@ -88,7 +88,7 @@ rtmp://toptv.phoenixcreations.online:1935/toptv/toptv
 #EXTINF:-1 tvg-id="28" tvg-name="KUMARI TV" group-title="Local - Movies", KUMARI TV
 rtmp://rtmp.applelive.in/gvkumaritv/gvkumaritv
 
-#EXTINF:-1 tvg-id="29" tvg-name="DOLPHIN TV" group-title="Local HD", DOLPHIN TV
+#EXTINF:-1 tvg-id="29" tvg-name="MAX MOVIES" group-title="Local HD", MAX MOVIES
 http://live.maxtn.in/maxmovies/maxmovies/playlist.m3u8
 
 #EXTINF:-1 tvg-id="30" tvg-name="RASI COMEDY" tvg-logo="https://i.ibb.co/Z633zv8m/rasicomedy.jpg" group-title="Local- RASI", RASI COMEDY
@@ -199,7 +199,7 @@ https://rtmp.bmlive.net/kingtv/kingtv/index.m3u8
 https://live.brightmeltech.in/ramyatv/ramyatv.m3u8
 #EXTINF:-1 tvg-id="72" tvg-name="Vani TV" tvg-logo="https://i.ibb.co/vmS9DLS/Vanitvhd554x312.jpg" group-title="Local HD", Vani TV
 https://live.sscloud7.in/live/vanitvhd/index.m3u8
-#EXTINF:-1 tvg-id="73" tvg-name="Surya HD" tvg-logo="https://i.ibb.co/Km2XQkK/Suryahd.jpg" group-title="Local HD", Surya HD
+#EXTINF:-1 tvg-id="73" tvg-name="Surya HD" tvg-logo="https://i.ibb.co/Km2XQkK/Suryahd.jpg" group-title="Local", Surya HD
 https://live.sscloud7.in/live/suryatv/index.m3u8
 #EXTINF:-1 tvg-id="74" tvg-name="Minnal TV" tvg-logo="https://i.ibb.co/5LqBc0Q/Minnalhd554x312.jpg" group-title="Local", Minnal TV
 https://ipcloud.live/minnaltv/minnalhd/index.m3u8
