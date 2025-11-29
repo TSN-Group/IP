@@ -44,7 +44,7 @@ rtmp://rtmp.applelive.in:1935/srivelavantvultrahd/srivelavantvultrahd
 rtmp://103.78.164.62/static/SSSHD
 
 #EXTINF:-1 tvg-id="14" tvg-name="ROJA TV" group-title="Local HD", ROJA TV
-https://live.rojatv.cloud/rojatv/rojatv/index.m3u8
+https://rojatv.cloud/rojatv/rojatv/index.m3u8
 
 #EXTINF:-1 tvg-id="15" tvg-name="BOOBSH" group-title="Local - Movies", BOOBSH
 https://rtmp.applelive.in/boobsh/boobsh/index.m3u8
@@ -242,7 +242,7 @@ https://play.applelive.in/gtvmax/gtvmax.m3u8
 #EXTINF:-1 tvg-id="93" tvg-name="VTR" tvg-logo= "" group-title="Local HD", VTR
 http://vtrtelevision.stream.onecloudlive.in:8080/vtrtelevision/vtrhd/index.m3u8
 
-#EXTINF:-1 tvg-id="94" tvg-name="ATN" tvg-logo= "" group-title="Local", Roja HD
+#EXTINF:-1 tvg-id="94" tvg-name="ATN" tvg-logo= "" group-title="Local", ATN HD
 http://atntv.stream.onecloudlive.in:8080/atntv/atnhd/index.m3u8
 
 #EXTINF:-1 tvg-id="95" tvg-name="Eye TV" tvg-logo="" group-title="Local", Eye TV
@@ -568,8 +568,8 @@ https://stream.singamcloud.in/shalinitv/shalinitv/index.m3u8
 #EXTINF:-1 tvg-id="254" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Local HD",CTN NXT TV
 https://ipcloud.live/ctn/nxt/index.m3u8
 
-#EXTINF:-1 tvg-id="255" tvg-name="ROJA PLUS TV " tvg-logo="https://i.ibb.co/mVzFDt49/ROJA-LOGO-HD-5.png" group-title="Local HD", ROJA PLUS TV
-https://rojatv.cloud/rojatv/rojatv/index.m3u8
+#EXTINF:-1 tvg-id="255" tvg-name="ROJA PLUS TV " tvg-logo="https://i.ibb.co/mVzFDt49/ROJA-LOGO-HD-5.png" group-title="Local HD", EMPTY
+
 
 #EXTINF:-1 tvg-id="256" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1752739119_WhatsApp%2520Image%25202025-07-17%2520at%252012.53.10%2520PM.jpeg&w=1080&q=75" group-title="Local",Kumaran TV
 https://stream.rojatv.cloud/kumarantv/gobi/index.m3u8
