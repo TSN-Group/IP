@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="7 STAR SALEM" tvg-logo= "https://tataprime.files.wordpress.com/2024/02/20240223_0026202554836848690543423.png" tvg-chno="1" group-title="Local HD", 7 STAR SALEM
-http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
+http://premium.7starcloud.com:1935/live/7star8/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name=SANA TV HD" tvg-logo= "https://tataprime.files.wordpress.com/2024/03/20240301_0056252540586574154652196.png" tvg-chno="2" group-title="Local HD", SANA TV HD
 https://galaxyott.live/hls/sanatv.m3u8
@@ -40,8 +40,8 @@ https://rtmp.bmlive.net/bms/emperortv/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="VELAVAN TV" group-title="Local - Movies",VELAVAN TV
 rtmp://rtmp.applelive.in:1935/srivelavantvultrahd/srivelavantvultrahd
 
-#EXTINF:-1 tvg-id="13" tvg-name="SSSHD" group-title="Local", SSS HD
-rtmp://103.78.164.62/static/SSSHD
+#EXTINF:-1 tvg-id="13" tvg-name="7StarMusic" group-title="Local - Music", 7Star Music
+http://premium.7starcloud.com:1935/live/7starmusic/playlist.m3u8
 
 #EXTINF:-1 tvg-id="14" tvg-name="ROJA TV" group-title="Local HD", ROJA TV
 https://rojatv.cloud/rojatv/rojatv/index.m3u8
@@ -839,6 +839,10 @@ https://live.olidigital.in/ctnchannel/ctnchannel/index.m3u8
 https://live.rojatv.cloud/yatra/tv/index.m3u8
 #EXTINF:-1 tvg-id="429" tvg-name="SuriyanTV2" group-title="Local II",Suriyan TV Karur
 https://view.rcserver.in/tmp_hls9/suriyantv/index.m3u8
+
+#EXTINF:-1 tvg-id="430" tvg-name="SSSHD" group-title="Local",SSS HD
+rtmp://103.78.164.62/static/SSSHD
+
 # -----------------------
 #  LIFE STYLE
 # -----------------------
