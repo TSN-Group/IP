@@ -11,22 +11,37 @@ http://198.144.149.206:8080/NOTV/VAAGAI/tracks-v1a1/mono.m3u8?token=GTR
 #EXTINF:-1 tvg-id="4" tvg-name="SANA PLUS HD" tvg-logo= "https://tataprime.files.wordpress.com/2024/03/20240307_1432431031355866089872027.png" group-title="Local - Music", SANA PLUS HD
 https://galaxyott.live/hls/sanaplus.m3u8
 
+#EXTINF:-1 tvg-id="5" tvg-name="TSN Hollywood Tamil" group-title="Tamil - Hollywood", TSN Hollywood Tamil
+rtmp://198.144.149.206:1935/DINESH/PT?token=YAAL
+
+#EXTINF:-1 tvg-id="6" tvg-name="RASI HOLLYWOOD" tvg-logo="https://i.ibb.co/mF9XV2nG/rasihollywood.jpg" group-title="Tamil - Hollywood"", RASI HOLLYWOOD
+rtmp://rasinetworks.in:1935/live/rasihollywoodhd
+
+
 #EXTINF:-1 tvg-id="901" tvg-name="RASI TAMIL" tvg-logo= "https://i.ibb.co/YF0ZXBwV/rasitamil.jpg" group-title="Local- RASI", RASI TAMIL
-https://stream.e2is.in/hls/Rasitamil.m3u8
+rtmp://rasinetworks.in:1935/live/rasitamilhd
 
 #EXTINF:-1 tvg-id="902" tvg-name="RASI TV" tvg-logo= "https://tataprime.files.wordpress.com/2024/04/20240407_1437564760907591116562534.png" group-title="Local- RASI", RASI TV
-https://stream.e2is.in/hls/RasiTv.m3u8
+rtmp://rasinetworks.in:1935/live/rasitvhd
 #EXTINF:-1 tvg-id="903" tvg-name="RASI MOVIES" tvg-logo= "https://i.ibb.co/ZRFYXdvm/rasimovies.jpg" group-title="Local- RASI", RASI MOVIES
-https://stream.e2is.in/hls/Rasimovies.m3u8
+rtmp://rasinetworks.in:1935/live/rasimovieshd
 
 #EXTINF:-1 tvg-id="904" tvg-name="RASI CINEMA" group-title="Local- RASI", RASI CINEMA
-https://live.skystream.in/live/rasilifestyle2346/index.m3u8
+rtmp://rasinetworks.in:1935/live/rasicinemahd
 
 #EXTINF:-1 tvg-id="905" tvg-name="RASI CINEMAX" group-title="Local- RASI", RASI CINEMAX
-https://live.skystream.in/live/rasiservam2346/index.m3u8
+rtmp://rasinetworks.in:1935/live/rasicinemaxhd
 
 #EXTINF:-1 tvg-id="906" tvg-name="RASI HOLLYWOOD" tvg-logo="https://i.ibb.co/mF9XV2nG/rasihollywood.jpg" group-title="Local- RASI", RASI HOLLYWOOD
-https://stream.e2is.in/hls/RasiHollywood.m3u8
+rtmp://rasinetworks.in:1935/live/rasihollywoodhd
+#EXTINF:-1 tvg-id="907" tvg-name="RASI Classic" tvg-logo="https://i.ibb.co/mF9XV2nG/rasihollywood.jpg" group-title="Local- RASI", RASI Classic
+rtmp://rasinetworks.in:1935/live/rasiclassichd
+#EXTINF:-1 tvg-id="908" tvg-name="RASI MUSIC" tvg-logo="https://i.ibb.co/FkPwykW7/1000118463.jpg" group-title="Local- RASI", RASI MUSIC
+rtmp://rasinetworks.in:1935/live/rasimusichd
+#EXTINF:-1 tvg-id="908" tvg-name="RASI COMEDY" tvg-logo="https://i.ibb.co/FkPwykW7/1000118463.jpg" group-title="Local- RASI", RASI COMEDY
+rtmp://rasinetworks.in:1935/live/rasicomedyhd
+#EXTINF:-1 tvg-id="908" tvg-name="RASI LIFY STYLE" tvg-logo="https://i.ibb.co/FkPwykW7/1000118463.jpg" group-title="Local- RASI", RASI LIFY STYLE
+rtmp://rasinetworks.in:1935/live/rasilifestylehd
 
 #EXTINF:-1 tvg-id="9" tvg-name="SNR TV" group-title="Local - Movies", SNR TV
 http://198.144.149.206:8080/NOTV/ASOSACHENNAI/tracks-v1a1/mono.m3u8?token=GTR
@@ -50,7 +65,7 @@ https://rojatv.cloud/rojatv/rojatv/index.m3u8
 https://rtmp.applelive.in/boobsh/boobsh/index.m3u8
 
 #EXTINF:-1 tvg-id="16" tvg-name="RASI MUSIC" tvg-logo="https://i.ibb.co/FkPwykW7/1000118463.jpg" group-title="Local- RASI", RASI MUSIC
-https://stream.e2is.in/hls/Rasimusic.m3u8
+rtmp://rasinetworks.in:1935/live/rasimusichd
 
 #EXTINF:-1 tvg-id="17" tvg-name="ANALY CINEMA" group-title="Local", ANALY CINEMA
 http://198.144.149.206:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
