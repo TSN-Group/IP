@@ -950,6 +950,8 @@ http://mk9qa7n8qwyb-hls-live.wmncdn.net/nambikkaitv/live.stream/chunks.m3u8
 https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8
 #EXTINF:-1 tvg-id="454" tvg-logo="https://i.imgur.com/GlfrYs7.png" group-title="Devotional-Christian",Blessing TV Tamil
 https://stream.blessingtv.tv:1443/blessingtv-tamillive/mystream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="112" tvg-name="ESRA TV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746108596_ACP%2520TV%2520LOGO%252026-Mar-2025%252014-57-40%2520(2)-1.png&w=1920&q=75" group-title="Local HD",ESRA TV
+https://riotv.stream.onecloudlive.in/riotv/riotvmax/index.m3u8
 #EXTINF:-1 tvg-id="455" tvg-name="Family Channel" tvg-logo="https://i.imgur.com/UnuDHW9.jpg" group-title="Devotional-Christian",Family Channel
 https://2-fss-2.streamhoster.com/pl_118/amlst:203324-1410936/playlist.m3u8
 #EXTINF:-1 tvg-id="456" tvg-name="Adhisayam TV" tvg-logo="https://i.imgur.com/6b3nJcD.png" group-title="Devotional-Christian",Adhisayam TV
