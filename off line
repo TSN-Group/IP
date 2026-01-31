@@ -1,3 +1,7 @@
 http://front-main.eagle-4k.me:80/live/m7t7u5p96o/g4xb6pbb1r/1163696.m3u8
 
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:5c:e6:ef&stream=1019905&extension=ts&play_token=1L7gZ23uW3
+
+
+#EXTINF:-1 tvg-id="NagaTV" tvg-logo="https://play-lh.googleusercontent.com/Z3NviXxNAKysRw8YFctVNqO87auqy7ic731owb8D-e2efpZO2ZM-iObZippjiwjHRwq3tB_sRDSdJC_WO4M9=s512-rw" tvg-region="Tirunelveli" group-title="PLC",Naga TV
+http://nagatv.phoenixcreations.online/nagatv/nagatv/index.m3u8
