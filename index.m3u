@@ -881,8 +881,8 @@ http://omtv.7starcloud.com:1935/omtv/live/live.m3u8
 #EXTINF:-1 tvg-id="433" tvg-name="SriArjunTV" tvg-logo="https://play-lh.googleusercontent.com/wZOk1Hq2elqzOuiC8GNQaIxes8xTuV8IyK5bofvxqjbnyNJ7vwaT3OOr-pTNg-qCNH_T=w512-h960-rw" tvg-region="Local II" group-title="PLC",Sri Arjun TV
 https://stream.onecloudlive.in/sriarjuntv/sriarjun/index.m3u8
 #EXTINF:-1 tvg-id="434" tvg-name="SaharaTV" tvg-logo="https://bmcloud.in/apptest/uploads/69457f38e68a4.jpeg" tvg-region="Local II" group-title="Local",Sahara 
-https://stream.onecloudlive.in/sriarjuntv/sriarjun/index.m3u8
-#EXTINF:-1 tvg-id="435" tvg-name="ThirumalaiTV2" tvg-logo="https://bmcloud.in/apptest/uploads/6944c6d5e64f1.png" tvg-region="Unknown" group-title="Local",Thirumalai 2
+https://ipcloud.live/saharatv/saharatv/index.m3u8
+#EXTINF:-1 tvg-id="435" tvg-name="ThirumalaiTV2" tvg-logo="https://bmcloud.in/apptest/uploads/6944c6d5e64f1.png" tvg-region="Unknown" group-title="LOCAL HD",Thirumalai 2
 https://stream.onecloudlive.in/mullaitvhd/thirumalai/index.m3u8
 #EXTINF:-1 tvg-id="436" tvg-name="MRTV2" tvg-logo="https://bmcloud.in/apptest/uploads/68e6001d4b01e.png" tvg-region="Unknown" group-title="Local",MR TV
 https://rtmp.bmlive.net/bms/bms/index.m3u8
