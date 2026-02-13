@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1" tvg-name="RidsysTV" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="PLC",Ridsys TV
+#EXTINF:-1 tvg-id="1" tvg-name="RidsysTV" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="LOCAL HD",Ridsys TV
 http://ptu.ridsys.in/riptv/live/RIDSYS_HD/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="AJKTV" tvg-logo="https://i.ibb.co/WNzjYdHZ/30048.png" tvg-region="Unknown" group-title="PLC",AJK Tv
+#EXTINF:-1 tvg-id="1" tvg-name="AJKTV" tvg-logo="https://i.ibb.co/WNzjYdHZ/30048.png" tvg-region="Unknown" group-title="LOCAL HD",AJK Tv
 http://ptu.ridsys.in/riptv/live/AJK_TV/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="AJKMovie" tvg-logo="https://i.ibb.co/QFbnSHjD/30050.png" tvg-region="Unknown" group-title="Movie",AJK Movie
+#EXTINF:-1 tvg-id="1" tvg-name="AJKMovie" tvg-logo="https://i.ibb.co/QFbnSHjD/30050.png" tvg-region="Unknown" group-title="LOCAL HD",AJK Movie
 http://ptu.ridsys.in/riptv/live/AJK_MOVIE_HD/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="SMedia2" tvg-logo="https://i.ibb.co/5Xv68ypB/29996.png" tvg-region="Unknown" group-title="PLC",S Media
+#EXTINF:-1 tvg-id="1" tvg-name="SMedia2" tvg-logo="https://i.ibb.co/5Xv68ypB/29996.png" tvg-region="Unknown" group-title="LOCAL HD",S Media
 http://ptu.ridsys.in/riptv/live/S_MEDIA/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="LathaSmileTV" tvg-logo="https://i.ibb.co/N6fQyQd4/30008.png" tvg-region="Unknown" group-title="PLC",Latha Smile TV
+#EXTINF:-1 tvg-id="1" tvg-name="LathaSmileTV" tvg-logo="https://i.ibb.co/N6fQyQd4/30008.png" tvg-region="Unknown" group-title="LOCAL HD",Latha Smile TV
 http://ptu.ridsys.in/riptv/live/LATHA_SMILE_HD/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="JVRMediaLiveNews" tvg-logo="https://i.ibb.co/N6fQyQd4/30008.png" tvg-region="Unknown" group-title="PLC",JVR Media Live News
+#EXTINF:-1 tvg-id="1" tvg-name="JVRMediaLiveNews" tvg-logo="https://i.ibb.co/N6fQyQd4/30008.png" tvg-region="Unknown" group-title="LOCAL HD",JVR Media Live News
 http://ptu.ridsys.in/riptv/live/index.m3u8
 
 
@@ -872,39 +872,39 @@ https://view.rcserver.in/tmp_hls9/suriyantv/index.m3u8
 #EXTINF:-1 tvg-id="430" tvg-name="SSSHD" group-title="Local",SSS HD
 rtmp://103.78.164.62/static/SSSHD
 
-#EXTINF:-1 tvg-id="431" tvg-name="AURO HD" tvg-logo="https://i.ibb.co/KcnNrGFN/29943.png" tvg-region="Tamil - Hollywood" group-title="PLC",Auro TV
+#EXTINF:-1 tvg-id="431" tvg-name="AURO HD" tvg-logo="https://i.ibb.co/KcnNrGFN/29943.png" tvg-region="Tamil - Hollywood" group-title="Local",Auro TV
 http://ptu.ridsys.in/riptv/live/AURO_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="432" tvg-name="OmTVSalem" tvg-logo="https://i.ibb.co/xKZ0ydCW/1000136450.jpg" tvg-region="Local II" group-title="PLC",Om TV
+#EXTINF:-1 tvg-id="432" tvg-name="OmTVSalem" tvg-logo="https://i.ibb.co/xKZ0ydCW/1000136450.jpg" tvg-region="Local II" group-title="Local",Om TV
 http://omtv.7starcloud.com:1935/omtv/live/live.m3u8
 
 #EXTINF:-1 tvg-id="433" tvg-name="SriArjunTV" tvg-logo="https://play-lh.googleusercontent.com/wZOk1Hq2elqzOuiC8GNQaIxes8xTuV8IyK5bofvxqjbnyNJ7vwaT3OOr-pTNg-qCNH_T=w512-h960-rw" tvg-region="Local II" group-title="PLC",Sri Arjun TV
 https://stream.onecloudlive.in/sriarjuntv/sriarjun/index.m3u8
-#EXTINF:-1 tvg-id="434" tvg-name="SaharaTV" tvg-logo="https://bmcloud.in/apptest/uploads/69457f38e68a4.jpeg" tvg-region="Local II" group-title="PLC",Sahara 
+#EXTINF:-1 tvg-id="434" tvg-name="SaharaTV" tvg-logo="https://bmcloud.in/apptest/uploads/69457f38e68a4.jpeg" tvg-region="Local II" group-title="Local",Sahara 
 https://stream.onecloudlive.in/sriarjuntv/sriarjun/index.m3u8
-#EXTINF:-1 tvg-id="435" tvg-name="ThirumalaiTV2" tvg-logo="https://bmcloud.in/apptest/uploads/6944c6d5e64f1.png" tvg-region="Unknown" group-title="PLC",Thirumalai 2
+#EXTINF:-1 tvg-id="435" tvg-name="ThirumalaiTV2" tvg-logo="https://bmcloud.in/apptest/uploads/6944c6d5e64f1.png" tvg-region="Unknown" group-title="Local",Thirumalai 2
 https://stream.onecloudlive.in/mullaitvhd/thirumalai/index.m3u8
-#EXTINF:-1 tvg-id="436" tvg-name="MRTV2" tvg-logo="https://bmcloud.in/apptest/uploads/68e6001d4b01e.png" tvg-region="Unknown" group-title="PLC",MR TV
+#EXTINF:-1 tvg-id="436" tvg-name="MRTV2" tvg-logo="https://bmcloud.in/apptest/uploads/68e6001d4b01e.png" tvg-region="Unknown" group-title="Local",MR TV
 https://rtmp.bmlive.net/bms/bms/index.m3u8
-#EXTINF:-1 tvg-id="437" tvg-name="AhaTV" tvg-logo="https://bmcloud.in/apptest/uploads/6936d638886a5.jpg" tvg-region="Unknown" group-title="PLC",Aha TV
+#EXTINF:-1 tvg-id="437" tvg-name="AhaTV" tvg-logo="https://bmcloud.in/apptest/uploads/6936d638886a5.jpg" tvg-region="Unknown" group-title="Local",Aha TV
 https://rtmp.bmlive.net/bms/ahatv/index.m3u8
-#EXTINF:-1 tvg-id="438" tvg-name="ACNTV" tvg-logo="https://bmcloud.in/apptest/uploads/6925b0efd9a77.png" tvg-region="Unknown" group-title="PLC",ACN TV
+#EXTINF:-1 tvg-id="438" tvg-name="ACNTV" tvg-logo="https://bmcloud.in/apptest/uploads/6925b0efd9a77.png" tvg-region="Unknown" group-title="Local",ACN TV
 https://play.applelive.in/acntv/acntv.m3u8
-#EXTINF:-1 tvg-id="439" tvg-name="AnjaiTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Anjai TV
+#EXTINF:-1 tvg-id="439" tvg-name="AnjaiTV" tvg-logo="" tvg-region="Unknown" group-title="Local",Anjai TV
 https://web.applelive.in/stream/anjaitv/index.m3u8
-#EXTINF:-1 tvg-id="440" tvg-name="AnisaTV" tvg-logo="https://bmcloud.in/apptest/uploads/692dcd8b1d4c8.png" tvg-region="Unknown" group-title="PLC",Anisa TV
+#EXTINF:-1 tvg-id="440" tvg-name="AnisaTV" tvg-logo="https://bmcloud.in/apptest/uploads/692dcd8b1d4c8.png" tvg-region="Unknown" group-title="Local",Anisa TV
 https://web.applelive.in/anisatv/anisatv/index.m3u8
-#EXTINF:-1 tvg-id="441" tvg-name="RuhashaTV" tvg-logo="https://bmcloud.in/apptest/uploads/692725fb950a3.png" tvg-region="Unknown" group-title="PLC",Ruhasha TV
+#EXTINF:-1 tvg-id="441" tvg-name="RuhashaTV" tvg-logo="https://bmcloud.in/apptest/uploads/692725fb950a3.png" tvg-region="Unknown" group-title="Local",Ruhasha TV
 https://live.applelive.in/ruhashatv/ruhashatv/index.m3u8
-#EXTINF:-1 tvg-id="442" tvg-name="MaxTV2" tvg-logo="" tvg-region="Unknown" group-title="PLC",Max TV
+#EXTINF:-1 tvg-id="442" tvg-name="MaxTV2" tvg-logo="" tvg-region="Unknown" group-title="Local",Max TV
 https://rtmp.applelive.in/kumariplus/kumariplus/index.m3u8
-#EXTINF:-1 tvg-id="443" tvg-name="EzhilTV2" tvg-logo="https://bmcloud.in/apptest/uploads/688a642529460.png" tvg-region="Unknown" group-title="PLC",Ezhil TV
+#EXTINF:-1 tvg-id="443" tvg-name="EzhilTV2" tvg-logo="https://bmcloud.in/apptest/uploads/688a642529460.png" tvg-region="Unknown" group-title="Local",Ezhil TV
 https://stream.onecloudlive.in/ezhiltv/ezhilhd/index.m3u8
-#EXTINF:-1 tvg-id="444" tvg-name="KoodalTV" tvg-logo="https://bmcloud.in/apptest/uploads/695cf57cc3657.png" tvg-region="Unknown" group-title="PLC",Koodal TV
+#EXTINF:-1 tvg-id="444" tvg-name="KoodalTV" tvg-logo="https://bmcloud.in/apptest/uploads/695cf57cc3657.png" tvg-region="Unknown" group-title="Local",Koodal TV
 https://web.applelive.in/koodaltv/koodaltv/index.m3u8
-#EXTINF:-1 tvg-id="445" tvg-name="CrayonzTV" tvg-logo="https://bmcloud.in/apptest/uploads/692fdeb6e1666.png" tvg-region="Unknown" group-title="PLC",Crayonz TV
+#EXTINF:-1 tvg-id="445" tvg-name="CrayonzTV" tvg-logo="https://bmcloud.in/apptest/uploads/692fdeb6e1666.png" tvg-region="Unknown" group-title="Local",Crayonz TV
 https://rtmp.bmlive.net/stream/crayonz/index.m3u8
-#EXTINF:-1 tvg-id="446" tvg-name="SKMedia" tvg-logo="" tvg-region="Unknown" group-title="PLC",SK Media
+#EXTINF:-1 tvg-id="446" tvg-name="SKMedia" tvg-logo="" tvg-region="Unknown" group-title="Local",SK Media
 https://rtmp.bmlive.net/stream/skmedia/index.m3u8
 # -----------------------
 #  LIFE STYLE
