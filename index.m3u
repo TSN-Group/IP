@@ -1,4 +1,19 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="0" tvg-name="RidsysTV" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="PLC",Ridsys TV
+http://ptu.ridsys.in/riptv/live/RIDSYS_HD/index.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="AJKTV" tvg-logo="https://i.ibb.co/WNzjYdHZ/30048.png" tvg-region="Unknown" group-title="PLC",AJK Tv
+http://ptu.ridsys.in/riptv/live/AJK_TV/index.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="AJKMovie" tvg-logo="https://i.ibb.co/QFbnSHjD/30050.png" tvg-region="Unknown" group-title="Movie",AJK Movie
+http://ptu.ridsys.in/riptv/live/AJK_MOVIE_HD/index.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="SMedia2" tvg-logo="https://i.ibb.co/5Xv68ypB/29996.png" tvg-region="Unknown" group-title="PLC",S Media
+http://ptu.ridsys.in/riptv/live/S_MEDIA/index.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="LathaSmileTV" tvg-logo="https://i.ibb.co/N6fQyQd4/30008.png" tvg-region="Unknown" group-title="PLC",Latha Smile TV
+http://ptu.ridsys.in/riptv/live/LATHA_SMILE_HD/index.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="JVRMediaLiveNews" tvg-logo="https://i.ibb.co/N6fQyQd4/30008.png" tvg-region="Unknown" group-title="PLC",JVR Media Live News
+http://ptu.ridsys.in/riptv/live/index.m3u8
+
+
 #EXTINF:-1 tvg-id="1" tvg-name="7 STAR SALEM" tvg-logo= "https://tataprime.files.wordpress.com/2024/02/20240223_0026202554836848690543423.png" tvg-chno="1" group-title="Local HD", 7 STAR SALEM
 http://premium.7starcloud.com:1935/live/7star8/playlist.m3u8
 
@@ -857,6 +872,9 @@ https://view.rcserver.in/tmp_hls9/suriyantv/index.m3u8
 
 #EXTINF:-1 tvg-id="430" tvg-name="SSSHD" group-title="Local",SSS HD
 rtmp://103.78.164.62/static/SSSHD
+
+#EXTINF:-1 tvg-id="431" tvg-logo="https://i.ibb.co/KcnNrGFN/29943.png" tvg-region="Tamil - Hollywood" group-title="PLC",Auro TV
+http://ptu.ridsys.in/riptv/live/AURO_HD/index.m3u8
 
 # -----------------------
 #  LIFE STYLE
