@@ -110,6 +110,9 @@ https://live.olidigital.in/ctnchannel/ctnchannel/index.m3u8
 #EXTINF:-1 tvg-id="YatraTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1762598647_IMG-20251108-WA0090.jpg&w=1920&q=75" group-title="Unknown",Yatra TV
 https://live.rojatv.cloud/yatra/tv/index.m3u8
 
+#EXTINF:-1 tvg-id="1" tvg-name="7 STAR SALEM" tvg-logo= "https://tataprime.files.wordpress.com/2024/02/20240223_0026202554836848690543423.png" tvg-chno="1" group-title="Local HD", 7 STAR SALEM
+http://premium.7starcloud.com:1935/live/7star8/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="SuriyanTV2" group-title="Unknown",Suriyan TV
 https://view.rcserver.in/tmp_hls9/suriyantv/index.m3u8
