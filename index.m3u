@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="0" tvg-name="RidsysTV" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="PLC",Ridsys TV
+#EXTINF:-1 tvg-id="1" tvg-name="RidsysTV" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="PLC",Ridsys TV
 http://ptu.ridsys.in/riptv/live/RIDSYS_HD/index.m3u8
-#EXTINF:-1 tvg-id="0" tvg-name="AJKTV" tvg-logo="https://i.ibb.co/WNzjYdHZ/30048.png" tvg-region="Unknown" group-title="PLC",AJK Tv
+#EXTINF:-1 tvg-id="1" tvg-name="AJKTV" tvg-logo="https://i.ibb.co/WNzjYdHZ/30048.png" tvg-region="Unknown" group-title="PLC",AJK Tv
 http://ptu.ridsys.in/riptv/live/AJK_TV/index.m3u8
-#EXTINF:-1 tvg-id="0" tvg-name="AJKMovie" tvg-logo="https://i.ibb.co/QFbnSHjD/30050.png" tvg-region="Unknown" group-title="Movie",AJK Movie
+#EXTINF:-1 tvg-id="1" tvg-name="AJKMovie" tvg-logo="https://i.ibb.co/QFbnSHjD/30050.png" tvg-region="Unknown" group-title="Movie",AJK Movie
 http://ptu.ridsys.in/riptv/live/AJK_MOVIE_HD/index.m3u8
-#EXTINF:-1 tvg-id="0" tvg-name="SMedia2" tvg-logo="https://i.ibb.co/5Xv68ypB/29996.png" tvg-region="Unknown" group-title="PLC",S Media
+#EXTINF:-1 tvg-id="1" tvg-name="SMedia2" tvg-logo="https://i.ibb.co/5Xv68ypB/29996.png" tvg-region="Unknown" group-title="PLC",S Media
 http://ptu.ridsys.in/riptv/live/S_MEDIA/index.m3u8
-#EXTINF:-1 tvg-id="0" tvg-name="LathaSmileTV" tvg-logo="https://i.ibb.co/N6fQyQd4/30008.png" tvg-region="Unknown" group-title="PLC",Latha Smile TV
+#EXTINF:-1 tvg-id="1" tvg-name="LathaSmileTV" tvg-logo="https://i.ibb.co/N6fQyQd4/30008.png" tvg-region="Unknown" group-title="PLC",Latha Smile TV
 http://ptu.ridsys.in/riptv/live/LATHA_SMILE_HD/index.m3u8
-#EXTINF:-1 tvg-id="0" tvg-name="JVRMediaLiveNews" tvg-logo="https://i.ibb.co/N6fQyQd4/30008.png" tvg-region="Unknown" group-title="PLC",JVR Media Live News
+#EXTINF:-1 tvg-id="1" tvg-name="JVRMediaLiveNews" tvg-logo="https://i.ibb.co/N6fQyQd4/30008.png" tvg-region="Unknown" group-title="PLC",JVR Media Live News
 http://ptu.ridsys.in/riptv/live/index.m3u8
 
 
@@ -34,29 +34,29 @@ rtmp://rasinetworks.in:1935/live/rasihollywoodhd
 
 
 #EXTINF:-1 tvg-id="901" tvg-name="RASI TAMIL" tvg-logo= "https://i.ibb.co/YF0ZXBwV/rasitamil.jpg" group-title="Local- RASI", RASI TAMIL
-rtmp://rasinetworks.in:1935/live/rasitamilhd
+https://rasinetworks.in/live/rasitamilhd/index.mpd
 
 #EXTINF:-1 tvg-id="902" tvg-name="RASI TV" tvg-logo= "https://tataprime.files.wordpress.com/2024/04/20240407_1437564760907591116562534.png" group-title="Local- RASI", RASI TV
-rtmp://rasinetworks.in:1935/live/rasitvhd
+https://rasinetworks.in/live/rasitvhd/index.mpd
 #EXTINF:-1 tvg-id="903" tvg-name="RASI MOVIES" tvg-logo= "https://i.ibb.co/ZRFYXdvm/rasimovies.jpg" group-title="Local- RASI", RASI MOVIES
-rtmp://rasinetworks.in:1935/live/rasimovieshd
+https://rasinetworks.in/live/rasimovieshd/index.mpd
 
 #EXTINF:-1 tvg-id="904" tvg-name="RASI CINEMA" group-title="Local- RASI", RASI CINEMA
-rtmp://rasinetworks.in:1935/live/rasicinemahd
+https://rasinetworks.in/live/rasicinemahd/index.mpd
 
 #EXTINF:-1 tvg-id="905" tvg-name="RASI CINEMAX" group-title="Local- RASI", RASI CINEMAX
-rtmp://rasinetworks.in:1935/live/rasicinemaxhd
+https://rasinetworks.in/live/rasicinemaxhd/index.mpd
 
 #EXTINF:-1 tvg-id="906" tvg-name="RASI HOLLYWOOD" tvg-logo="https://i.ibb.co/mF9XV2nG/rasihollywood.jpg" group-title="Local- RASI", RASI HOLLYWOOD
-rtmp://rasinetworks.in:1935/live/rasihollywoodhd
+https://rasinetworks.in/live/rasihollywoodhd/index.mpd
 #EXTINF:-1 tvg-id="907" tvg-name="RASI Classic" tvg-logo="https://i.ibb.co/mF9XV2nG/rasihollywood.jpg" group-title="Local- RASI", RASI Classic
 rtmp://rasinetworks.in:1935/live/rasiclassichd
 #EXTINF:-1 tvg-id="908" tvg-name="RASI MUSIC" tvg-logo="https://i.ibb.co/FkPwykW7/1000118463.jpg" group-title="Local- RASI", RASI MUSIC
-rtmp://rasinetworks.in:1935/live/rasimusichd
+https://rasinetworks.in/live/rasiclassichd/index.mpd
 #EXTINF:-1 tvg-id="908" tvg-name="RASI COMEDY" tvg-logo="https://i.ibb.co/FkPwykW7/1000118463.jpg" group-title="Local- RASI", RASI COMEDY
-rtmp://rasinetworks.in:1935/live/rasicomedyhd
+https://rasinetworks.in/live/rasicomedyhd/index.mpd
 #EXTINF:-1 tvg-id="908" tvg-name="RASI LIFY STYLE" tvg-logo="https://i.ibb.co/FkPwykW7/1000118463.jpg" group-title="Local- RASI", RASI LIFY STYLE
-rtmp://rasinetworks.in:1935/live/rasilifestylehd
+https://rasinetworks.in/live/rasilifestylehd/index.mpd
 
 #EXTINF:-1 tvg-id="9" tvg-name="SNR TV" group-title="Local - Movies", SNR TV
 http://198.144.149.206:8080/NOTV/ASOSACHENNAI/tracks-v1a1/mono.m3u8?token=GTR
@@ -873,8 +873,11 @@ https://view.rcserver.in/tmp_hls9/suriyantv/index.m3u8
 #EXTINF:-1 tvg-id="430" tvg-name="SSSHD" group-title="Local",SSS HD
 rtmp://103.78.164.62/static/SSSHD
 
-#EXTINF:-1 tvg-id="431" tvg-logo="https://i.ibb.co/KcnNrGFN/29943.png" tvg-region="Tamil - Hollywood" group-title="PLC",Auro TV
+#EXTINF:-1 tvg-id="431" tvg-name="AURO HD" tvg-logo="https://i.ibb.co/KcnNrGFN/29943.png" tvg-region="Tamil - Hollywood" group-title="PLC",Auro TV
 http://ptu.ridsys.in/riptv/live/AURO_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="432" tvg-name="OmTVSalem" tvg-logo="https://i.ibb.co/xKZ0ydCW/1000136450.jpg" tvg-region="Salem" group-title="PLC",Om TV
+http://omtv.7starcloud.com:1935/omtv/live/live.m3u8
 
 # -----------------------
 #  LIFE STYLE
@@ -883,9 +886,11 @@ http://ptu.ridsys.in/riptv/live/AURO_HD/index.m3u8
 #EXTINF: -1 tvg-id="451" tvg-chno="83" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu6XXFakC801HfjU8rfRtxfLmBjH_I__e9PA&s" group-title="LIFE STYLE", Village Cooking Channel
 https://rpn3.bozztv.com/dvrfl07/ushba-t10/index.m3u8
 
-#EXTINF:-1 tvg-name="Big Boss Tv" tvg-id="24.7.Dummy.us" tvg-logo="https://i.ibb.co/4R7HrYCh/1000146146.jpg" group-title="LIFE STYLE",Bigg Boss 24/7
+#EXTINF:-1 tvg-name="Big Boss Tv" tvg-id="453" tvg-logo="https://i.ibb.co/4R7HrYCh/1000146146.jpg" group-title="LIFE STYLE",Bigg Boss 24/7
 https://xtm.8088yyy.workers.dev/481185.m3u8
 
+#EXTINF:-1 tvg-id="452" tvg-name="MagalirTV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-MAGALIR-TV.png?alt=media&token=479bc182-afa2-406a-8dbb" tvg-region="" group-title="PLC",Magalir TV
+https://ipcloud.live/ctn/magalir/index.m3u8
 
 # -----------------------
 # TAMIL FTA NEWS
