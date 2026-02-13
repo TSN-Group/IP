@@ -875,9 +875,37 @@ rtmp://103.78.164.62/static/SSSHD
 #EXTINF:-1 tvg-id="431" tvg-name="AURO HD" tvg-logo="https://i.ibb.co/KcnNrGFN/29943.png" tvg-region="Tamil - Hollywood" group-title="PLC",Auro TV
 http://ptu.ridsys.in/riptv/live/AURO_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="432" tvg-name="OmTVSalem" tvg-logo="https://i.ibb.co/xKZ0ydCW/1000136450.jpg" tvg-region="Salem" group-title="PLC",Om TV
+#EXTINF:-1 tvg-id="432" tvg-name="OmTVSalem" tvg-logo="https://i.ibb.co/xKZ0ydCW/1000136450.jpg" tvg-region="Local II" group-title="PLC",Om TV
 http://omtv.7starcloud.com:1935/omtv/live/live.m3u8
 
+#EXTINF:-1 tvg-id="433" tvg-name="SriArjunTV" tvg-logo="https://play-lh.googleusercontent.com/wZOk1Hq2elqzOuiC8GNQaIxes8xTuV8IyK5bofvxqjbnyNJ7vwaT3OOr-pTNg-qCNH_T=w512-h960-rw" tvg-region="Local II" group-title="PLC",Sri Arjun TV
+https://stream.onecloudlive.in/sriarjuntv/sriarjun/index.m3u8
+#EXTINF:-1 tvg-id="434" tvg-name="SaharaTV" tvg-logo="https://bmcloud.in/apptest/uploads/69457f38e68a4.jpeg" tvg-region="Local II" group-title="PLC",Sahara 
+https://stream.onecloudlive.in/sriarjuntv/sriarjun/index.m3u8
+#EXTINF:-1 tvg-id="435" tvg-name="ThirumalaiTV2" tvg-logo="https://bmcloud.in/apptest/uploads/6944c6d5e64f1.png" tvg-region="Unknown" group-title="PLC",Thirumalai 2
+https://stream.onecloudlive.in/mullaitvhd/thirumalai/index.m3u8
+#EXTINF:-1 tvg-id="436" tvg-name="MRTV2" tvg-logo="https://bmcloud.in/apptest/uploads/68e6001d4b01e.png" tvg-region="Unknown" group-title="PLC",MR TV
+https://rtmp.bmlive.net/bms/bms/index.m3u8
+#EXTINF:-1 tvg-id="437" tvg-name="AhaTV" tvg-logo="https://bmcloud.in/apptest/uploads/6936d638886a5.jpg" tvg-region="Unknown" group-title="PLC",Aha TV
+https://rtmp.bmlive.net/bms/ahatv/index.m3u8
+#EXTINF:-1 tvg-id="438" tvg-name="ACNTV" tvg-logo="https://bmcloud.in/apptest/uploads/6925b0efd9a77.png" tvg-region="Unknown" group-title="PLC",ACN TV
+https://play.applelive.in/acntv/acntv.m3u8
+#EXTINF:-1 tvg-id="439" tvg-name="AnjaiTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Anjai TV
+https://web.applelive.in/stream/anjaitv/index.m3u8
+#EXTINF:-1 tvg-id="440" tvg-name="AnisaTV" tvg-logo="https://bmcloud.in/apptest/uploads/692dcd8b1d4c8.png" tvg-region="Unknown" group-title="PLC",Anisa TV
+https://web.applelive.in/anisatv/anisatv/index.m3u8
+#EXTINF:-1 tvg-id="441" tvg-name="RuhashaTV" tvg-logo="https://bmcloud.in/apptest/uploads/692725fb950a3.png" tvg-region="Unknown" group-title="PLC",Ruhasha TV
+https://live.applelive.in/ruhashatv/ruhashatv/index.m3u8
+#EXTINF:-1 tvg-id="442" tvg-name="MaxTV2" tvg-logo="" tvg-region="Unknown" group-title="PLC",Max TV
+https://rtmp.applelive.in/kumariplus/kumariplus/index.m3u8
+#EXTINF:-1 tvg-id="443" tvg-name="EzhilTV2" tvg-logo="https://bmcloud.in/apptest/uploads/688a642529460.png" tvg-region="Unknown" group-title="PLC",Ezhil TV
+https://stream.onecloudlive.in/ezhiltv/ezhilhd/index.m3u8
+#EXTINF:-1 tvg-id="444" tvg-name="KoodalTV" tvg-logo="https://bmcloud.in/apptest/uploads/695cf57cc3657.png" tvg-region="Unknown" group-title="PLC",Koodal TV
+https://web.applelive.in/koodaltv/koodaltv/index.m3u8
+#EXTINF:-1 tvg-id="445" tvg-name="CrayonzTV" tvg-logo="https://bmcloud.in/apptest/uploads/692fdeb6e1666.png" tvg-region="Unknown" group-title="PLC",Crayonz TV
+https://rtmp.bmlive.net/stream/crayonz/index.m3u8
+#EXTINF:-1 tvg-id="446" tvg-name="SKMedia" tvg-logo="" tvg-region="Unknown" group-title="PLC",SK Media
+https://rtmp.bmlive.net/stream/skmedia/index.m3u8
 # -----------------------
 #  LIFE STYLE
 # -----------------------
@@ -934,7 +962,8 @@ https://account30.livebox.co.in/saitvhls/live.m3u8
 https://stream.onecloudlive.in/britaintamil/britaintamil/index.m3u8
 #EXTINF:-1 tvg-id="403" tvg-name="Alaya Magimai" tvg-logo="https://i.ibb.co/Z1N0YSSB/1000150790.png" group-title="Devotional",Alaya Magimai
 https://app.ashokadigital.net/aalayamagimaitv/aalayamagimaitv/index.m3u8
-#EXTINF:-1 tvg-id="404" tvg-name="Kanchi tv" tvg-logo="https://i.ibb.co/Z1N0YSSB/1000150790.png" group-title="Devotional",Kanchi tv
+#EXTINF:-1 tvg-id="404" tvg-name="BakthiTamil" tvg-logo="https://bmcloud.in/apis/apps/bmcloudimages/bakthi%20tamil.png" tvg-region="Unknown" group-title="Devotional;Hindu",Bakthi Tamil
+https://rtmp.bmlive.net/stream/bakthitamil/index.m3u8
 #EXTINF:-1 tvg-id="405" tvg-name="DEEPAM TV" tvg-logo="" group-title="Devotional",DEEPAM TV
 https://play.applelive.in/deebamtv/deebamtv.m3u8
 http://live.maxtn.in/srikanchi/kanchi/playlist.m3u8
