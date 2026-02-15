@@ -60,6 +60,9 @@ https://rasinetworks.in/live/rasilifestylehd/index.mpd
 #EXTINF:-1 tvg-id="9" tvg-name="SNR TV" group-title="Local - Movies", SNR TV
 http://198.144.149.206:8080/NOTV/ASOSACHENNAI/tracks-v1a1/mono.m3u8?token=GTR
 
+#EXTINF:-1 tvg-id="9" tvg-name="Chither TV" group-title="Local - Movies", Chither TV
+http://198.144.149.206:8080/DINESH/PT2/index.m3u8?token=YAAL
+
 #EXTINF:-1 tvg-id="10" tvg-name="SURYA HD" group-title="Local HD", SURYA HD
 https://live.sscloud7.in/live/suryatv/index.m3u8
 
