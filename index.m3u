@@ -909,11 +909,13 @@ https://rtmp.bmlive.net/stream/skmedia/index.m3u8
 #EXTINF:-1 tvg-id="447" tvg-name="AnandamTV" tvg-logo="https://play-lh.googleusercontent.com/LmQF1KlnKDVTyvBAC3ASnLd7l2eqnMzTdqCBM0gxPLGO3IEW5qHgqXvoA2mrn9Oj3Q=w512-h960-rw" tvg-region="Gobichettipalayam;Erode" group-title="Local",Anandam TV
 #EXTINF:-1 tvg-id="448" tvg-name="NTVTrichy" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1733812543_Ntv-Logo-png.png" tvg-region="Trichy" group-title="PLC",NTV Trichy
 https://notvstream.in/ntv/ntv/index.m3u8
-#EXTINF:-1 tvg-id="RainbowTVGandarvakottai" tvg-logo="" tvg-region="Gandarvakottai;Thanjavur" group-title="PLC",Rainbow TV Gandarvakottai
+#EXTINF:-1 tvg-id="449" tvg-name="RainbowTVGandarvakottai" tvg-logo="" tvg-region="Gandarvakottai;Thanjavur" group-title="PLC",Rainbow TV Gandarvakottai
 https://notvstream.in/rainbowtv/rainbowtv/index.m3u8
-#EXTINF:-1 tvg-id="TembleTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1748265127_ttv%20logo%20png.png" tvg-region="Kanchipuram",Temble TV
+#EXTINF:-1 tvg-id="450" tvg-name="TembleTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1748265127_ttv%20logo%20png.png" tvg-region="Kanchipuram",Temble TV
 https://notvstream.in/tembletv/tembletv/index.m3u8
-
+#EXTINF:-1 tvg-id="451" tvg-name="BhagyamTV" tvg-logo="" tvg-region="Unknown" group-title="Local",Bhagyam TV
+#EXTVLCOPT:http-referrer=https://m3uplay.com
+https://m3uplay.com/leo/live.m3u8?id=3358&format=.m3u8
 
 # -----------------------
 #  LIFE STYLE
