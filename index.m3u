@@ -181,7 +181,7 @@ https://ipcloud.live/leotv/leotvhd/index.m3u8
 https://account11.livebox.co.in/vidyaltvhls/live.m3u8
 
 #EXTINF:-1 tvg-id="50" tvg-name="SS TV" tvg-logo="https://play-lh.googleusercontent.com/N6D59CkSb75w9Z2WOOo_bwclyXXVs6U2FAmFD4VS8-Np6eY5BaT8ebMqoKFEGcerbkav=w240-h480-rw" group-title="Local - Movies",SS TV  
-http://sstv.phoenixcreations.online:1935/sstv/sstv/playlist.m3u8
+https://notvstream.in/sstv/sstv/index.m3u8
 
 #EXTINF:-1 tvg-id="51" tvg-name="Apple TV" tvg-logo="https://i.ibb.co/C6vQpqY/Appletv.jpg" group-title="Local", Apple TV
 https://play.applelive.in/appletv/appletv.m3u8
@@ -905,7 +905,11 @@ https://web.applelive.in/koodaltv/koodaltv/index.m3u8
 #EXTINF:-1 tvg-id="445" tvg-name="CrayonzTV" tvg-logo="https://bmcloud.in/apptest/uploads/692fdeb6e1666.png" tvg-region="Unknown" group-title="Local",Crayonz TV
 https://rtmp.bmlive.net/stream/crayonz/index.m3u8
 #EXTINF:-1 tvg-id="446" tvg-name="SKMedia" tvg-logo="" tvg-region="Unknown" group-title="Local",SK Media
-https://rtmp.bmlive.net/stream/skmedia/index.m3u8
+https://rtmp.bmlive.net/stream/skmedia/index.m3u8 
+#EXTINF:-1 tvg-id="447" tvg-name="AnandamTV" tvg-logo="https://play-lh.googleusercontent.com/LmQF1KlnKDVTyvBAC3ASnLd7l2eqnMzTdqCBM0gxPLGO3IEW5qHgqXvoA2mrn9Oj3Q=w512-h960-rw" tvg-region="Gobichettipalayam;Erode" group-title="Local",Anandam TV
+https://notvstream.in/anandamtv/anandamtv.m3u8
+https://notvstream.in/anandamtv/anandamtv/index.m3u8
+
 # -----------------------
 #  LIFE STYLE
 # -----------------------
