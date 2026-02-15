@@ -157,7 +157,7 @@ http://phoenixtv.stream.onecloudlive.in:8080/phoenixtv/phoenixtv/tracks-v1a1/mon
 rtmp://ipcloud.live/rvtv/rvtvhd
 
 #EXTINF:-1 tvg-id="42" tvg-name="MULLAI TV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FMULLAI-TV.png?alt=media&token=48f947bf-4fc2-4de7-a5f8-d180b6ebe12b" group-title="Local", Mullai TV
-rtmp://apserver.in:1937/bakthimanam/bakthimanam
+https://view.apserver.in/tmp_hls6/bakthimanam/index.m3u8
 
 #EXTINF:-1 tvg-id="43" tvg-name="YOGAA TV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/ipcloud-app-ee03e.appspot.com/o/logo%2Fyogaa-tv.png?alt=media&token=ce543fc6-dde3-482f-a0ac-5e1772913055" group-title="Local", Yogaa TV
 https://ipcloud.live/yogaatv/yogaatv/index.m3u8
@@ -916,18 +916,21 @@ https://notvstream.in/tembletv/tembletv/index.m3u8
 #EXTINF:-1 tvg-id="451" tvg-name="BhagyamTV" tvg-logo="" tvg-region="Unknown" group-title="Local",Bhagyam TV
 #EXTVLCOPT:http-referrer=https://m3uplay.com
 https://m3uplay.com/leo/live.m3u8?id=3358&format=.m3u8
-
+#EXTINF:-1 tvg-id="452" tvg-name="Veerbox" tvg-logo="" tvg-region="Madurai" group-title="Local",Veerbox [RTMP]
+rtmp://stream.advikadigital.in/advika/veerbox
+#EXTINF:-1 tvg-id="453" tvg-name="SuriyanTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/suriyantvtamil.png" group-title="Local",Suriyan TV (576p)
+https://stream.sscloud7.com/live/suriyantv/index.m3u8
 # -----------------------
 #  LIFE STYLE
 # -----------------------
 
-#EXTINF: -1 tvg-id="451" tvg-chno="83" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu6XXFakC801HfjU8rfRtxfLmBjH_I__e9PA&s" group-title="LIFE STYLE", Village Cooking Channel
+#EXTINF: -1 tvg-id="551" tvg-chno="83" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu6XXFakC801HfjU8rfRtxfLmBjH_I__e9PA&s" group-title="LIFE STYLE", Village Cooking Channel
 https://rpn3.bozztv.com/dvrfl07/ushba-t10/index.m3u8
 
-#EXTINF:-1 tvg-name="Big Boss Tv" tvg-id="453" tvg-logo="https://i.ibb.co/4R7HrYCh/1000146146.jpg" group-title="LIFE STYLE",Bigg Boss 24/7
+#EXTINF:-1 tvg-name="Big Boss Tv" tvg-id="553" tvg-logo="https://i.ibb.co/4R7HrYCh/1000146146.jpg" group-title="LIFE STYLE",Bigg Boss 24/7
 https://xtm.8088yyy.workers.dev/481185.m3u8
 
-#EXTINF:-1 tvg-id="452" tvg-name="MagalirTV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-MAGALIR-TV.png?alt=media&token=479bc182-afa2-406a-8dbb" tvg-region="" group-title="PLC",Magalir TV
+#EXTINF:-1 tvg-id="552" tvg-name="MagalirTV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-MAGALIR-TV.png?alt=media&token=479bc182-afa2-406a-8dbb" tvg-region="" group-title="PLC",Magalir TV
 https://ipcloud.live/ctn/magalir/index.m3u8
 
 # -----------------------
