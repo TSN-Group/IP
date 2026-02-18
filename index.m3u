@@ -925,6 +925,10 @@ rtmp://stream.advikadigital.in/advika/veerbox
 https://stream.sscloud7.com/live/suriyantv/index.m3u8
 #EXTINF:-1 tvg-id="453" tvg-name="V Tamizh" tvg-logo="https://i.ibb.co/sqQGGjS/Mptv250x250.jpg" group-title="Local HD", V Tamizh
 https://app.ashokadigital.net/app/89c09acf/index.m3u8
+
+#EXTINF:-1 tvg-id="454" tvg-name="KM Music" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-17-2026-11_37_02-AM-1-200x300.png" group-title="Local - Music", KM Music
+https://stream.ashokadigital.net/kmmusic/kmmusic/index.m3u8
+
 # -----------------------
 #  LIFE STYLE
 # -----------------------
