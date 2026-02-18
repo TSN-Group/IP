@@ -13,8 +13,8 @@ http://ptu.ridsys.in/riptv/live/LATHA_SMILE_HD/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="JVRMediaLiveNews" tvg-logo="https://i.ibb.co/N6fQyQd4/30008.png" tvg-region="Unknown" group-title="Local HD",JVR Media Live News
 http://ptu.ridsys.in/riptv/live/index.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-name="7StarTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1754648001_7STV%20Still%202%20(1).png" tvg-region="Salem" group-title="PLC",7Star TV (Alt)
-http://media.7starcloud.com:1935/live/7star8/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="7 STAR SALEM" tvg-logo= "https://tataprime.files.wordpress.com/2024/02/20240223_0026202554836848690543423.png" tvg-chno="1" group-title="Local HD", 7 STAR SALEM
+https://app.ashokadigital.net/app/ed8bd4a7/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name=SANA TV HD" tvg-logo= "https://tataprime.files.wordpress.com/2024/03/20240301_0056252540586574154652196.png" tvg-chno="2" group-title="Local HD", SANA TV HD
 https://galaxyott.live/hls/sanatv.m3u8
 
@@ -561,7 +561,7 @@ https://ipcloud.live/thirumalaitv/madurai/index.m3u8
 #EXTINF:-1 tvg-id="236" tvg-name="SJ Surya Tv" tvg-logo="https://i.ibb.co/DHxLL7Xm/1000159781.png" group-title="Local",SJ Surya Tv
 https://ipcloud.live/nellaitv/suriyatv/index.m3u8
 #EXTINF:-1 tvg-id="237" tvg-name="Cuddalore Voice TV" tvg-logo="https://i.ibb.co/8g2M6G9m/1000159783.png" group-title="Local",Cuddalore Voice TV
-http://voicetv.stream.ashokadigital.net:8080/voicetv/voicetvhd/index.m3u8
+https://stream.ashokadigital.net/voicetv/voicetvhd/index.m3u8
 #EXTINF:-1 tvg-id="238" tvg-name="Strawberry Tv" tvg-logo="https://i.ibb.co/r290vjKm/1000159795.png" group-title="Local",Strawberry Tv
 https://stream.onecloudlive.in/sachintv/strawberrytv/index.m3u8
 #EXTINF:-1 tvg-id="239" tvg-name="Aadhavan Colors Tv" tvg-logo="https://i.ibb.co/svNNmL97/1000159797.png" group-title="Local",Aadhavan Colors
@@ -937,7 +937,8 @@ https://xtm.8088yyy.workers.dev/481185.m3u8
 
 #EXTINF:-1 tvg-id="552" tvg-name="MagalirTV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-MAGALIR-TV.png?alt=media&token=479bc182-afa2-406a-8dbb" tvg-region="" group-title="PLC",Magalir TV
 https://ipcloud.live/ctn/magalir/index.m3u8
-
+#EXTINF:-1 tvg-id="553" tvg-name="DinaTharani" tvg-logo="https://play-lh.googleusercontent.com/k0H62_q4i5vekWUm4A5ibIg33Dx4eO7qwRj9RewY_QMhC2VCvpaS5Rz0xiKg0vQqMDM=w480-h960-rw" tvg-region="Unknown" group-title="News",Dina Tharani
+https://stream.sscloud7.in/live/ddtv/index.m3u8
 # -----------------------
 # TAMIL FTA NEWS
 # -----------------------
