@@ -244,8 +244,8 @@ https://live.sscloud7.in/live/suryatv/index.m3u8
 https://ipcloud.live/minnaltv/minnalhd/index.m3u8
 #EXTINF:-1 tvg-id="75" tvg-name="NTN TV" tvg-logo="https://i.ibb.co/Ctcw1gP/Ntn250x250.jpg" group-title="Local", NTN TV
 https://live.skystream.in/live/ntntv/index.m3u8
-#EXTINF:-1 tvg-id="76" tvg-name="Anandham TV" tvg-logo="https://i.ibb.co/crjJVdY/Anandhamtv250x250.jpg" group-title="Local - Movies", Anandham TV
-https://stream.galaxyott.live/live/anandhamtv/index.m3u8
+#EXTINF:-1 tvg-id="76" tvg-name="Anandham TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1753975377_ANANTHAM%20TV%20LOGO.pngg" group-title="Local - Movies", Anandham TV
+https://server.sscloud7.in/live/anandhamtv/index.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="N TV TRICHY" tvg-logo="https://i.ibb.co/6sptcNn/Ntv.jpg" group-title="Local", N TV TRICHY
 https://stream.sscloud7.in/live/ntv/index.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Smiley TV" tvg-logo="https://i.ibb.co/ftR4XnX/Smileytv-554x312.jpg" group-title="Local", Smiley TV
@@ -820,7 +820,7 @@ http://krishnatv.7starcloud.com:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="403" tvg-name="KC TV" tvg-logo="https://play-lh.googleusercontent.com/qAyUZPMllAhkhcuNK-3sCcnSC6SGT83oytQjtMNwLGiXXO7P5qZb6yg3Dp0jahi5fkA=w480-h960-rw" group-title="Local",KC TV
 https://rtmp.bmlive.net/bms/kctv/stream.m3u8
 #EXTINF:-1 tvg-id="404" tvg-name="OmSakthiTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746107774_rannig%2520logo%2520copy%2520(1).png&w=1920&q=75" group-title="Local",Om Sakthi TV
-https://live1.sscloud7.com/live/omsakthitv/index.m3u8
+rtmp://live1.sscloud7.com/live/omsakthitv
 #EXTINF:-1 tvg-id="405" tvg-name="Vedha TV" tvg-logo="" group-title="Local",Vedha TV
 https://skystream.in/live/vedha6528/index.m3u8
 #EXTINF:-1 tvg-id="406" tvg-name="Sree Saravana" tvg-logo="" group-title="Local HD",SS Music
