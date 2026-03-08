@@ -942,7 +942,7 @@ https://stream.ashokadigital.net/kmmusic/kmmusic/index.m3u8
 #EXTINF:-1 tvg-id="455" tvg-name="News80Tamil" tvg-logo="https://play-lh.googleusercontent.com/vUleh6XgoF2Ouabo6ImWZFg1wZY0xiFZDgp8d2fl2wvx2gejgt7eavWhn9DxTVEtw4I=w512-h960-rw" tvg-region="Unknown" group-title="News",News 80 Tamil
 http://198.144.149.206:8080/NOTV/NEWS80/index.m3u8?token=GTR
 
-#EXTINF:-1 tvg-id="456" tvg-name="RTV2" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/RTV2.png" tvg-region="Unknown" group-title="Local",R TV
+#EXTINF:-1 tvg-id="456" tvg-name="RTV2" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/RTV2.png" tvg-region="Unknown" group-title="Local HD",R TV
 https://ipcloud.live/rtv/rtvstream/index.m3u8
 
 #EXTINF:-1 tvg-id="457" tvg-name="SaharaTV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FSAHARA-HD.png?alt=media&token=5c43da75-3639-4408-8964-0f62a61b9c03" tvg-region="Unknown" group-title="PLC",Sahara TV
@@ -964,7 +964,8 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0182/master.m3u8
 #EXTINF:-1 tvg-id="463" tvg-name="MaduraTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1772719964_madhura tv.png" tvg-region="Madurai" group-title="PLC",Madura TV
 #EXTINF:-1 tvg-id="464" tvg-id="RajaTVValliyur" tvg-logo="https://play-lh.googleusercontent.com/U1fN2q0X_xkL3qW5ziSDkdEh2WaBIohIyllEo6iVpbbj9htD4okHJ7f0pca4-iV6Yvs_aoMtu-ZVF-UDng4bQWg=w512-h960-rw" tvg-region="Valliyur;Tenkasi" group-title="PLC",Raja TV Valliyur
 http://rajatv.phoenixcreations.online/rajatv/raja/playlist.m3u8
-
+#EXTINF:-1 tvg-id="464" tvg-id="MangalamTV" tvg-logo="https://play-lh.googleusercontent.com/SGyfDbRPr5ySSLnPaRWovKGYTPhIZ0WdDxKgR5tiAURCGOVQDOWFNSNXZ3YtLIjZ9hq0_vqsyz4SpSmFO6Nj=w512-h960-rw" tvg-region="Tirunelveli" group-title="PLC",Mangalam TV
+http://mangalamtv.phoenixcreations.online/mangalamtv/mangalam/playlist.m3u8
 # -----------------------
 #  LIFE STYLE
 # -----------------------
@@ -992,7 +993,7 @@ https://cdn-3.pishow.tv/live/1606/master.m3u8
 #EXTINF:-1 tvg-id="504" tvg-logo="https://i.imgur.com/RqeF8RR.png" group-title="NEWS",News J
 https://cdn-3.pishow.tv/live/1279/master.m3u8
 #EXTINF:-1 tvg-id="505"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Tamil_24x7.png" group-title="NEWS",News Tamil 24x7
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-tamil-24x7/index.m3u8
+https://d18a8tqmogafg2.cloudfront.net/newstamil/index.m3u8
 #EXTINF:-1 tvg-id="506"  tvg-logo="https://i.imgur.com/Hgp4sQq.png" group-title="NEWS",Puthiya Thalaimurai
 https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
 #EXTINF:-1 tvg-id="507" tvg-name="Win TV" tvg-logo="https://i.imgur.com/xQutJMq.png" group-title="NEWS",Win TV
@@ -1010,7 +1011,7 @@ http://m3u.8088y.fun/yt.php?c=TamilJanamNews
 #EXTINF:-1 tvg-id=""513" tvg-name="M Nadu" tvg-logo="https://i.ibb.co/G1fQ5Rh/1000158590.png" group-title="NEWS",M Nadu
 http://m3u.8088y.fun/yt.php?c=mnadutv
 #EXTINF:-1 tvg-id="514" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="NEWS",Thandhi Tv
-http://m3u.8088y.fun/yt.php?c=thanthitv
+https://cdn-3.pishow.tv/live/1612/master.m3u8
 #EXTINF:-1 tvg-id="515" tvg-name="DinaTharani" tvg-logo="https://play-lh.googleusercontent.com/k0H62_q4i5vekWUm4A5ibIg33Dx4eO7qwRj9RewY_QMhC2VCvpaS5Rz0xiKg0vQqMDM=w480-h960-rw" tvg-region="Unknown" group-title="NEWS",Dina Tharani
 https://stream.sscloud7.in/live/ddtv/index.m3u8
 #EXTINF:-1 tvg-id="516" tvg-name="udhayam"  tvg-logo="https://cdn.oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-24-2025-09_18_39-AM-1-200x300.png",Udhayam HD
@@ -1024,7 +1025,8 @@ rtmp://stream.sscloud7.in/live/selvatamiltv
 # -----------------------
 # TAMIL DEVOTIONAL
 # -----------------------
-
+#EXTINF:-1 vg-id="401" tvg-name="OM TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/OM_TV.png" group-title="Devotional",OM TV
+https://mumt01.tangotv.in/OMTV/index.m3u8
 #EXTINF:-1 vg-id="401"tvg-name="Sai TV" tvg-logo="https://i.imgur.com/3e0tsrx.png" group-title="Devotional",Sai TV
 https://account30.livebox.co.in/saitvhls/live.m3u8
 #EXTINF:-1 tvg-id="402" tvg-name="Britain Tamil Bakthi" tvg-logo="https://i.ibb.co/5XHS38QS/1000161604.png" group-title="Devotional",Britain Tamil Bakthi
