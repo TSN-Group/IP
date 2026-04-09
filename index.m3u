@@ -1,17 +1,23 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="1" tvg-name="RidsysTV" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="Local HD",Ridsys TV
-http://ptu.ridsys.in/riptv/live/RIDSYS_HD/index.m3u8
+http://ptuf.ridsys.in/riptv/live/RIDSYS_HD/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="AJKTV" tvg-logo="https://i.ibb.co/WNzjYdHZ/30048.png" tvg-region="Unknown" group-title="Local HD",AJK Tv
-http://ptu.ridsys.in/riptv/live/AJK_TV/index.m3u8
+http://ptuf.ridsys.in/riptv/live/AJK_TV/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="AJKMovie" tvg-logo="https://i.ibb.co/QFbnSHjD/30050.png" tvg-region="Unknown" group-title="Local HD",AJK Movie
-http://ptu.ridsys.in/riptv/live/AJK_MOVIE_HD/index.m3u8
+http://ptuf.ridsys.in/riptv/live/AJK_MOVIE_HD/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="SarahMovie" tvg-logo="" tvg-region="Puducherry" group-title="Movies",Sarah Movie
+http://ajkiptv.ridsys.in/riptv/live/SARAH_MOVIES/index.m3u8
+#EXTINF:-1  tvg-id="1" tvg-name="TianaaMusic" tvg-logo="" tvg-region="Puducherry" group-title="Music",Tianaa Music
+http://ajkiptv.ridsys.in/riptv/live/TIANAA_MUSIC_HD/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="SMedia2" tvg-logo="https://i.ibb.co/5Xv68ypB/29996.png" tvg-region="Unknown" group-title="Local HD",S Media
-http://ptu.ridsys.in/riptv/live/S_MEDIA/index.m3u8
+http://ptuf.ridsys.in/riptv/live/S_MEDIA/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="LathaSmileTV" tvg-logo="https://i.ibb.co/N6fQyQd4/30008.png" tvg-region="Unknown" group-title="Local HD",Latha Smile TV
-http://ptu.ridsys.in/riptv/live/LATHA_SMILE_HD/index.m3u8
+http://ptuf.ridsys.in/riptv/live/LATHA_SMILE_HD/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="JVRMediaLiveNews" tvg-logo="https://i.ibb.co/N6fQyQd4/30008.png" tvg-region="Unknown" group-title="Local HD",JVR Media Live News
 http://ptu.ridsys.in/riptv/live/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="AJKKids" tvg-logo="https://i.ibb.co/QFbnSHjD/30050.png" tvg-region="Madurai" group-title="Kids",AJK Kids
+http://ajkiptv.ridsys.in/riptv/live/AJK_KIDS_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-name="7 STAR SALEM" tvg-logo= "https://tataprime.files.wordpress.com/2024/02/20240223_0026202554836848690543423.png" tvg-chno="1" group-title="Local HD", 7 STAR SALEM
 https://app.ashokadigital.net/app/ed8bd4a7/index.m3u8
