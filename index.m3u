@@ -1,5 +1,8 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="1" tvg-name="ssmovie" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="Local HD",SS Movie
+rtmp://stream.advikadigital.in/advika/ssmusic
+#EXTINF:-1 tvg-id="1" tvg-name="saravana" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="Local HD",saravana
+rtmp://stream.advikadigital.in/advika/saravana
 #EXTINF:-1 tvg-id="1" tvg-name="RidsysTV" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="Local HD",Ridsys TV
 http://ptuf.ridsys.in/riptv/live/RIDSYS_HD/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="AJKTV" tvg-logo="https://i.ibb.co/WNzjYdHZ/30048.png" tvg-region="Unknown" group-title="Local HD",AJK Tv
@@ -26,6 +29,8 @@ https://galaxyott.live/hls/sanatv.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-name="TSN MUSIC" group-title="Local - Music", TSN MUSIC
 http://198.144.149.206:8080/NOTV/VAAGAI/tracks-v1a1/mono.m3u8?token=GTR
+#EXTINF:-1 tvg-id="3" tvg-name="analaimusic" group-title="Local - Music", Analai MUSIC
+rtmp://148.113.170.17/static/analaimusic
 
 #EXTINF:-1 tvg-id="4" tvg-name="SANA PLUS HD" tvg-logo= "https://tataprime.files.wordpress.com/2024/03/20240307_1432431031355866089872027.png" group-title="Local - Music", SANA PLUS HD
 https://galaxyott.live/hls/sanaplus.m3u8
