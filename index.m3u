@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="MONTAMIL_CINEMA" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="Local HD",Analai Express Cinema 
+http://198.144.149.206:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="1" tvg-name="ssmovie" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="Local HD",SS Movie
 rtmp://stream.advikadigital.in/advika/ssmusic
 #EXTINF:-1 tvg-id="1" tvg-name="saravana" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="Local HD",saravana
