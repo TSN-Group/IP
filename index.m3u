@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="MONTAMIL_CINEMA" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="Local HD",Analai Express Cinema 
 http://198.144.149.206:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="1" tvg-name="srivelavantv" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="Local HD",srivelavantv
+rtmp://rtmp.applelive.in:1935/srivelavantv/srivelavantv4k
+#EXTINF:-1 tvg-id="1" tvg-name="nila" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="Local HD",Nila
+rtmp://rtmp.applelive.in:1935/velavantv/srivelavantvultrahd
+#EXTINF:-1 tvg-id="1" tvg-name="7 STAR SALEM" tvg-logo= "https://tataprime.files.wordpress.com/2024/02/20240223_0026202554836848690543423.png" tvg-chno="1" group-title="Local HD", 7 STAR SALEM
+https://app.ashokadigital.net/app/ed8bd4a7/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="ssmovie" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="Local HD",SS Movie
 rtmp://stream.advikadigital.in/advika/ssmusic
 #EXTINF:-1 tvg-id="1" tvg-name="saravana" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="Local HD",saravana
@@ -24,8 +30,7 @@ http://ptu.ridsys.in/riptv/live/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="AJKKids" tvg-logo="https://i.ibb.co/QFbnSHjD/30050.png" tvg-region="Madurai" group-title="Local HD",AJK Kids
 http://ajkiptv.ridsys.in/riptv/live/AJK_KIDS_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-name="7 STAR SALEM" tvg-logo= "https://tataprime.files.wordpress.com/2024/02/20240223_0026202554836848690543423.png" tvg-chno="1" group-title="Local HD", 7 STAR SALEM
-https://app.ashokadigital.net/app/ed8bd4a7/index.m3u8
+
 #EXTINF:-1 tvg-id="2" tvg-name=SANA TV HD" tvg-logo= "https://tataprime.files.wordpress.com/2024/03/20240301_0056252540586574154652196.png" tvg-chno="2" group-title="Local HD", SANA TV HD
 https://galaxyott.live/hls/sanatv.m3u8
 
