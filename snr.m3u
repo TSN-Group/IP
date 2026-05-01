@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="SNR TV" group-title="SNR Groups", SNR TV
+http://198.144.149.206:8080/NOTV/ASOSACHENNAI/tracks-v1a1/mono.m3u8?token=GTR
+
+#EXTINF:-1 tvg-id="2" tvg-name="Chither TV" group-title="SNR Groups", Chither TV
+http://198.144.149.206:8080/DINESH/PT2/index.m3u8?token=YAAL
