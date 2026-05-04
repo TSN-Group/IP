@@ -1001,25 +1001,24 @@ https://ipcloud.live/ctn/magalir/index.m3u8
 # -----------------------
 # TAMIL FTA NEWS
 # -----------------------
-
-#EXTINF:-1 tvg-id="501" tvg-name="NEWS 7" tvg-logo= "" group-title="NEWS", NEWS 7
-https://segment.yuppcdn.net/240122/news7/playlist.m3u8
+#EXTINF:-1 tvg-id="501" tvg-logo="https://i.imgur.com/RqeF8RR.png" group-title="NEWS",News J
+https://cdn-3.pishow.tv/live/1279/master.m3u8
 #EXTINF:-1 tvg-id="502" tvg-name="POLIMER NEWS" tvg-logo= "" group-title="NEWS", POLIMER NEWS
 https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
-#EXTINF:-1 tvg-id="510" tvg-logo="https://i.imgur.com/M92IDhq.png" group-title="NEWS",Malai Murasu TV
-https://cdn-3.pishow.tv/live/1606/master.m3u8
-#EXTINF:-1 tvg-id="503" tvg-logo="https://i.imgur.com/RqeF8RR.png" group-title="NEWS",News J
-https://cdn-3.pishow.tv/live/1279/master.m3u8
-#EXTINF:-1 tvg-id="504"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Tamil_24x7.png" group-title="NEWS",News Tamil 24x7
+#EXTINF:-1 tvg-id="503"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Tamil_24x7.png" group-title="NEWS",News Tamil 24x7
 https://cdn-3.pishow.tv/live/1433/master.m3u8
-#EXTINF:-1 tvg-id="505"  tvg-logo="https://i.imgur.com/Hgp4sQq.png" group-title="NEWS",Puthiya Thalaimurai
-https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
-#EXTINF:-1 tvg-id="507" tvg-name="Win TV" tvg-logo="https://i.imgur.com/xQutJMq.png" group-title="NEWS",Win TV
-https://cdn-4.pishow.tv/live/1531/master.m3u8
-#EXTINF:-1 tvg-id="508" tvg-name="ZEE TAMIL NEWS" tvg-logo="" group-title="NEWS",ZEE TAMIL NEWS
-https://dpkvdnzbeen1l.cloudfront.net/index_3.m3u8
 #EXTINF:-1 tvg-id="504" tvg-name="NEWS18 TAMIL" tvg-logo="" group-title="NEWS",NEWS18 TAMIL
 https://nw18live.cdn.jio.com/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="505" tvg-name="NEWS 7" tvg-logo= "" group-title="NEWS", NEWS 7
+https://segment.yuppcdn.net/240122/news7/playlist.m3u8
+#EXTINF:-1 tvg-id="506"  tvg-logo="https://i.imgur.com/Hgp4sQq.png" group-title="NEWS",Puthiya Thalaimurai
+https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
+#EXTINF:-1 tvg-id="507" tvg-logo="https://i.imgur.com/M92IDhq.png" group-title="NEWS",Malai Murasu TV
+https://cdn-3.pishow.tv/live/1606/master.m3u8
+#EXTINF:-1 tvg-id="508" tvg-name="Win TV" tvg-logo="https://i.imgur.com/xQutJMq.png" group-title="NEWS",Win TV
+https://cdn-4.pishow.tv/live/1531/master.m3u8
+#EXTINF:-1 tvg-id="509" tvg-name="ZEE TAMIL NEWS" tvg-logo="" group-title="NEWS",ZEE TAMIL NEWS
+https://dpkvdnzbeen1l.cloudfront.net/index_3.m3u8
 V#EXTINF:-1 tvg-id="510" tvg-name="SATHIYAM TV" tvg-logo="" group-title="NEWS",SATHIYAM TV
 https://live-sathiyamtv.dailyhunt.in/eternowsa/live/amlst:sathiyamtv_,b256,b512,b1024,b1824,.smil/playlist.m3u8
 #EXTINF: -1 tvg-id=""511" tvg-name="KUMUDAM NEWS" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/05/20240520_2336496929188746513153355.png" group-title="NEWS", Kumudam News
