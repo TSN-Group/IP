@@ -11,6 +11,11 @@ https://app.ashokadigital.net/app/ed8bd4a7/index.m3u8
 rtmp://stream.advikadigital.in/advika/ssmusic
 #EXTINF:-1 tvg-id="1" tvg-name="saravana" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="Local HD",saravana
 rtmp://stream.advikadigital.in/advika/saravana
+#EXTINF:-1 tvg-id="1" tvg-name="BoobshTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1743337212_1000035047-removebg-preview.png" tvg-region="Kanyakumari" group-title="Local HD",Boobsh TV
+https://live.applelive.in/boobsh/boobsh/index.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="DevaTV2" tvg-logo="https://play-lh.googleusercontent.com/_nNyjIXaIYE-6wFUc6wxa2tAnzDA0WwThiocgODyIySkog9_5ukAMlrSFCVFTJpipqiL8vq48IGYdPsvePj_940" tvg-region="Local HD" group-title="Local HD",Deva TV
+http://devatv.sscloud7.in/live/devatv/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="RidsysTV" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="Local HD",Ridsys TV
 http://ptuf.ridsys.in/riptv/live/RIDSYS_HD/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="AJKTV" tvg-logo="https://i.ibb.co/WNzjYdHZ/30048.png" tvg-region="Unknown" group-title="Local HD",AJK Tv
@@ -38,7 +43,8 @@ https://galaxyott.live/hls/sanatv.m3u8
 http://198.144.149.206:8080/NOTV/VAAGAI/tracks-v1a1/mono.m3u8?token=GTR
 #EXTINF:-1 tvg-id="3" tvg-name="analaimusic" group-title="Local - Music", Analai MUSIC
 rtmp://148.113.170.17/static/analaimusic
-
+#EXTINF:-1 tvg-id="3" tvg-name="PrimeMusic" tvg-logo="https://play-lh.googleusercontent.com/9IUsGU1pFVyj4eo9B0_E71ak2sO-PzWL6hIPesrRbsJ7O94BxWpSn7C5z0FA7mXWOZ7IKhzCj2BsnCoMVDK05A=w5120-h2880-rw" tvg-region="Unknown" group-title="Music",Prime Music
+https://live.primestream.in/prime/music/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="SANA PLUS HD" tvg-logo= "https://tataprime.files.wordpress.com/2024/03/20240307_1432431031355866089872027.png" group-title="Local - Music", SANA PLUS HD
 https://galaxyott.live/hls/sanaplus.m3u8
 
@@ -983,7 +989,9 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0182/master.m3u8
 #EXTINF:-1 tvg-id="464" tvg-id="RajaTVValliyur" tvg-logo="https://play-lh.googleusercontent.com/U1fN2q0X_xkL3qW5ziSDkdEh2WaBIohIyllEo6iVpbbj9htD4okHJ7f0pca4-iV6Yvs_aoMtu-ZVF-UDng4bQWg=w512-h960-rw" tvg-region="Valliyur;Tenkasi" group-title="PLC",Raja TV Valliyur
 http://rajatv.phoenixcreations.online/rajatv/raja/playlist.m3u8
 #EXTINF:-1 tvg-id="464" tvg-id="MangalamTV" tvg-logo="https://play-lh.googleusercontent.com/SGyfDbRPr5ySSLnPaRWovKGYTPhIZ0WdDxKgR5tiAURCGOVQDOWFNSNXZ3YtLIjZ9hq0_vqsyz4SpSmFO6Nj=w512-h960-rw" tvg-region="Tirunelveli" group-title="PLC",Mangalam TV
-http://mangalamtv.phoenixcreations.online/mangalamtv/mangalam/playlist.m3u8
+http://mangalamtv.phoenixcreations.online/mangalamtv/mangalam/playlist.m3u8 
+#EXTINF:-1 tvg-id="465" tvg-name="ThangamTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/ThangamTV.png" tvg-region="Unknown" group-title="PLC",Thangam TV
+https://stream.onecloudlive.in/thangamtv/thangamtvhd/index.m3u8
 # -----------------------
 #  LIFE STYLE
 # -----------------------
@@ -1044,6 +1052,8 @@ rtmp://stream.sscloud7.in/live/selvatamiltv
 # -----------------------
 #EXTINF:-1 vg-id="401" tvg-name="OM TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/OM_TV.png" group-title="Devotional",OM TV
 https://mumt01.tangotv.in/OMTV/index.m3u8
+#EXTINF:-1 vg-id="401" tvg-name="VezhamugamTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777284662_New%20Ai%20Logp%20copy.png" tvg-region="Madurai" group-title="Devotional",Vezhamugam TV
+http://live.mintv.in/vezhamugam/live/playlist.m3u8
 #EXTINF:-1 vg-id="401"tvg-name="Sai TV" tvg-logo="https://i.imgur.com/3e0tsrx.png" group-title="Devotional",Sai TV
 https://account30.livebox.co.in/saitvhls/live.m3u8
 #EXTINF:-1 tvg-id="402" tvg-name="Britain Tamil Bakthi" tvg-logo="https://i.ibb.co/5XHS38QS/1000161604.png" group-title="Devotional",Britain Tamil Bakthi
