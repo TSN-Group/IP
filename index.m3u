@@ -11,29 +11,30 @@ https://app.ashokadigital.net/app/ed8bd4a7/index.m3u8
 rtmp://stream.advikadigital.in/advika/ssmusic
 #EXTINF:-1 tvg-id="1" tvg-name="saravana" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="Local HD",saravana
 rtmp://stream.advikadigital.in/advika/saravana
-#EXTINF:-1 tvg-id="1" tvg-name="BoobshTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1743337212_1000035047-removebg-preview.png" tvg-region="Kanyakumari" group-title="Local HD",Boobsh TV
-https://live.applelive.in/boobsh/boobsh/index.m3u8
-
+#EXTINF:-1 tvg-id="1" tvg-name="Idhayamtv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1743337212_1000035047-removebg-preview.png" tvg-region="Kanyakumari" group-title="Local HD",Idhayam TV
+http://sanplayout.xyz/live2/idhayamtv/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Golden" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="Local HD",Golden TV
+http://sanplayout.xyz/live2/goldentv/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="IdhayamKids" tvg-logo="https://i.ibb.co/QFbnSHjD/30050.png" tvg-region="Madurai" group-title="Local HD",Idhayam Kids
+http://sanplayout.xyz/live2/idhayamkidz/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="YETMusic" tvg-logo="https://i.ibb.co/N6fQyQd4/30008.png" tvg-region="Unknown" group-title="Local HD",YET Music
+https://sstudiostv.stream.onecloudlive.in/sstudiostv/yettv2/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="DevaTV2" tvg-logo="https://play-lh.googleusercontent.com/_nNyjIXaIYE-6wFUc6wxa2tAnzDA0WwThiocgODyIySkog9_5ukAMlrSFCVFTJpipqiL8vq48IGYdPsvePj_940" tvg-region="Local HD" group-title="Local HD",Deva TV
 http://devatv.sscloud7.in/live/devatv/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="RidsysTV" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="Local HD",Ridsys TV
-http://ptuf.ridsys.in/riptv/live/RIDSYS_HD/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="AJKTV" tvg-logo="https://i.ibb.co/WNzjYdHZ/30048.png" tvg-region="Unknown" group-title="Local HD",AJK Tv
-http://ptuf.ridsys.in/riptv/live/AJK_TV/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="AJKMovie" tvg-logo="https://i.ibb.co/QFbnSHjD/30050.png" tvg-region="Unknown" group-title="Local HD",AJK Movie
-http://ptuf.ridsys.in/riptv/live/AJK_MOVIE_HD/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="SarahMovie" tvg-logo="" tvg-region="Puducherry" group-title="Local HD",Sarah Movie
-http://ajkiptv.ridsys.in/riptv/live/SARAH_MOVIES/index.m3u8
-#EXTINF:-1  tvg-id="1" tvg-name="TianaaMusic" tvg-logo="" tvg-region="Puducherry" group-title="Local HD",Tianaa Music
-http://ajkiptv.ridsys.in/riptv/live/TIANAA_MUSIC_HD/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Pothigai Prime" tvg-logo="https://i.ibb.co/WNzjYdHZ/30048.png" tvg-region="Unknown" group-title="Local HD",Pothigai Prime
+https://view.apserver.in/tmp_hls6/pothigaiprime/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="BW TV" tvg-logo="https://i.ibb.co/QFbnSHjD/30050.png" tvg-region="Unknown" group-title="Local HD",BW TV
+https://view.rcserver.in/tmp_hls35/bwtv/index.m3u8?token=YW1hemV5
+#EXTINF:-1 tvg-id="1" tvg-name="DMTV" tvg-logo="" tvg-region="Puducherry" group-title="Local HD",DM TV
+https://view.rcserver.in/tmp_hls34/dmtv/index.m3u8?token=YW1hemV5
+#EXTINF:-1  tvg-id="1" tvg-name="DTV" tvg-logo="" tvg-region="Puducherry" group-title="Local HD",D TV
+https://view.rcserver.in/tmp_hls33/dtv/index.m3u8?token=YW1hemV5
 #EXTINF:-1 tvg-id="1" tvg-name="SMedia2" tvg-logo="https://i.ibb.co/5Xv68ypB/29996.png" tvg-region="Unknown" group-title="Local HD",S Media
 http://ptuf.ridsys.in/riptv/live/S_MEDIA/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="LathaSmileTV" tvg-logo="https://i.ibb.co/N6fQyQd4/30008.png" tvg-region="Unknown" group-title="Local HD",Latha Smile TV
-http://ptuf.ridsys.in/riptv/live/LATHA_SMILE_HD/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="JVRMediaLiveNews" tvg-logo="https://i.ibb.co/N6fQyQd4/30008.png" tvg-region="Unknown" group-title="Local HD",JVR Media Live News
-http://ptu.ridsys.in/riptv/live/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="AJKKids" tvg-logo="https://i.ibb.co/QFbnSHjD/30050.png" tvg-region="Madurai" group-title="Local HD",AJK Kids
-http://ajkiptv.ridsys.in/riptv/live/AJK_KIDS_HD/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="BanyanTV" tvg-logo="https://i.ibb.co/N6fQyQd4/30008.png" tvg-region="Unknown" group-title="Local HD",Banyan TV
+https://view.rcserver.in/tmp_hls32/banyantv/index.m3u8?token=YW1hemV5
+
+
 
 
 #EXTINF:-1 tvg-id="2" tvg-name=SANA TV HD" tvg-logo= "https://tataprime.files.wordpress.com/2024/03/20240301_0056252540586574154652196.png" tvg-chno="2" group-title="Local HD", SANA TV HD
