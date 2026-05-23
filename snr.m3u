@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="SNR TV" group-title="SNR Groups", SNR TV
+#EXTINF:-1 tvg-id="1" tvg-name="SNR TV" tvg-logo="https://i.ibb.co/N25vZ9yM/SNR-TV.png" group-title="SNR Groups", SNR TV
 http://198.144.149.206:8080/NOTV/ASOSACHENNAI/tracks-v1a1/mono.m3u8?token=GTR
 
-#EXTINF:-1 tvg-id="2" tvg-name="Chither TV" group-title="SNR Groups", Chither TV
+#EXTINF:-1 tvg-id="2" tvg-name="Chither TV" tvg-logo="https://i.ibb.co/9HLHx70N/chither.png" group-title="SNR Groups", Chither TV
 http://198.144.149.206:8080/DINESH/PT2/index.m3u8?token=YAAL
 
-#EXTINF:-1 tvg-id="3" tvg-name="Chither TV" group-title="SNR Groups", Chither Music
-http://198.144.149.206:8080/DINESH/PT2/index.m3u8?token=YAAL
+#EXTINF:-1 tvg-id=31" tvg-name="ChitherMusic" tvg-logo="https://i.ibb.co/CprjkByr/Gemini-Generated-Image-z8g34uz8g34uz8g3.png" group-title="Local HD", Chither Isai
+http://198.144.149.206:8080/DINESH/PT/index.m3u8?token=YAAL
