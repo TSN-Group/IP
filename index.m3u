@@ -1,10 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="ChitherMusic" group-title="Local HD", Chither Isai
+http://198.144.149.206:8080/DINESH/PT/index.m3u8?token=YAAL
 #EXTINF:-1 tvg-id="1" tvg-name="MONTAMIL_CINEMA" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="Local HD",Analai Express Cinema 
 http://198.144.149.206:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="1" tvg-name="srivelavantv" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="Local HD",srivelavantv
 rtmp://rtmp.applelive.in:1935/srivelavantv/srivelavantv4k
 #EXTINF:-1 tvg-id="1" tvg-name="nila" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="Local HD",Nila
 rtmp://rtmp.applelive.in:1935/velavantv/srivelavantvultrahd
+#EXTINF:-1 tvg-id="1" tvg-name="SNR TV" group-title="Local HD", SNR TV
+http://198.144.149.206:8080/NOTV/ASOSACHENNAI/tracks-v1a1/mono.m3u8?token=GTR
+#EXTINF:-1 tvg-id="1" tvg-name="Chither TV" group-title="Local HD", Chither TV
+http://198.144.149.206:8080/DINESH/PT2/index.m3u8?token=YAAL
 #EXTINF:-1 tvg-id="1" tvg-name="7 STAR SALEM" tvg-logo= "https://tataprime.files.wordpress.com/2024/02/20240223_0026202554836848690543423.png" tvg-chno="1" group-title="Local HD", 7 STAR SALEM
 https://app.ashokadigital.net/app/ed8bd4a7/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="ssmovie" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="Local HD",SS Movie
@@ -49,8 +55,7 @@ https://live.primestream.in/prime/music/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="SANA PLUS HD" tvg-logo= "https://tataprime.files.wordpress.com/2024/03/20240307_1432431031355866089872027.png" group-title="Local - Music", SANA PLUS HD
 https://galaxyott.live/hls/sanaplus.m3u8
 
-#EXTINF:-1 tvg-id="5" tvg-name="TSN Hollywood Tamil" group-title="Tamil - Hollywood", TSN Hollywood Tamil
-http://198.144.149.206:8080/DINESH/PT/index.m3u8?token=YAAL
+
 
 #EXTINF:-1 tvg-id="6" tvg-name="RASI HOLLYWOOD" tvg-logo="https://i.ibb.co/mF9XV2nG/rasihollywood.jpg" group-title="Tamil - Hollywood"", RASI HOLLYWOOD
 rtmp://rasinetworks.in:1935/live/rasihollywoodhd
@@ -87,11 +92,7 @@ rtmp://rasinetworks.in:1935/live/rasicomedyhd
 #EXTINF:-1 tvg-id="908" tvg-name="RASI LIFY STYLE" tvg-logo="https://i.ibb.co/FkPwykW7/1000118463.jpg" group-title="Local- RASI", RASI LIFY STYLE
 rtmp://rasinetworks.in:1935/live/rasilifestylehd
 
-#EXTINF:-1 tvg-id="9" tvg-name="SNR TV" group-title="Local - Movies", SNR TV
-http://198.144.149.206:8080/NOTV/ASOSACHENNAI/tracks-v1a1/mono.m3u8?token=GTR
 
-#EXTINF:-1 tvg-id="9" tvg-name="Chither TV" group-title="Local - Movies", Chither TV
-http://198.144.149.206:8080/DINESH/PT2/index.m3u8?token=YAAL
 
 #EXTINF:-1 tvg-id="10" tvg-name="SURYA HD" group-title="Local HD", SURYA HD
 rtmp://live.sscloud7.in/live/suryatv
