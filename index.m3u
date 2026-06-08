@@ -13,10 +13,17 @@ http://198.144.149.206:8080/NOTV/ASOSACHENNAI/tracks-v1a1/mono.m3u8?token=GTR
 http://198.144.149.206:8080/DINESH/PT2/index.m3u8?token=YAAL
 #EXTINF:-1 tvg-id="1" tvg-name="7 STAR SALEM" tvg-logo= "https://tataprime.files.wordpress.com/2024/02/20240223_0026202554836848690543423.png" tvg-chno="1" group-title="Local HD", 7 STAR SALEM
 https://app.ashokadigital.net/app/ed8bd4a7/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="BoobshTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1743337212_1000035047-removebg-preview.png" tvg-region="Kanyakumari" group-title="Local HD",Boobsh TV
+https://live.applelive.in/boobsh/boobsh/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CholaTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1779616206_chala%20tv.png" tvg-region="Unknown" group-title="Local HD",Chola TV
+https://hlsstream.olidigital.in/cholatv/cholatv/index.m3u8?token=dHVsbml0X3N0ZWFsc19zaGl0
+
 #EXTINF:-1 tvg-id="1" tvg-name="ssmovie" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="Local HD",SS Movie
 rtmp://stream.advikadigital.in/advika/ssmusic
 #EXTINF:-1 tvg-id="1" tvg-name="saravana" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="Local HD",saravana
 rtmp://stream.advikadigital.in/advika/saravana
+#EXTINF:-1 tvg-id="1" tvg-name="ThiraiTamilTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/ThiraiTamil.png" tvg-region="Unknown" group-title="Local HD",Thirai Tamil TV
+https://tn.streamezy.in/hls/tthirai/live.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="Idhayamtv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1743337212_1000035047-removebg-preview.png" tvg-region="Kanyakumari" group-title="Local HD",Idhayam TV
 http://sanplayout.xyz/live2/idhayamtv/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="Golden" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="Local HD",Golden TV
@@ -25,10 +32,20 @@ http://sanplayout.xyz/live2/goldentv/index.m3u8
 http://sanplayout.xyz/live2/idhayamkidz/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="YETMusic" tvg-logo="https://i.ibb.co/N6fQyQd4/30008.png" tvg-region="Unknown" group-title="Local HD",YET Music
 https://sstudiostv.stream.onecloudlive.in/sstudiostv/yettv2/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="DevaTV2" tvg-logo="https://play-lh.googleusercontent.com/_nNyjIXaIYE-6wFUc6wxa2tAnzDA0WwThiocgODyIySkog9_5ukAMlrSFCVFTJpipqiL8vq48IGYdPsvePj_940" tvg-region="Local HD" group-title="Local HD",Deva TV
-http://devatv.sscloud7.in/live/devatv/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Pothigai Prime" tvg-logo="https://i.ibb.co/WNzjYdHZ/30048.png" tvg-region="Unknown" group-title="Local HD",Pothigai Prime
-https://view.apserver.in/tmp_hls6/pothigaiprime/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CityTVPondy" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/CityTVPondy.png" tvg-region="Chennai;Puducherry" group-title="Local HD",City TV Puducherry [RTMP]
+rtmp://103.136.136.77:1935/citytv/citytv?psk=123456
+
+#EXTINF:-1 tvg-id="1" tvg-name="KLTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/KLTV.png" tvg-region="Karaikal;Puducherry" group-title="Local HD",KL TV [RTMP]
+rtmp://103.136.136.77:1935/kl4k/kl4k?psk=123456
+
+#EXTINF:-1 tvg-id="1" tvg-name="JSPTV" tvg-logo="" tvg-region="Puducherry" group-title="Local HD",JSP TV [RTMP]
+rtmp://103.136.136.77:1935/jsp4k/jsp4k?psk=123456
+#EXTINF:-1 tvg-id="1" tvg-name="VTamil" tvg-logo="https://play-lh.googleusercontent.com/_nNyjIXaIYE-6wFUc6wxa2tAnzDA0WwThiocgODyIySkog9_5ukAMlrSFCVFTJpipqiL8vq48IGYdPsvePj_940" tvg-region="Local HD" group-title="Local HD",VTamil
+https://hlsstream.olidigital.in/vtv/vtv/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="SilverSatMedia" tvg-logo="https://i.ibb.co/WNzjYdHZ/30048.png" tvg-region="Unknown" group-title="Local HD",Silver Sat Media
+http://sanplayout.xyz/live2/silversatmedia/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="ThamilaaramTV" tvg-logo="https://yt3.googleusercontent.com/xoblRD-Y1PH8KnL-8_Hjct2V91lwImL6suinvqGo9if7TxSGDfWScX0oXNRM0HTncFcVGeZEug" tvg-region="Canada" group-title="Local HD",Thamilaaram TV
+https://thamilaaramtv24-hls.secdn.net/thamilaaramtv24-channel/play/ThamilaaramTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="BW TV" tvg-logo="https://i.ibb.co/QFbnSHjD/30050.png" tvg-region="Unknown" group-title="Local HD",BW TV
 https://view.rcserver.in/tmp_hls35/bwtv/index.m3u8?token=YW1hemV5
 #EXTINF:-1 tvg-id="1" tvg-name="DMTV" tvg-logo="" tvg-region="Puducherry" group-title="Local HD",DM TV
@@ -37,15 +54,16 @@ https://view.rcserver.in/tmp_hls34/dmtv/index.m3u8?token=YW1hemV5
 https://view.rcserver.in/tmp_hls33/dtv/index.m3u8?token=YW1hemV5
 #EXTINF:-1 tvg-id="1" tvg-name="SMedia2" tvg-logo="https://i.ibb.co/5Xv68ypB/29996.png" tvg-region="Unknown" group-title="Local HD",S Media
 http://ptuf.ridsys.in/riptv/live/S_MEDIA/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="BanyanTV" tvg-logo="https://i.ibb.co/N6fQyQd4/30008.png" tvg-region="Unknown" group-title="Local HD",Banyan TV
-https://view.rcserver.in/tmp_hls32/banyantv/index.m3u8?token=YW1hemV5
+#EXTINF:-1 tvg-id="1" tvg-name="ACF TV" tvg-logo="https://i.ibb.co/N6fQyQd4/30008.png" tvg-region="Unknown" group-title="Local HD",ACF TV
+https://view.rcserver.in/tmp_hls27/acftv/index.m3u8
 
 
 
 
 #EXTINF:-1 tvg-id="2" tvg-name=SANA TV HD" tvg-logo= "https://tataprime.files.wordpress.com/2024/03/20240301_0056252540586574154652196.png" tvg-chno="2" group-title="Local HD", SANA TV HD
 https://galaxyott.live/hls/sanatv.m3u8
-
+#EXTINF:-1 tvg-id="2" tvg-name="LuckyTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/LuckyTV.png" tvg-region="Sayalkudi;Ramanathapuram" group-title="Local HD",Lucky TV
+http://luckytv.stream.onecloudlive.in/luckytv/luckytvhd/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="Tuneful MUSIC" group-title="Local - Music", Tuneful MUSIC
 https://mediacp.hiredhosting.com/hls/hwnzhmjhym/hwnzhmjhym.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="analaimusic" group-title="Local - Music", Analai MUSIC
@@ -1059,7 +1077,7 @@ http://live.mintv.in/vezhamugam/live/playlist.m3u8
 #EXTINF:-1 vg-id="401"tvg-name="Sai TV" tvg-logo="https://i.imgur.com/3e0tsrx.png" group-title="Devotional",Sai TV
 https://account30.livebox.co.in/saitvhls/live.m3u8
 #EXTINF:-1 tvg-id="402" tvg-name="Britain Tamil Bakthi" tvg-logo="https://i.ibb.co/5XHS38QS/1000161604.png" group-title="Devotional",Britain Tamil Bakthi
-https://stream.onecloudlive.in/britaintamil/britaintamil/index.m3u8
+http://btc.inet.moe/live/btctv/index.m3u8
 #EXTINF:-1 tvg-id="403" tvg-name="Alaya Magimai" tvg-logo="https://i.ibb.co/Z1N0YSSB/1000150790.png" group-title="Devotional",Alaya Magimai
 https://app.ashokadigital.net/aalayamagimaitv/aalayamagimaitv/index.m3u8
 #EXTINF:-1 tvg-id="404" tvg-name="BakthiTamil" tvg-logo="https://bmcloud.in/apis/apps/bmcloudimages/bakthi%20tamil.png" tvg-region="Unknown" group-title="Devotional;Hindu",Bakthi Tamil
