@@ -1,6 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="ChitherMusic" group-title="Local HD", Chither Isai
 http://198.144.149.206:8080/DINESH/PT/index.m3u8?token=YAAL
+#EXTINF:-1 tvg-id="1" tvg-name="Tamil cinema" tvg-id="24.7.Dummy.us" group-title="Local HD"" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 1
+https://ksr.indevs.in/m3u/?stream=475474
+
+#EXTINF:-1 tvg-id="1" tvg-name="Tamil cinema" tvg-id="24.7.Dummy.us" group-title="Local HD"" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 2
+https://ksr.indevs.in/m3u/?stream=3609
 #EXTINF:-1 tvg-id="1" tvg-name="MONTAMIL_CINEMA" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="Local HD",Analai Express Cinema 
 http://198.144.149.206:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="1" tvg-name="srivelavantv" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="Local HD",srivelavantv
@@ -1071,7 +1076,7 @@ rtmp://stream.sscloud7.in/live/selvatamiltv
 # TAMIL DEVOTIONAL
 # -----------------------
 #EXTINF:-1 vg-id="401" tvg-name="OM TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/OM_TV.png" group-title="Devotional",OM TV
-https://mumt01.tangotv.in/OMTV/index.m3u8
+https://mumt03.tangotv.in/Dsly5z3HOMTV/index.m3u8
 #EXTINF:-1 vg-id="401" tvg-name="VezhamugamTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777284662_New%20Ai%20Logp%20copy.png" tvg-region="Madurai" group-title="Devotional",Vezhamugam TV
 http://live.mintv.in/vezhamugam/live/playlist.m3u8
 #EXTINF:-1 vg-id="401"tvg-name="Sai TV" tvg-logo="https://i.imgur.com/3e0tsrx.png" group-title="Devotional",Sai TV
@@ -1079,7 +1084,7 @@ https://account30.livebox.co.in/saitvhls/live.m3u8
 #EXTINF:-1 tvg-id="402" tvg-name="Britain Tamil Bakthi" tvg-logo="https://i.ibb.co/5XHS38QS/1000161604.png" group-title="Devotional",Britain Tamil Bakthi
 http://btc.inet.moe/live/btctv/index.m3u8
 #EXTINF:-1 tvg-id="403" tvg-name="Alaya Magimai" tvg-logo="https://i.ibb.co/Z1N0YSSB/1000150790.png" group-title="Devotional",Alaya Magimai
-https://app.ashokadigital.net/aalayamagimaitv/aalayamagimaitv/index.m3u8
+https://stream.ashokadigital.net/aalayamagimaitv/aalayamagimaitv/index.m3u8
 #EXTINF:-1 tvg-id="404" tvg-name="BakthiTamil" tvg-logo="https://bmcloud.in/apis/apps/bmcloudimages/bakthi%20tamil.png" tvg-region="Unknown" group-title="Devotional;Hindu",Bakthi Tamil
 https://rtmp.bmlive.net/stream/bakthitamil/index.m3u8
 #EXTINF:-1 tvg-id="405" tvg-name="DEEPAM TV" tvg-logo="" group-title="Devotional",DEEPAM TV
