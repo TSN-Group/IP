@@ -1,13 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="ChitherMusic" group-title="Local HD", Chither Isai
+#EXTINF:-1 tvg-id="1" tvg-name="ChitherMusic" tvg-logo="https://i.ibb.co/CprjkByr/Gemini-Generated-Image-z8g34uz8g34uz8g3.png" group-title="Local HD", Chither Isai
 http://198.144.149.206:8080/DINESH/PT/index.m3u8?token=YAAL
-#EXTINF:-1 tvg-id="1" tvg-name="Tamil cinema" tvg-id="24.7.Dummy.us" group-title="Local HD"" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 1
+#EXTINF:-1 tvg-id="1" tvg-name="Tamil cinema" tvg-id="24.7.Dummy.us" group-title="Local HD" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 1
 https://ksr.indevs.in/m3u/?stream=475474
 
-#EXTINF:-1 tvg-id="1" tvg-name="Tamil cinema" tvg-id="24.7.Dummy.us" group-title="Local HD"" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 2
+#EXTINF:-1 tvg-id="1" tvg-name="Tamil cinema" tvg-id="24.7.Dummy.us" group-title="Local HD" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 2
 https://ksr.indevs.in/m3u/?stream=3609
 #EXTINF:-1 tvg-id="1" tvg-name="MONTAMIL_CINEMA" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="Local HD",Analai Express Cinema 
 http://198.144.149.206:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-id="1" tvg-name="Euro Tamil" tvg-logo="https://i.ibb.co/xSgwy63x/Eurotamil-logo-V3.png" tvg-region="Unknown" group-title="Local HD",Euro Tamil
+http://198.144.149.206:8080/DINESH/EURO/index.m3u8?token=YAAL
+#EXTINF:-1 tvg-id="1" tvg-name="Ithal" tvg-logo="https://i.ibb.co/dwttd377/ITHAL-LOGO-02-1.png" tvg-region="Unknown" group-title="Local HD",Ithal 
+http://148.113.170.17:8091/ithal/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="ME24 Tamil" tvg-logo="https://i.ibb.co/xSgwy63x/Eurotamil-logo-V3.png" tvg-region="Unknown" group-title="Local HD",ME24 Tamil 
+https://stream.onecloudlive.in/orange/ME24TAMIL/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="NRJ" tvg-logo="https://i.ibb.co/rRGbbWJd/1-copy.png" tvg-region="Unknown" group-title="Local HD",NRJ 
+http://198.144.149.206:8080/DINESH/NRJTV/index.m3u8?token=YAAL
+#EXTINF:-1 tvg-id="1" tvg-name="PJ" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="Local HD",PJ
+http://198.144.149.206:8080/DINESH/PJTV/index.m3u8?token=YAAL
+#EXTINF:-1 tvg-id="1" tvg-name="EyeTV" tvg-logo="https://i.ibb.co/60gWgPP3/eye.png" tvg-region="Unknown" group-title="Local HD",EyeTV 
+http://198.144.149.196:8080/EyeMedia/EyeTV/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Eye Music" tvg-logo="https://i.ibb.co/nqp6JC71/eye-music.png" tvg-region="Unknown" group-title="Local HD",Eye Music 
+http://198.144.149.196:8080/EyeMedia/music/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Eye Comedy" tvg-logo="https://i.ibb.co/KxLRTs3D/eye-comedy.png" tvg-region="Unknown" group-title="Local HD",Eye Comedy 
+http://198.144.149.196:8080/EyeMedia/comedy/index.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="srivelavantv" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="Local HD",srivelavantv
 rtmp://rtmp.applelive.in:1935/srivelavantv/srivelavantv4k
 #EXTINF:-1 tvg-id="1" tvg-name="nila" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="Local HD",Nila
